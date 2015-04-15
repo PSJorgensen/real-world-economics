@@ -1,15 +1,23 @@
 ---
-author: "Peter Sogaard Jorgensen"
-bibliography: PostDocKVA.bib
+title: "Finance and sustainability crash course - session 2"
+date: "Wednesday, April 01, 2015"
+bibliography: PostDocKVA2.bib
 output:
   html_document:
+    toc: true
+    toc_depth: 4
+    number_sections: true
     theme: default
-  pdf_document: default
-  word_document: default
----
----
+  word_document:
+    reference_docx: template.docx
+  md_document:
+    toc: true
+    toc_depth: 4
+    dev: png
+  pdf_document:
+    latex_engine: xelatex
 layout: post
-category: finance-sustainability
+category: [real-world-economics, finance-sustainability]
 tagline: "crash-course"
 tags: [finance, sustainability, crash course]
 ---

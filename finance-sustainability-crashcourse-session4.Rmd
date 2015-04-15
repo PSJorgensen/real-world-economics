@@ -1,6 +1,5 @@
 ---
 title: "Finance and sustainability crash course - session 4"
-author: "Peter Søgaard Jørgensen"
 date: "Wednesday, April 15, 2015"
 bibliography: PostDocKVA2.bib
 output:
@@ -18,9 +17,9 @@ output:
   pdf_document:
     latex_engine: xelatex
 layout: post
-category: real-world-economics
-tagline: "Outlining an ms"
-tags: [outline, real world economics, economics, sustainability, sustainability science]
+category: [real-world-economics, finance-sustainability]
+tagline: "crash-course"
+tags: [finance, sustainability, crash course]
 ---
 {% include JB/setup %}
 
@@ -108,5 +107,5 @@ Social benefits vs. economic benefits
 
 # REFERENCES
 
-
+The following literature was cited
 

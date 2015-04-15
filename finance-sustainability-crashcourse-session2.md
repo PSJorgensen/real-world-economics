@@ -1,0 +1,272 @@
+-   Speaker
+-   Ecosystem change: Financial risk & opportunity
+    -   Drivers of change in corporate behavior
+    -   Financial services sector
+        -   Institutional investors
+        -   Private investors
+    -   <br><br>
+        -   Banking
+        -   Bond market
+    -   <br><br>
+        -   Financial accounts
+    -   <br><br>
+    -   RESOURCES
+    -   <br><br>
+    -   CONCLUSION
+        -   How can FIs contribute
+    -   <br><br>
+    -   DISUCSSION
+    -   <br><br>
+        -   References
+
+{% include JB/setup %}
+
+### Speaker
+
+Founder of GAIA values - appreiating nature's assets
+
+Has been managing - "natural value initiative"
+
+Collaborating with "Fauna & flora" in Cambridge
+
+------------------------------------------------------------------------
+
+"Sustainabile seafood finance" tool - introduction video
+
+------------------------------------------------------------------------
+
+*FI: financial institutitions*
+
+Ecosystem change: Financial risk & opportunity
+==============================================
+
+Drivers of change in corporate behavior
+---------------------------------------
+
+**Environmental change:**
+
+*The Texas drought* caused GAP to cut its profit forecasts by 22%
+
+Increasing raw material prices for cotton made *H&M* change its cotton
+source (??? correct note ???)
+
+Markets for compensation - biodiversity off-setting (*The Biodiversity
+Consultancy*)
+
+*Clean Waer Act* - requires wetland mitigation - total market value on
+the order of billions of US dollars
+
+*Unilever* certified tea - increased sales w/ 12 %
+
+\*Alfa Laval\*\* - "new technology beefs up share price"
+
+Paper with KPMG "Identifying natural capital risk and maternality"
+directed at CFOs
+
+------------------------------------------------------------------------
+
+Financial services sector
+-------------------------
+
+<br><br>
+
+### Institutional investors
+
+-   Are emerging economies safe? -- case of HSBC report reporting on
+    stress on China's natural capital and implications for growth
+    scenarios
+
+-   **Universal owners** - very big institutional investors - national
+    banks, national pension funds etc. etc.
+
+-   How can *universal owners respond* - universal owners have interest
+    in whole system rather than short-term performance of individual
+    market actors. (Achim Steiner, UNEP Executive Director)
+
+    -   Universal owners should avoid systemic risk.
+-   Climate risk
+
+-   Water risk
+
+    -   Rio Tinto, Ceres database - "A framework for 21st century water
+        risk management"
+    -   Water database
+    -   
+
+-   PRI - Principles for Responsible Investment (45 trillion signed up
+    to principles)
+    -   2011 Engagement with retailers around sustainable seafod
+    -   2013 Engagement with retailers around palm oil production
+-   Should I stay or should I go
+    -   Divestment
+    -   Etichal councial
+    -   In 2013 Swedish AP funds divest (sell) FREEPORT MCMORAN COPPER &
+        GOLD stocks based on implication in serious environmental damage
+        in contravention of the UN CBD.
+-   New products and services
+    -   dNb gLOBAL håLLBAR
+    -   Sumitomo Trust BankK - Biodiversity SRI funds
+-   Regulatory driver
+
+Lack of reporting standards pose a significant barrier to gerater
+incorporation of natural capital - call for sector based reporting
+standards
+
+<br><br>
+
+------------------------------------------------------------------------
+
+### Private investors
+
+-   *Consumer awareness tools* may be a facilitating driver of change
+
+-   *Venture capitalists*
+    -   Carl Harl - environmental capitalists
+    -   Sustainable Technologies Fund
+    -   
+
+-   *Impact investment*
+    -   Investment to try and have a positive impact
+    -   Often local initiatives
+    -   *Oryx ipact investments* as an example
+
+<br><br>
+--------
+
+### Banking
+
+-   *Corportate finance sector policies*
+    -   Lending money for investors
+    -   *Case* Deutsche Bank was helping China Tuna with an IPO to raise
+        USD 150 mil
+    -   The IPO was based on
+        -   incorrect info to investors
+        -   ecosystem limits disregarded
+    -   IPO was suspended
+
+    -   Discussion - how did they get the data?
+
+-   *Eco-friendly loans*
+
+-   *Project finance criteria*
+
+    -   International Finance Corporation (privae sector arm of World
+        Bank Group)
+
+    -   As of 2012 IFc requires projects to maintain ecosystem services
+        benefits and to identify those services that the project is
+        directly dependent upon.
+    -   78 banks with 70% of global project finance to emerging markets
+        follow the IFC pPerformance Standards
+
+    -   Clashes of interest between - shareholder interests
+        (short-term) - company (longer-term) - lenders such as banks
+        (???)
+
+    -   Natural capital as last step consideration *versus* natural
+        capital as a strategic driver
+
+    -   Also clashes in interests between short-term and longer-term
+        investors
+
+-   *Insurance*
+
+    -   Climate change may results in higher home issurances
+
+<br><br>
+
+------------------------------------------------------------------------
+
+### Bond market
+
+-   GREEN BONDS - Mr Green Bond @ SEB
+
+    -   In 2013 the total cumulative issurance rose to 19 bill USD
+
+    -   In 2014 SEB issed green bonds at a total value of 3.8 bill USD
+
+    -   Case ørebro municipality, stockholm län, gothenburg city
+
+    -   The green bond market has not increased the size of the
+        environmental projects
+        -   Instead, the green bond market bundles together all the
+            green projects inorder to diversify the portfolio of lenders
+    -   Key features
+        -   Transparency
+        -   Reporting
+        -   Third party verification
+    -   Question
+        -   Additionality?
+    -   Green bonds also usually has a slightly lower interest rate
+
+-   Government bonds implicated
+
+    -   E-risk report by the Global Footprint Network
+
+    -   Ecological footprint balance affects import-export balance and
+        the abiility to generate income to pay interests
+
+-   Financing direct positive impact
+
+<br><br>
+--------
+
+### Financial accounts
+
+-   Valuing negative (and positive) externalities - shadow pricing - to
+    ultimately incorporate in business balance sheets.
+-   Case example - PUMA
+
+<br><br>
+--------
+
+------------------------------------------------------------------------
+
+RESOURCES
+---------
+
+-   **Natural capital declaration**
+
+-   40+ financial institutions collaborate to - increase awareness -
+    develop methodologies - build consensus for private sector
+    accounting and integrated reporting
+
+-   **Corporate assessments**
+
+    -   Natural capital coalition
+-   **Corportate reportting & disclosure**
+
+<br><br>
+--------
+
+------------------------------------------------------------------------
+
+CONCLUSION
+----------
+
+### How can FIs contribute
+
+-   A long list (get slide)
+
+<br><br>
+--------
+
+------------------------------------------------------------------------
+
+DISUCSSION
+----------
+
+-   Identifying iniatives of new paradigm and old paradigm
+    -   Initiatives of new paradigm often start at small scale (e.g.
+        investing for impact)
+    -   When they try to scale up, maybe they get incorporated in old
+        paradigm
+
+<br><br>
+--------
+
+------------------------------------------------------------------------
+
+### References
+
+None
