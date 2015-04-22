@@ -1,10 +1,43 @@
 -   INTRO
+    -   Importance of economic dynamics for the earth system and global
+        sustainability
+    -   A brief history of sustainability science - what concepts has
+        been important for SS
+    -   History of economics and sustainability science - what generally
+        characterizes the research questions that have been taken up?
+    -   History of economic and sustainability science - what generally
+        characterizes some of the research questions that hasn't been
+        taken up?
+    -   Recent history of decreasing diveristy of economics and
+        relations to other disciplines in terms of sustainability
+        related questions
+    -   Summarizing intro and outlining content and purpose of the main
+        body of the paper - EXAMINE BRIGHT SPOTS AND BLIND SPOTS\*\*
 -   RECENT ADVANCES
+    -   Two advances in integrating the earth system in economic
+        accounting
+        -   Greener economic accounting for natural capital
+        -   Accounting for the complex teleconnections embodied by trade
+            in the global economy
+        -   Socio-economic inequality and health and environmental
+            quality
 -   AREAS THAT NEED ATTENTION
+    -   Finance in politics, financial players an dynamcis
+        -   Role of finance in preventing democracy and implications
+            sustainable transitions
+        -   Impact of major financial corporations on global
+            sustainability (key players)
+        -   Financial market dynamics and impact on global
+            sustainability
+    -   International financial transactions and flows
+        -   Social and enviromental impact of financial transactions
+        -   Social and enviornmental impact of illicit financial
+            transactions
+    -   Financial innovation for sustainabiltiy
+        -   Innovation of investments for sustainability
 -   FUTURE PERSPECTIVES AND CONCLUSION
 -   Supporting notes
     -   Notes on integration
-    -   Paper notes
     -   ***Older snippets***
         -   INTRO
         -   Main body
@@ -16,214 +49,219 @@
 
 {% include JB/setup %}
 
+<br><br>
+
 ------------------------------------------------------------------------
+
+<br><br>
 
 INTRO
 =====
 
--   **Importance of economic dynamics for the earth system and global
-    sustainability**
+#### Importance of economic dynamics for the earth system and global sustainability
 
-    -   Human economic activitiy has a deciding role for the future of
-        our planet. Yet some may argue that economics out of the three
-        pillars of sustainability development - the social, the economic
-        and the environmental - is the pillar least integrated in
-        current approach to sustainability science.
+-   Human economic activitiy has a deciding role for the future of our
+    planet. Yet some may argue that economics out of the three pillars
+    of sustainability development - the social, the economic and the
+    environmental - is the pillar least integrated in current approach
+    to sustainability science.
 
-    -   The human economy is a driving factor of biodiversity loss and
-        climate change. At the same time, global economic inequalities
-        themselves can be viewed as one of the greatet barriers for
-        addressing global environmental and socio-economic challenges.
+-   The human economy is a driving factor of biodiversity loss and
+    climate change. At the same time, global economic inequalities
+    themselves can be viewed as one of the greatet barriers for
+    addressing global environmental and socio-economic challenges.
 
-    -   At the same time Growth in human population and the economy are
-        two trends that epitomizes the current environmental challenges
-        of biodiversity loss and climate change and improvementes in
-        living standards in many countries that have undergone economic
-        growth in the 20th and 21st century. Associated with these
-        trends is the dilemmas of global equity on a finite planet,
-        including the question of whether countries with large economic
-        prosperity need to consume less to allow the developing
-        countries to achieve similar living standards.
+-   At the same time Growth in human population and the economy are two
+    trends that epitomizes the current environmental challenges of
+    biodiversity loss and climate change and improvementes in living
+    standards in many countries that have undergone economic growth in
+    the 20th and 21st century. Associated with these trends is the
+    dilemmas of global equity on a finite planet, including the question
+    of whether countries with large economic prosperity need to consume
+    less to allow the developing countries to achieve similar living
+    standards.
 
-    -   In this context, understanding how the economy is linksed to the
-        environment and to social aspects of society is of foundational
-        importance for the science of global sustainability.
+-   In this context, understanding how the economy is linksed to the
+    environment and to social aspects of society is of foundational
+    importance for the science of global sustainability.
 
-    -   It is therefore concerning that scientific fields of the three
-        pillars of sustainability are still only connected to a very
-        limited extent. In particular, the field of economics and
-        finance remains the pillar most poorly addressed by
-        sustainability science [**REF**]. This is of great concern for
-        the prospects of sustainable development guided by sound advice
-        from the scientific community.
+-   It is therefore concerning that scientific fields of the three
+    pillars of sustainability are still only connected to a very limited
+    extent. In particular, the field of economics and finance remains
+    the pillar most poorly addressed by sustainability science
+    [**REF**]. This is of great concern for the prospects of sustainable
+    development guided by sound advice from the scientific community.
 
-    -   To address the need to integrate economics and finance better
-        with sustainability science, in this Sustainability Science
-        perspective we highlight two areas of importance:
+-   To address the need to integrate economics and finance better with
+    sustainability science, in this Sustainability Science perspective
+    we highlight two areas of importance:
 
-        1.  recent advances in integrating economics into
-            sustainability-oriented sciences.
-        2.  major gaps for integrating economic into
-            sustainability-oriented sciences.
+    1.  recent advances in integrating economics into
+        sustainability-oriented sciences.
 
-<br><br>
-
--   **A brief history of sustainability science - what concepts has been
-    important for SS**
-
-    -   Sustainability science emerged as a unified discipline in the
-        beginning of the 21st century (L. M. A. Bettencourt and Kaur
-        2011). Before and after its unification, contributions to
-        sustainability science has mainly come from three broad fields,
-        the social sciences, engineering and the biological sciences (L.
-        M. A. Bettencourt and Kaur 2011).
-
-    -   Contributions from these fields have mainly come from a small
-        number of disciplinary clusters. For example, contributions from
-        engineering has mainly come from systems and complex engineering
-        and research. Contributions from the biological sciences have
-        mainly come from the field of ecology with contributions to
-        bidodiversity and ecosystem services. Similarly in the social
-        sciences, contributions have not been evenly distributed across
-        the field.
-
-    -   *Maybe describe more here some of the important concepts of
-        sustainability science - but may be too redundant for the type
-        of article.*
-
-    -   The contribution of the social sciences has remained fairly
-        constant over time, but increased slightly since the unification
-        in 2003 (L. M. A. Bettencourt and Kaur 2011).
-
-        -   *Key papers*
-            -   Future challenges, Charles Perrings PNAS 2007
-                -   "Although both economics and ecology are still full
-                    of examples of disciplinary myopia, the integration
-                    of the disciplines through such ventures has
-                    generated more flexible and adaptive solution to
-                    both the management and the science of common-pool
-                    environmenta resources (12, 13). "
-            -   Evolution of sustainability science
-            -   Beyond panaceas
-            -   Science Magazine, Introduction, Sustainability Science
-                paper, Kates and ...
-            -   William C. Clark and Nancy M. Dickson - Sustainability
-                science: The emerging research program -PNAS 2003
+    2.  major gaps for integrating economic into sustainability-oriented
+        sciences.
 
 <br><br>
 
--   **History of economics and sustainability science - what generally
-    characterizes the research questions that have been taken up?**
+#### A brief history of sustainability science - what concepts has been important for SS
 
-    -   Sustainability science has been succesful in addressing a number
-        of economic issues. These include the interactions between the
-        natural resource base and human income, such as Sub-saharan
-        African exceptionalism in world poverty and the role of deprived
-        natural resources, ethnic diversity, inequality and institutions
-        in keeping many people caught in a "poverty trap" (Kates and
-        Dasgupta 2007). Another area of economics that have been
-        advanced by sustainability science is the operationalization of
-        ecosystem services (or natural capital) valuation (G. C. Daily
-        and Matson 2008), both through national statistical accounting
-        schemes [K.-G. Mäler, Aniyar, and Jansson (2008)}, now mandated
-        by the OECD under the termninology of green accounts, and,
-        through on-the-ground ecosystem service based governance through
-        actions spanning from the community level (Cowling et al. 2008)
-        to the national level (Liu et al. 2008).
+-   Sustainability science emerged as a unified discipline in the
+    beginning of the 21st century (Bettencourt and Kaur 2011). Before
+    and after its unification, contributions to sustainability science
+    has mainly come from three broad fields, the social sciences,
+    engineering and the biological sciences (Bettencourt and Kaur 2011).
 
-    -   The above two examples serve to illustrate that sustainability
-        science' occupation with economics has mainly followed **two**
-        pathways. (1) The role of disparity and central mode of human
-        income and its interactions with the environmental system and
-        the social effects it brings with though complex feedback loops.
-        (2) Valuation of earths natural capital and operationalizing
-        local and national governance schemes of these assets.
+-   Contributions from these fields have mainly come from a small number
+    of disciplinary clusters. For example, contributions from
+    engineering has mainly come from systems and complex engineering and
+    research. Contributions from the biological sciences have mainly
+    come from the field of ecology with contributions to bidodiversity
+    and ecosystem services. Similarly in the social sciences,
+    contributions have not been evenly distributed across the field.
 
-<br><br>
+-   *Maybe describe more here some of the important concepts of
+    sustainability science - but may be too redundant for the type of
+    article.*
 
--   **History of economic and sustainability science - what generally
-    characterizes some of the research questions that hasn't been taken
-    up?**
+-   The contribution of the social sciences has remained fairly constant
+    over time, but increased slightly since the unification in 2003
+    (Bettencourt and Kaur 2011).
 
-    -   Other economics-related research questions have barely been
-        addressed by sustainability science (\*at least when judging by
-        the content published in the xxx number of articles under the
-        sustainability science label in PNAS). Some of the most notable
-        areas of omission appears to be the role of international licit
-        and illicit financial capital flows and trade for sustainable
-        development, and the role of financing and key-financial players
-        in ensuring democractic or other political sustainablity
-        transitions.
-
-    -   Is this because sustainability science is naive to the role of
-        money in decision making?
-        -   We can not rule out this explanation, however sustainability
-            science has dealt with issues of corruption in e.g.
-            developing countries.
-    -   Is this because these branches of research are less well
-        developed in economics and finance?
-        -   Doesn't seem likely since sustainability science has taken
-            on other areas of research that have only recently emerged
-            or been limited to small communities.
+-   *Key papers* \* Future challenges, Charles Perrings PNAS 2007 \*
+    "Although both economics and ecology are still full of examples of
+    disciplinary myopia, the integration of the disciplines through such
+    ventures has generated more flexible and adaptive solution to both
+    the management and the science of common-pool environmenta resources
+    (12, 13). " \* Evolution of sustainability science \* Beyond
+    panaceas \* Science Magazine, Introduction, Sustainability Science
+    paper, Kates and ... \* William C. Clark and Nancy M. Dickson -
+    Sustainability science: The emerging research program -PNAS 2003
 
 <br><br>
 
--   **Recent history of decreasing diveristy of economics and relations
-    to other disciplines in terms of sustainability related questions**
+#### History of economics and sustainability science - what generally characterizes the research questions that have been taken up?
 
-    -   The fields of economics and finance research have changed over
-        time. In particular, recent contributions document how the
-        economical sciences during the 20th century underwent a
-        continuing decrease in the diversity of research questions and
-        methods being used (Colander 2005).
+-   Sustainability science has been succesful in addressing a number of
+    economic issues. These include the interactions between the natural
+    resource base and human income, such as Sub-saharan African
+    exceptionalism in world poverty and the role of deprived natural
+    resources, ethnic diversity, inequality and institutions in keeping
+    many people caught in a "poverty trap" (Kates and Dasgupta 2007).
+    Another area of economics that have been advanced by sustainability
+    science is the operationalization of ecosystem services (or natural
+    capital) valuation (Daily and Matson 2008), both through national
+    statistical accounting schemes [Mäler, Aniyar, and Jansson (2008)},
+    now mandated by the OECD under the termninology of green accounts,
+    and, through on-the-ground ecosystem service based governance
+    through actions spanning from the community level (Cowling et al.
+    2008) to the national level (Liu et al. 2008).
 
-    -   *What about the recent history of finance research? Find some
-        references to document this.*
-
-    -   Recently, and partially fuelled by the financial crises of the
-        21st century. There has been a concerted effort to re-energize
-        the field of economics with a return to a more diverse set of
-        approaches and questions. It remains to be shown, however, if
-        the recent changing dynamics of economics research will also
-        lead to an uptake of sustainability related questions.
-
-    -   In recent decades many of the economical questions most
-        pertinent for global sustainability have been addressed in
-        communities that are only tangentially connected to the core fo
-        economics research and in some cases arguably more closely
-        connected to sustainability science. These include, the
-        investigation of the material foundation and material limits to
-        economic growth (club of rome ref, J. H. Brown et al. 2014; J.
-        R. Burger et al. 2012; Burnside et al. 2012), the valuation of
-        natural capital [Costanza and Daily refs], the global structure
-        of the economy (Lenzen et al. 2012) , the impact of economic
-        activies, such as trade, on the environment and vice versa
-        [natural resources refs],**xxx**, **xxx**, **xxx**.
-
-    -   In the meantime, sustainability science must actively seek to
-        integrate with those communities that address questions of
-        economics and finance most pertinent to global sustainability.
-
-    -   \*Mention somewhere that the economical sciences have gone
-        through a phase of decreasing diversity. A diversity that is now
-        returning following the prolonged financial crises of the United
-        States and Europe. Sustainability science can play an important
-        role in maintaining this diversity by more fully integrating
-        with some of the emerging branches of research.
+-   The above two examples serve to illustrate that sustainability
+    science' occupation with economics has mainly followed **two**
+    pathways. (1) The role of disparity and central mode of human income
+    and its interactions with the environmental system and the social
+    effects it brings with though complex feedback loops. (2) Valuation
+    of earths natural capital and operationalizing local and national
+    governance schemes of these assets.
 
 <br><br>
 
--   **Paragraph - summarizing intro and outlining content and purpose of
-    the main body of the paper - EXAMINE BRIGHT SPOTS AND BLIND SPOTS**
+#### History of economic and sustainability science - what generally characterizes some of the research questions that hasn't been taken up?
+
+-   Other economics-related research questions have barely been
+    addressed by sustainability science (\*at least when judging by the
+    content published in the xxx number of articles under the
+    sustainability science label in PNAS). Some of the most notable
+    areas of omission appears to be the role of international licit and
+    illicit financial capital flows and trade for sustainable
+    development, and the role of financing and key-financial players in
+    ensuring democractic or other political sustainablity transitions.
+
+-   Is this because sustainability science is naive to the role of money
+    in decision making?
+    -   We can not rule out this explanation, however sustainability
+        science has dealt with issues of corruption in e.g. developing
+        countries.
+-   Is this because these branches of research are less well developed
+    in economics and finance?
+    -   Doesn't seem likely since sustainability science has taken on
+        other areas of research that have only recently emerged or been
+        limited to small communities.
+
+<br><br>
+
+#### Recent history of decreasing diveristy of economics and relations to other disciplines in terms of sustainability related questions
+
+-   The fields of economics and finance research have changed over time.
+    In particular, recent contributions document how the economical
+    sciences during the 20th century underwent a continuing decrease in
+    the diversity of research questions and methods being used (Colander
+    2005).
+
+-   *What about the recent history of finance research? Find some
+    references to document this.*
+
+-   Recently, and partially fuelled by the financial crises of the 21st
+    century. There has been a concerted effort to re-energize the field
+    of economics with a return to a more diverse set of approaches and
+    questions. It remains to be shown, however, if the recent changing
+    dynamics of economics research will also lead to an uptake of
+    sustainability related questions.
+
+-   In recent decades many of the economical questions most pertinent
+    for global sustainability have been addressed in communities that
+    are only tangentially connected to the core fo economics research
+    and in some cases arguably more closely connected to sustainability
+    science. These include, the investigation of the material foundation
+    and material limits to economic growth (club of rome ref, Brown et
+    al. 2014; Burger et al. 2012; Burnside et al. 2012), the valuation
+    of natural capital [Costanza and Daily refs], the global structure
+    of the economy (M. Lenzen et al. 2012), the impact of economic
+    activies, such as trade, on the environment and vice versa [natural
+    resources refs],**xxx**, **xxx**, **xxx**.
+
+-   In the meantime, sustainability science must actively seek to
+    integrate with those communities that address questions of economics
+    and finance most pertinent to global sustainability.
+
+-   \*Mention somewhere that the economical sciences have gone through a
+    phase of decreasing diversity. A diversity that is now returning
+    following the prolonged financial crises of the United States and
+    Europe. Sustainability science can play an important role in
+    maintaining this diversity by more fully integrating with some of
+    the emerging branches of research.
+
+<br><br>
+
+#### Summarizing intro and outlining content and purpose of the main body of the paper - EXAMINE BRIGHT SPOTS AND BLIND SPOTS\*\*
 
 -   In the following we ... , ...
+
+<br><br>
+
+------------------------------------------------------------------------
 
 <br><br>
 
 RECENT ADVANCES
 ===============
 
-**National (greener) economic accounting**
+<br><br>
+
+Two advances in integrating the earth system in economic accounting
+-------------------------------------------------------------------
+
+<br><br>
+
+### Greener economic accounting for natural capital
+
+The ecosystem services and natural capital concepts evolved out of other
+related concepts in the 1980's linked to the "land economy".
+
+-   **A lot of progreess has been made since the inception of ecosystem
+    services valuation in the XXXX. In 2015 all OECD countries will
+    adopt mandated green accounting systems**
 
 Integrating measures of natural and social capital into national
 accounting systems
@@ -236,7 +274,99 @@ accounting systems
     -   Green accounting mandated by OECD countries - what will happen
         next
 
-**Socio-economic inequality and health and environmental quality**
+In 2014 (Costanza, Groot, et al. 2014) estimated the annual monetary
+loss of ecosystem services from land use change between 1997 and 2011 to
+range between 4.3 to 20.2 trillion USD.
+
+Integrated measures of social, environmental and economic progress are
+now being suggested as indicators for the UN Sustainable Development
+Goals (Costanza, Kubiszewski, et al. 2014).
+
+The OECD is implementing a set of Green Growth Indicators [**CITE green
+growth indicators 2014 repot**]
+
+The InVest tool is the leading tool for incorporating natural capital
+into decisions.
+
+History of ecosystem services (Gómez-Baggethun et al. 2010), including
+mainstreaming through the Millennium Ecosystem Assessment [2005] and
+critique by Norgaard. Cite Tallis et al. for attempts to resolve
+conflicts between the valuate or don't valuate debate.
+
+Abstract from Gomez-Baggethun 2010:
+
+"This paper reviews the historic development of the conceptualization of
+ecosystem services and examines critical landmarks in economic theory
+and practice with regard to the incorporation of ecosystem services into
+markets and payment schemes. The review presented here suggests that the
+trend towards monetization and commodification of ecosystem services is
+partly the result of a slow move from the original economic conception
+of nature's benefits as use values in Classical economics to their
+conceptualization in terms of exchange values in Neoclassical economics.
+The theory and practice of current ecosystem services science are
+examined in the light of this historical development. From this review,
+we conclude that the focus on monetary valuation and payment schemes has
+contributed to attract political support for conservation, but also to
+commodify a growing number of ecosystem services and to reproduce the
+Neoclassical economics paradigm and the market logic to tackle
+environmental problems."
+
+<br><br>
+
+### Accounting for the complex teleconnections embodied by trade in the global economy
+
+Leontief 1970 envisioned national accounting as a way of measuring the
+impact of economic activities and human consumption on the environment.
+With recent progress in accounting for resource use in globalized
+production and consumption chains using global multi-regional
+input-output models (MRIOs) to link together resource extraction,
+import, consumption and exports in national accounts (Manfred Lenzen et
+al. 2012, Lenzen et al. (2013), Lenzen et al. (2014)). Early phases of
+that vision is now being implemented in a number of ways. By associating
+the MRIO with enviromental and social variables (so-called satellite
+variables), environmentally and socially extended MRIOs are produced
+that allow to assess the environmental and social interlinked impacts of
+global ecnomomic activity (e.g. Wiedmann 2012, M. Lenzen et al. 2012;
+Marques et al. 2012).
+
+Early assesssments of long-standing economic hypotheses such as the
+Environmental Kuznets Curve and the paradigm of relative and absolute
+decoupling have been compromised by not acccounting for resources used
+in foreign contributes in the production of commodities consumed
+domestically. Still challenged a need to interpolate large amounts of
+missing data, the model provides a significant advancement in order for
+sustainability scientists to assess the degree to which relative and
+absolute decoupling is being reach in the globalized economy Wiedmann
+2012, whether an Environmental Kuznets Curce really does exist, assess
+the domestic economic, environmental and health impact of pollution
+attributed to commodities that are being consumed in foreign countires
+(Marques et al. 2012), and similar how global trade drives biodiversity
+threats in the developing countries (M. Lenzen et al. 2012).
+
+These assessments have fundamental value for sustainability science as
+they answer basic questions about the path of human development and the
+sustainability of current economic paradigms.
+
+One of the latest applications of this methodological advance will be a
+dataset on the value added to national economies by trade to be released
+by the United Nations Conference on Trade and Development
+(<http://unctad.org/>). The dataset provides a new opportunity to assess
+and evaluate **XXX**.
+
+-   Leontief, W.; Ford, D. Environmental repercussions and the economic
+    structure: An input-output approach. Rev. Econ. Stat. 1970, 52 (3),
+    262???271
+
+-   Leontief, W. An information system for policy decisions in a modern
+    economy. In Input-Output Economics; Oxford University Press: New
+    York, 1986; pp 418???428.
+
+-   Leontief, W. Structure of the world economy. Am. Econ. Rev. 1974,
+    LXIV (6), 823???834.
+
+<br><br>
+
+### Socio-economic inequality and health and environmental quality
 
 -   *Reference*
     -   The Haves, the Have-Nots, and the Health of Everyone: The
@@ -273,130 +403,182 @@ accounting systems
 
 **The impact of trade on the environment**
 
+<br><br>
+
+<br><br>
+
+------------------------------------------------------------------------
+
+<br><br>
+
 AREAS THAT NEED ATTENTION
 =========================
 
--   ***Finance in politics, financial players an dynamcis***
-    -   **Role of finance in preventing democracy and implications
-        sustainable transitions**
+<br><br>
 
-        \*A study from 2014 have documented how the role of campaign
-        financing in US politics may lead to in-validation of long held
-        theories of political science, such as the median voter theorem
-        (Gilens and Page 2014). Similar ongoing studies are documenting
-        how the probability of getting elected is correlated with the
-        amount of campaing funds raised [**Cite Tom Ferguson
-        research**]. The regulated earns more than the regulator and
-        this financial inequality may present some moral challenges for
-        sound decision-making in regulators (Ferguson and Johnson 2010).
+### Finance in politics, financial players an dynamcis
 
-        \*Such questions are of clear interested to sustainabliity
-        science and research on global sustainablity. For example, what
-        are the implications for the likelihood of sustainability
-        transitions? If decision makers make choice in the interest of
-        their financiers instead of in the interest of their electorate,
-        may this either increase or decrease the likelihood and speed of
-        sustainablity transitions wanted by the electorate?
+<br><br>
 
-    -   **Impact of major financial corporations on global
-        sustainability (key players)**
+#### Role of finance in preventing democracy and implications sustainable transitions
 
-        -   A recent study have documented that a small number of
-            financial institutions play an important role in linking the
-            global economy together (Vitali and Battiston 2013). What
-            are the implications for global sustainability of such hyper
-            connectivity?. Can the concepts of key-stone species, for
-            example, be transferred to financial capital holders, and
-            does this concept also apply to the socio-environmental
-            effects of actions taking by the financial actors. Ongoing
-            research are just starting to investigate such questions in
-            the marine realm [*get Calle, JB and other SRC folks to fill
-            in here*]. Similar research could be taken on in the
-            agricultural and silvicultural realms with regard to
-            land-use change etc.
-    -   **Financial market dynamics and impact on global
-        sustainability**
+\*A study from 2014 have documented how the role of campaign financing
+in US politics may lead to in-validation of long held theories of
+political science, such as the median voter theorem (Gilens and Page
+2014). Similar ongoing studies are documenting how the probability of
+getting elected is correlated with the amount of campaing funds raised
+[**Cite Tom Ferguson research**]. The regulated earns more than the
+regulator and this financial inequality may present some moral
+challenges for sound decision-making in regulators (Ferguson and Johnson
+2010).
 
-        -   The great recession of 2008 and the prolonged recession in
-            Europe have been two of the most influential events on
-            western hemisphere policy in the 21st century. Both
-            recessions were partially caused by the influence of
-            increasingly complex financial system on commodity prices
-            such as housing prices and even national savings (Greece)
-            [find articles on investment in the national savings of
-            Greece, Italy and Spain **REFS**]. The impact of the
-            following economic downturn on important environmental
-            policies such as energy investments can be seen e.g. in many
-            nations decision to explore options for liquified shale oil
-            and natural gas and lowered ambitions in national and
-            supra-national plans of transitioning to renewable energy
-            sources [**REF**].
+\*Such questions are of clear interested to sustainabliity science and
+research on global sustainablity. For example, what are the implications
+for the likelihood of sustainability transitions? If decision makers
+make choice in the interest of their financiers instead of in the
+interest of their electorate, may this either increase or decrease the
+likelihood and speed of sustainablity transitions wanted by the
+electorate?
 
-        -   The integration of financial market dynamics and complexity
-            with sustainability science seems an important agenda to
-            ensure a more resilient and holistic response to such
-            events.
+<br><br>
 
-        -   Examples of remaining research questions with regard to the
-            financial crisis are:
-            -   What have some of socio-environmental impacts been of
-                the fincial crisis on other continents?
-                -   Can key trends in enviornmental and social
-                    degradation or improvement be traced to events
-                    relating to the financial crisis.
-                -   How do other actors respond to financial crisis. Do
-                    they e.g. learn to anticipate negative impacts from
-                    prolonge recessions caused by financial market
-                    complexity?
+#### Impact of major financial corporations on global sustainability (key players)
 
--   ***International financial transactions and flows***
+-   A recent study have documented that a small number of financial
+    institutions play an important role in linking the global economy
+    together (Vitali and Battiston 2013). What are the implications for
+    global sustainability of such hyper connectivity?. Can the concepts
+    of key-stone species, for example, be transferred to financial
+    capital holders, and does this concept also apply to the
+    socio-environmental effects of actions taking by the financial
+    actors. Ongoing research are just starting to investigate such
+    questions in the marine realm [*get Calle, JB and other SRC folks to
+    fill in here*]. Similar research could be taken on in the
+    agricultural and silvicultural realms with regard to land-use change
+    etc.
 
-    -   **Social and enviromental impact of financial transactions**
-        -   With increasing complexity of financial markets, impacts of
-            capital flows are in a manner similar to impacts of
-            production and consumption in globalized supply chains
-            becoming harder to track. Are international financial
-            transactions playing important roles in determining social
-            and environmental outcomes in regions where they flow from,
-            through and end-up. Are these outcomes positive or negative
-            for global sustainablity?
-    -   **Social and enviornmental impact of illicit financial
-        transaction**
-        -   While captial flows of the financial market may prove an
-            important factor influencing the likelihood of sustainable
-            transitions, much of international trade happens outside the
-            market. For example, the international market for wildlife
-            medicine largely occur through illicit financial
-            transactions. Such markets and transactions may in some
-            cases have more immediately obvious impact on
-            socio-environemntal sustainablity. For example, the negative
-            impact of such trading on threatened species, sometimes
-            appearing on the brnk of extinction, is well-documented
-            through declines in e.g. elephants and rhinos in Africa.
-            Tragically, from trophy hunting it has been shown that
-            increasing rarity of hunted species may only increase the
-            exclusiveness, price and demand for their derived products -
-            potentially leading to a self-reinforcing feedback loop
-            toward further decline (Lucille Palazy et al. 2011; L.
-            Palazy et al. 2012). In other cases, the effect of illicit
-            international capital flows are much less well documented.
-            **give examples** Thus, whether licit or illicit, untangling
-            the teleconnected socio-environmental effects of
-            international capital flows should be of priority to
-            sustainability science.
+<br><br>
+
+#### Financial market dynamics and impact on global sustainability
+
+-   The great recession of 2008 and the prolonged recession in Europe
+    have been two of the most influential events on western hemisphere
+    policy in the 21st century. Both recessions were partially caused by
+    the influence of increasingly complex financial system on commodity
+    prices such as housing prices and even national savings (Greece)
+    [find articles on investment in the national savings of Greece,
+    Italy and Spain **REFS**]. The impact of the following economic
+    downturn on important environmental policies such as energy
+    investments can be seen e.g. in many nations decision to explore
+    options for liquified shale oil and natural gas and lowered
+    ambitions in national and supra-national plans of transitioning to
+    renewable energy sources [**REF**].
+
+-   The integration of financial market dynamics and complexity with
+    sustainability science seems an important agenda to ensure a more
+    resilient and holistic response to such events.
+
+-   Examples of remaining research questions with regard to the
+    financial crisis are:
+    -   What have some of socio-environmental impacts been of the
+        fincial crisis on other continents?
+    -   Can key trends in enviornmental and social degradation or
+        improvement be traced to events relating to the financial
+        crisis.
+    -   How do other actors respond to financial crisis. Do they e.g.
+        learn to anticipate negative impacts from prolonge recessions
+        caused by financial market complexity?
+
+<br><br>
+
+### International financial transactions and flows
+
+<br><br>
+
+#### Social and enviromental impact of financial transactions
+
+-   With increasing complexity of financial markets, impacts of capital
+    flows are in a manner similar to impacts of production and
+    consumption in globalized supply chains becoming harder to track.
+    Are international financial transactions playing important roles in
+    determining social and environmental outcomes in regions where they
+    flow from, through and end-up. Are these outcomes positive or
+    negative for global sustainablity?
+
+<br><br>
+
+#### Social and enviornmental impact of illicit financial transactions
+
+-   While captial flows of the financial market may prove an important
+    factor influencing the likelihood of sustainable transitions, much
+    of international trade happens outside the market. For example, the
+    international market for wildlife medicine largely occur through
+    illicit financial transactions. Such markets and transactions may in
+    some cases have more immediately obvious impact on
+    socio-environemntal sustainablity. For example, the negative impact
+    of such trading on threatened species, sometimes appearing on the
+    brnk of extinction, is well-documented through declines in e.g.
+    elephants and rhinos in Africa. Tragically, from trophy hunting it
+    has been shown that increasing rarity of hunted species may only
+    increase the exclusiveness, price and demand for their derived
+    products - potentially leading to a self-reinforcing feedback loop
+    toward further decline (Palazy et al. 2011; Palazy et al. 2012). In
+    other cases, the effect of illicit international capital flows are
+    much less well documented. **give examples** Thus, whether licit or
+    illicit, untangling the teleconnected socio-environmental effects of
+    international capital flows should be of priority to sustainability
+    science.
+
     -   Trade Policy and Public Health - Annual Review of Public
         Health - Vol. 36: 325-344 (Volume publication date March 2015) -
         First published online as a Review in Advance on December 10,
         2014 - DOI: 10.1146/annurev-publhealth-031914-122739
+
+<br><br>
+
+### Financial innovation for sustainabiltiy
+
+<br><br>
+
+#### Innovation of investments for sustainability
+
+-   Non-governmental financial investments are playing an increasing
+    role in addressing concerns related to social and environmental
+    sustainaiblity, in the developing as well as the developed world
+    [**REF**]. Philanthropy has played a role in ensuring environmental,
+    social and economic sustainability for centuries. Associated with
+    the increase in the role of private investments has been an
+    increasing diversification of types of investments for
+    sustainability [**REF**]. From the well-known micro-financing
+    strategies [**REF**] to green bond markets and other types of
+    investment for impact [**REF**].
+
+-   Sustainability science needs to embrace these recent developments by
+    asking a number of research and solution-oriented questions: (1) How
+    effective are private financial investments in ensuring positive
+    sustainability-related outcomes, compared to, for example,
+    governnmental investments?; (2) Which types of private financial
+    investments are most effective in various geographical areas and in
+    solving different sustainability-challenges.
+
+<br><br>
+
+------------------------------------------------------------------------
+
+<br><br>
 
 FUTURE PERSPECTIVES AND CONCLUSION
 ==================================
 
 *Text to be added here.*
 
+<br><br>
+
 ------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
+
+<br><br>
 
 Supporting notes
 ================
@@ -415,40 +597,11 @@ Notes on integration
         economic perspectives:
 
     -   Lack of integration of an explicitly ecological perspective into
-        social sciences and socio-economic policy (J. H. Brown et al.
-        2014, Burnside et al. (2012))
+        social sciences and socio-economic policy (Brown et al. 2014,
+        Burnside et al. (2012))
         -   With the implication of overlooking natural resource
             exploitation as an underlying trend for the "great
-            recession" (J. H. Brown et al. 2014)
-
-------------------------------------------------------------------------
-
-Paper notes
------------
-
--   (J. H. Brown et al. 2014)
-    -   Malthusian vs. Darwinian dynamics (i.e. growth and resource
-        limitation vs. organic and cultural selection for innovation to
-        circumvent those)
-    -   Malthusians [population, resource limitation and conflict] vs.
-        Cornucopians [technological innovation to facilitate eternal
-        growth]
-
-    -   Read: Arrow et al. 1995, 2004 (Arrow et al. 1995, Arrow et al.
-        (2004))
-
-    -   Economic growth, carrying capacity, and the environment,
-        Science, 1995 (Arrow et al. 1995)
-        -   Outlines the origin and current evidence for the
-            Environmental Kuznets Curve (EKC)
-    -   Are we consuming too much (Arrow et al. 2004)
-
--   (Lenzen et al. 2012)
-    -   "Our findings clearly demonstrate that local trheats to species
-        are driven by economic activity and consumer demand across the
-        world."
-
-<br><br>
+            recession" (Brown et al. 2014)
 
 ------------------------------------------------------------------------
 
@@ -540,7 +693,7 @@ gaps
 -   The environmental and social sustainability of income distributions
     (an area of progress?)
 
-' Macroeconomic indicators (an area of progress?)
+-   Macroeconomic indicators (an area of progress?)
 
 <br><br>
 
@@ -556,17 +709,6 @@ environmental policy?
 Research needs: Studies looking at voting behaviour of elected
 representatives on environmental issues in relation to campaign
 financing and total amounts of raised capital and public opinion etc.
-
-<br><br>
-
-*Resources:*
-
-Tom Ferguson analysis of votes and campaign finance in congress
-elections (in prep)
-
-Analysis of elected representatives' behavior on 1700 policy issues in
-relation to vested interest and public opinion (Garry has reference that
-cites Ferguson).
 
 <br><br>
 
@@ -659,22 +801,12 @@ paper
 
 ------------------------------------------------------------------------
 
+<br><br>
+
 REFERENCES
 ==========
 
 The following literature was cited
-
-Arrow, Kenneth, Bert Bolin, Robert Costanza, Partha Dasgupta, Carl
-Folke, C. S. Holling, Bengt Owe Jansson, et al. 1995. “Economic growth,
-carrying capacity, and the environment.” *Science (New York, N.Y.)* 28:
-520–21.
-doi:[10.1126/science.268.5210.520](http://dx.doi.org/10.1126/science.268.5210.520).
-
-Arrow, Kenneth, Partha Dasgupta, Lawrence Goulder, Gretchen Daily, Paul
-Ehrlich, Geoffrey Heal, Simon Levin, Karl-Göran Mäler, Stephen
-Schneider, and David Starrett. 2004. “Are we consuming too much?” *The
-Journal of Economic Perspectives* 18 (3): 147–72.
-doi:[10.1111/j.1523-1739.2007.00770.x](http://dx.doi.org/10.1111/j.1523-1739.2007.00770.x).
 
 Bettencourt, Luís M A, and Jasleen Kaur. 2011. “Evolution and structure
 of sustainability science.” *Proceedings of the National Academy of
@@ -704,6 +836,16 @@ Colander, David. 2005. “The Making of an Economist Redux.” *Journal of
 Economic Perspectives* 19 (1): 175–98.
 doi:[10.1257/0895330053147976](http://dx.doi.org/10.1257/0895330053147976).
 
+Costanza, Robert, Rudolf de Groot, Paul Sutton, Sander van der Ploeg,
+Sharolyn J Anderson, Ida Kubiszewski, Stephen Farber, and R Kerry
+Turner. 2014. “Changes in the global value of ecosystem services.”
+*Global Environmental Change* 26 (0): 152–58.
+doi:[http://dx.doi.org/10.1016/j.gloenvcha.2014.04.002](http://dx.doi.org/http://dx.doi.org/10.1016/j.gloenvcha.2014.04.002).
+
+Costanza, Robert, I Kubiszewski, E Giovannini, H Lovins, J McGlade, K E
+Pickett, K V Ragnarsdottir, D Roberts, R <span>De Vogli</span>, and R
+Wilkinson. 2014. “Time to leave GDP behind.” *Nature* 505: 283–85.
+
 Cowling, Richard M, Benis Egoh, Andrew T Knight, Patrick J O’Farrell,
 Belinda Reyers, Mathieu Rouget, Dirk J Roux, Adam Welz, and Angelika
 Wilhelm-Rechman. 2008. “An operational model for mainstreaming ecosystem
@@ -726,6 +868,12 @@ American Politics : Elites , Interest Groups , and Average Citizens.”
 *Perspectives on Politics*, 42.
 doi:[10.1017/S1537592714001595](http://dx.doi.org/10.1017/S1537592714001595).
 
+Gómez-Baggethun, Erik, Rudolf de Groot, Pedro L Lomas, and Carlos
+Montes. 2010. “The history of ecosystem services in economic theory and
+practice: From early notions to markets and payment schemes.”
+*Ecological Economics* 69 (6): 1209–18.
+doi:[http://dx.doi.org/10.1016/j.ecolecon.2009.11.007](http://dx.doi.org/http://dx.doi.org/10.1016/j.ecolecon.2009.11.007).
+
 Kates, Robert W, and Partha Dasgupta. 2007. “African poverty: a grand
 challenge for sustainability science.” *Proceedings of the National
 Academy of Sciences of the United States of America* 104 (43): 16747–50.
@@ -737,11 +885,34 @@ developing nations.” *Nature* 486 (7401). Nature Publishing Group:
 109–12.
 doi:[10.1038/nature11145](http://dx.doi.org/10.1038/nature11145).
 
+Lenzen, Manfred, Arne Geschke, Thomas Wiedmann, Joe Lane, Neal Anderson,
+Timothy Baynes, John Boland, et al. 2014. “Compiling and using
+input-output frameworks through collaborative virtual laboratories.”
+*The Science of the Total Environment* 485-486 (July). Elsevier B.V.:
+241–51.
+doi:[10.1016/j.scitotenv.2014.03.062](http://dx.doi.org/10.1016/j.scitotenv.2014.03.062).
+
+Lenzen, Manfred, Keiichiro Kanemoto, Daniel Moran, and Arne Geschke.
+2012. “Mapping the structure of the world economy.” *Environmental
+Science & Technology* 46 (15): 8374–81.
+doi:[10.1021/es300171x](http://dx.doi.org/10.1021/es300171x).
+
+Lenzen, Manfred, Daniel Moran, Keiichiro Kanemoto, and Arne Geschke.
+2013. “Building Eora: a Global Multi-Region Input–Output Database At
+High Country and Sector Resolution.” *Economic Systems Research* 25 (1):
+20–49.
+doi:[10.1080/09535314.2013.769938](http://dx.doi.org/10.1080/09535314.2013.769938).
+
 Liu, Jianguo, Shuxin Li, Zhiyun Ouyang, Christine Tam, and Xiaodong
 Chen. 2008. “Ecological and socioeconomic effects of China’s policies
 for ecosystem services.” *Proceedings of the National Academy of
 Sciences of the United States of America* 105 (28): 9477–82.
 doi:[10.1073/pnas.0706436105](http://dx.doi.org/10.1073/pnas.0706436105).
+
+Marques, Alexandra, João Rodrigues, Manfred Lenzen, and Tiago Domingos.
+2012. “Income-based environmental responsibility.” *Ecological
+Economics* 84 (December). Elsevier B.V.: 57–65.
+doi:[10.1016/j.ecolecon.2012.09.010](http://dx.doi.org/10.1016/j.ecolecon.2012.09.010).
 
 Mäler, Karl-Göran, Sara Aniyar, and Asa Jansson. 2008. “Accounting for
 ecosystem services as a way to understand the requirements for

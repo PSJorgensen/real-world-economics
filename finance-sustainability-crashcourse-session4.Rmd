@@ -1,7 +1,7 @@
 ---
 title: "Finance and sustainability crash course - session 4"
 date: "Wednesday, April 15, 2015"
-bibliography: PostDocKVA2.bib
+bibliography: PostDocKVA2.bib'
 output:
   html_document:
     toc: true
