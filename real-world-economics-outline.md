@@ -17,8 +17,13 @@
     -   Two advances in integrating the earth system in economic
         accounting
         -   Greener economic accounting for natural capital
-        -   Accounting for the complex teleconnections embodied by trade
-            in the global economy
+            -   History of the ecosystem services and natural capital
+                concept
+            -   Recent economic trends in natural capital and ecosystem
+                services
+            -   Recent impact of the ecosystem services and natural
+                capital concept
+        -   Unravelling trends mask by trade in the global economy
         -   Socio-economic inequality and health and environmental
             quality
 -   AREAS THAT NEED ATTENTION
@@ -256,64 +261,58 @@ Two advances in integrating the earth system in economic accounting
 
 ### Greener economic accounting for natural capital
 
-The ecosystem services and natural capital concepts evolved out of other
-related concepts in the 1980's linked to the "land economy".
+#### History of the ecosystem services and natural capital concept
 
--   **A lot of progreess has been made since the inception of ecosystem
-    services valuation in the XXXX. In 2015 all OECD countries will
-    adopt mandated green accounting systems**
+-   The ecosystem services and natural capital concepts evolved out of
+    other related concepts in the 1980's linked to the "land economy"
+    and were mainstreamed in particular through the Millennium Ecosystem
+    Assessment published in 2005 (MA REF). From a historical perspective
+    (Gómez-Baggethun et al. 2010) "the trend towards monetization and
+    commodification of ecosystem services is partly the result of a slow
+    move from the original economic conception of nature's benefits as
+    use values in Classical economics to their conceptualization in
+    terms of exchange values in Neoclassical economics". This trend has
+    led to debate over whether the use of the concept in its current
+    form would stall aims of conservationists (**e.g. Norgaard REF**),
+    while others argue for the co-existence and exchange between a
+    diversity of approaches including both traditional conservationist
+    and newer ecosystem service and natural capital based apparoaches
+    for the parrallel pursuit of conservation and enviornmentally
+    sustainable economic development (Tallis and Lubchenco 2015). Thus,
+    (Gómez-Baggethun et al. 2010) concludes that the focus on monetary
+    valuation and payment schemes related to the ecosystem services and
+    natural capital communities has contributed to attract political
+    support for conservation. At the same time "*a growing number of
+    ecosystem services may have been commidified and the Neoclassical
+    economics paradigm and the market logic to tackle environmental
+    problems*" amplified.
 
-Integrating measures of natural and social capital into national
-accounting systems
+#### Recent economic trends in natural capital and ecosystem services
 
--   Political attention to global sustainability and the unsustainable
-    dynamics of current measurements of economic growth has facilitated
-    international research progress on integrated measures of growth
-
-    -   E.g. Genuine progress measure (Nature paper by Costanza)
-    -   Green accounting mandated by OECD countries - what will happen
-        next
+-   
 
 In 2014 (Costanza, Groot, et al. 2014) estimated the annual monetary
 loss of ecosystem services from land use change between 1997 and 2011 to
 range between 4.3 to 20.2 trillion USD.
 
-Integrated measures of social, environmental and economic progress are
-now being suggested as indicators for the UN Sustainable Development
-Goals (Costanza, Kubiszewski, et al. 2014).
+#### Recent impact of the ecosystem services and natural capital concept
 
-The OECD is implementing a set of Green Growth Indicators [**CITE green
-growth indicators 2014 repot**]
-
-The InVest tool is the leading tool for incorporating natural capital
-into decisions.
-
-History of ecosystem services (Gómez-Baggethun et al. 2010), including
-mainstreaming through the Millennium Ecosystem Assessment [2005] and
-critique by Norgaard. Cite Tallis et al. for attempts to resolve
-conflicts between the valuate or don't valuate debate.
-
-Abstract from Gomez-Baggethun 2010:
-
-"This paper reviews the historic development of the conceptualization of
-ecosystem services and examines critical landmarks in economic theory
-and practice with regard to the incorporation of ecosystem services into
-markets and payment schemes. The review presented here suggests that the
-trend towards monetization and commodification of ecosystem services is
-partly the result of a slow move from the original economic conception
-of nature's benefits as use values in Classical economics to their
-conceptualization in terms of exchange values in Neoclassical economics.
-The theory and practice of current ecosystem services science are
-examined in the light of this historical development. From this review,
-we conclude that the focus on monetary valuation and payment schemes has
-contributed to attract political support for conservation, but also to
-commodify a growing number of ecosystem services and to reproduce the
-Neoclassical economics paradigm and the market logic to tackle
-environmental problems."
+-   A lot of progress has been made since the inception of ecosystem
+    services valuation in the *XXXX*. Political attention to global
+    sustainability and the unsustainable dynamics of current
+    measurements of economic growth has facilitated international
+    research progress on integrated measures of growth, such as the
+    Genuine Progress Indicator (Costanza, Kubiszewski, et al. 2014).
+    Such integrated indicators of social, environmental and economic
+    progress are now being suggested as indicators for the UN
+    Sustainable Development Goals (Costanza, Kubiszewski, et al. 2014).
+    In 2015 all OECD countries will adopt mandated green accounting
+    systems (**REF**). The InVest tool developed to incorporate natural
+    capital into decisions, is now *GIVE EXAMPLES OF NOTABLE USE*.
 
 <br><br>
 
-### Accounting for the complex teleconnections embodied by trade in the global economy
+### Unravelling trends mask by trade in the global economy
 
 Leontief 1970 envisioned national accounting as a way of measuring the
 impact of economic activities and human consumption on the environment.
