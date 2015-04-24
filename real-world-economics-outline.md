@@ -12,44 +12,23 @@
         relations to other disciplines in terms of sustainability
         related questions
     -   Summarizing intro and outlining content and purpose of the main
-        body of the paper - EXAMINE BRIGHT SPOTS AND BLIND SPOTS\*\*
+        body of the paper
 -   RECENT ADVANCES
     -   Two advances in integrating the earth system in economic
         accounting
         -   Greener economic accounting for natural capital
-            -   History of the ecosystem services and natural capital
-                concept
-            -   Recent economic trends in natural capital and ecosystem
-                services
-            -   Recent impact of the ecosystem services and natural
-                capital concept
-        -   Unravelling trends mask by trade in the global economy
+        -   Telecoupled dynamics of global trade
         -   Socio-economic inequality and health and environmental
             quality
 -   AREAS THAT NEED ATTENTION
     -   Finance in politics, financial players an dynamcis
-        -   Role of finance in preventing democracy and implications
-            sustainable transitions
-        -   Impact of major financial corporations on global
-            sustainability (key players)
-        -   Financial market dynamics and impact on global
-            sustainability
     -   International financial transactions and flows
-        -   Social and enviromental impact of financial transactions
-        -   Social and enviornmental impact of illicit financial
-            transactions
     -   Financial innovation for sustainabiltiy
-        -   Innovation of investments for sustainability
 -   FUTURE PERSPECTIVES AND CONCLUSION
 -   Supporting notes
     -   Notes on integration
-    -   ***Older snippets***
-        -   INTRO
-        -   Main body
-    -   ***Even older snippets***
-        -   Title:
-        -   Tenet:
-        -   Format suggestions:
+    -   Older snippets
+    -   Even older snippets
 -   REFERENCES
 
 {% include JB/setup %}
@@ -239,7 +218,7 @@ INTRO
 
 <br><br>
 
-#### Summarizing intro and outlining content and purpose of the main body of the paper - EXAMINE BRIGHT SPOTS AND BLIND SPOTS\*\*
+#### Summarizing intro and outlining content and purpose of the main body of the paper
 
 -   In the following we ... , ...
 
@@ -266,39 +245,48 @@ Two advances in integrating the earth system in economic accounting
 -   The ecosystem services and natural capital concepts evolved out of
     other related concepts in the 1980's linked to the "land economy"
     and were mainstreamed in particular through the Millennium Ecosystem
-    Assessment published in 2005 (MA REF). From a historical perspective
-    (Gómez-Baggethun et al. 2010) "the trend towards monetization and
-    commodification of ecosystem services is partly the result of a slow
-    move from the original economic conception of nature's benefits as
-    use values in Classical economics to their conceptualization in
-    terms of exchange values in Neoclassical economics". This trend has
-    led to debate over whether the use of the concept in its current
-    form would stall aims of conservationists (**e.g. Norgaard REF**),
-    while others argue for the co-existence and exchange between a
-    diversity of approaches including both traditional conservationist
-    and newer ecosystem service and natural capital based apparoaches
-    for the parrallel pursuit of conservation and enviornmentally
-    sustainable economic development (Tallis and Lubchenco 2015). Thus,
-    (Gómez-Baggethun et al. 2010) concludes that the focus on monetary
-    valuation and payment schemes related to the ecosystem services and
-    natural capital communities has contributed to attract political
-    support for conservation. At the same time "*a growing number of
-    ecosystem services may have been commidified and the Neoclassical
-    economics paradigm and the market logic to tackle environmental
-    problems*" amplified.
+    Assessment published in 2005 (Millennium Ecosystem Assessment 2005).
+    From a historical perspective (Gómez-Baggethun et al. 2010) "the
+    trend towards monetization and commodification of ecosystem services
+    is partly the result of a slow move from the original economic
+    conception of nature's benefits as use values in Classical economics
+    to their conceptualization in terms of exchange values in
+    Neoclassical economics". This trend has led to debate over whether
+    the use of the concept in its current form would stall aims of
+    conservationists (Norgaard 2010; Norgaard 2008). The contrary
+    argument sees the benefit of co-existence and exchange between a
+    diversity of concepts and approaches, including both traditional
+    biodiversity conservationist and newer ecosystem service or natural
+    capital based apparoaches (Tallis et al. 2008; Reyers, Polasky,
+    Tallis, and Mooney 2012; Reyers, Polasky, Tallis, Mooney, et al.
+    2012). The main feature of the inclusivity argument is that the
+    diversity of concepts are needed to interact with as many
+    stakeholders as possible for the parrallel pursuit of conservation
+    and enviornmentally sustainable economic development (Tallis and
+    Lubchenco 2014).
 
-#### Recent economic trends in natural capital and ecosystem services
+Gomez-Baggethun (Gómez-Baggethun et al. 2010) in her review concludes
+that the focus on monetary valuation and payment schemes related to the
+ecosystem services and natural capital communities has indeed
+contributed to attract political support for conservation. At the same
+time "*a growing number of ecosystem services may have been commidified
+and the Neoclassical economics paradigm and the market logic to tackle
+environmental problems*" amplified.
 
--   
+-   Payments for ecosystem services [e.g. Kelsey Jack et al. 2008 PNAS]
 
-In 2014 (Costanza, Groot, et al. 2014) estimated the annual monetary
-loss of ecosystem services from land use change between 1997 and 2011 to
-range between 4.3 to 20.2 trillion USD.
+#### Global economic dynamics in natural capital and ecosystem services
+
+-   In 2014 (Costanza, Groot, et al. 2014) estimated the annual monetary
+    loss of ecosystem services from land use change between 1997 and
+    2011 to range between 4.3 to 20.2 trillion USD.
 
 #### Recent impact of the ecosystem services and natural capital concept
 
 -   A lot of progress has been made since the inception of ecosystem
-    services valuation in the *XXXX*. Political attention to global
+    services valuation in the *XXXX*. Notable progress, includes the
+    inception of the Intergovenrnmental Platform on Biodiversity and
+    Ecosystem Services (Díaz et al. 2015). Political attention to global
     sustainability and the unsustainable dynamics of current
     measurements of economic growth has facilitated international
     research progress on integrated measures of growth, such as the
@@ -312,95 +300,111 @@ range between 4.3 to 20.2 trillion USD.
 
 <br><br>
 
-### Unravelling trends mask by trade in the global economy
+### Telecoupled dynamics of global trade
 
-Leontief 1970 envisioned national accounting as a way of measuring the
-impact of economic activities and human consumption on the environment.
-With recent progress in accounting for resource use in globalized
-production and consumption chains using global multi-regional
-input-output models (MRIOs) to link together resource extraction,
-import, consumption and exports in national accounts (Manfred Lenzen et
-al. 2012, Lenzen et al. (2013), Lenzen et al. (2014)). Early phases of
-that vision is now being implemented in a number of ways. By associating
-the MRIO with enviromental and social variables (so-called satellite
-variables), environmentally and socially extended MRIOs are produced
-that allow to assess the environmental and social interlinked impacts of
-global ecnomomic activity (e.g. Wiedmann 2012, M. Lenzen et al. 2012;
-Marques et al. 2012).
+-   Leontief 1970 envisioned national accounting as a way of measuring
+    the impact of economic activities and human consumption on the
+    environment. With recent progress in accounting for resource use in
+    globalized production and consumption chains using global
+    multi-regional input-output models (MRIOs) to link together resource
+    extraction, import, consumption and exports in national accounts
+    (Manfred Lenzen et al. 2012, Lenzen et al. (2013), Lenzen et al.
+    (2014)). Early phases of that vision is now being implemented in a
+    number of ways. By associating the MRIO with enviromental and social
+    variables (so-called satellite variables), environmentally and
+    socially extended MRIOs are produced that allow to assess the
+    environmental and social interlinked impacts of global ecnomomic
+    activity (e.g. Wiedmann et al. 2013, M. Lenzen et al. (2012);
+    Marques et al. 2012).
 
-Early assesssments of long-standing economic hypotheses such as the
-Environmental Kuznets Curve and the paradigm of relative and absolute
-decoupling have been compromised by not acccounting for resources used
-in foreign contributes in the production of commodities consumed
-domestically. Still challenged a need to interpolate large amounts of
-missing data, the model provides a significant advancement in order for
-sustainability scientists to assess the degree to which relative and
-absolute decoupling is being reach in the globalized economy Wiedmann
-2012, whether an Environmental Kuznets Curce really does exist, assess
-the domestic economic, environmental and health impact of pollution
-attributed to commodities that are being consumed in foreign countires
-(Marques et al. 2012), and similar how global trade drives biodiversity
-threats in the developing countries (M. Lenzen et al. 2012).
+-   Early assesssments of long-standing economic hypotheses such as the
+    Environmental Kuznets Curve and the paradigm of relative and
+    absolute decoupling have been compromised by not acccounting for
+    resources used in foreign contributes in the production of
+    commodities consumed domestically. Still challenged a need to
+    interpolate large amounts of missing data, the model provides a
+    significant advancement in order for sustainability scientists to
+    assess the degree to which relative and absolute decoupling is being
+    reach in the globalized economy Wiedmann 2012, whether an
+    Environmental Kuznets Curce really does exist, assess the domestic
+    economic, environmental and health impact of pollution attributed to
+    commodities that are being consumed in foreign countires (Marques et
+    al. 2012), and similar how global trade drives biodiversity threats
+    in the developing countries (M. Lenzen et al. 2012). One of the
+    latest applications of this methodological advance will be a dataset
+    on the value added to national economies by trade to be released by
+    the United Nations Conference on Trade and Development
+    (<http://unctad.org/>). The dataset provides a new opportunity to
+    assess and evaluate **...XXX**. These assessments have fundamental
+    value for sustainability science as they answer basic questions
+    about future paths for human development and the sustainability of
+    current economic paradigms.
 
-These assessments have fundamental value for sustainability science as
-they answer basic questions about the path of human development and the
-sustainability of current economic paradigms.
+    -   *References*
+        -   Leontief, W.; Ford, D. Environmental repercussions and the
+            economic structure: An input-output approach. Rev. Econ.
+            Stat. 1970, 52 (3), 262???271
 
-One of the latest applications of this methodological advance will be a
-dataset on the value added to national economies by trade to be released
-by the United Nations Conference on Trade and Development
-(<http://unctad.org/>). The dataset provides a new opportunity to assess
-and evaluate **XXX**.
+        -   Leontief, W. An information system for policy decisions in a
+            modern economy. In Input-Output Economics; Oxford University
+            Press: New York, 1986; pp 418???428.
 
--   Leontief, W.; Ford, D. Environmental repercussions and the economic
-    structure: An input-output approach. Rev. Econ. Stat. 1970, 52 (3),
-    262???271
+        -   Leontief, W. Structure of the world economy. Am. Econ. Rev.
+            1974, LXIV (6), 823???834.
 
--   Leontief, W. An information system for policy decisions in a modern
-    economy. In Input-Output Economics; Oxford University Press: New
-    York, 1986; pp 418???428.
+        -   Local impacts of trade and financial markets: Economic
+            change effects on land use change (", a recent doubling in
+            commodity prices has created incentives for landowners to
+            convert grassland to corn and soybean cropping") [Wright and
+            Wimberley, PNAS 2013] and (Lybert et al. 2011 PNAS - booming
+            markets for Moroccan argan benefits some rural househols but
+            threatens endemic forests)
 
--   Leontief, W. Structure of the world economy. Am. Econ. Rev. 1974,
-    LXIV (6), 823???834.
+        -   Trade and emissions [e.g. China's international trade and
+            air pollution in the United States, Lin et al. 2014 PNAS]
+            and Lenzen and Wiedmann studies. [i.e. consumption based
+            accounting of official trade statistics]
 
 <br><br>
 
 ### Socio-economic inequality and health and environmental quality
 
--   *Reference*
-    -   The Haves, the Have-Nots, and the Health of Everyone: The
-        Relationship Between Social Inequality and Environmental Quality
-        Annual Review of Public Health, 2014
+-   Global impacts of inequality
 
-    -   Valuation of environmental and social goods.
-    -   Cost-effectivness of conservation actions (e.g. Jonathan
-        Hoekstra, PNAS piece, 2012)
+    -   challenges for global governance of the commons -
 
-    -   Economic change effects on land use change (", a recent doubling
-        in commodity prices has created incentives for landowners to
-        convert grassland to corn and soybean cropping") [Wright and
-        Wimberley, PNAS 2013] and (Lybert et al. 2011 PNAS - booming
-        markets for Moroccan argan benefits some rural househols but
-        threatens endemic forests)
+        -   Inequality in contributions to global climate change
+            together with global economic inequality largely explains
+            the deadlock in climate change negotiations and the global
+            south's insistence on their rights to develop (Roberts 2001;
+            Blaxekjær and Nielsen 2014)
+    -   global economic implications of poverty traps exacerbated by
+        trade, ethnic diversity and resource endownments
 
-    -   Inequality and biodiversity, environmental and health effects
-    -   Trade and emissions [e.g. China's international trade and air
-        pollution in the United States, Lin et al. 2014 PNAS] and Lenzen
-        and Wiedmann studies. [i.e. consumption based accounting of
-        official trade statistics]
-    -   Poverty reduction [e.g. Hyden et al. 2007 PNAS]
-        -   Hyden even questions the application of mainstream economics
-            assumptions of rationality etc.
-    -   Payments for ecosystem services [e.g. Kelsey Jack et al. 2008
-        PNAS]
-    -   Accounting for ecosystem services [e.g. Mähler et al. 2008 PNAS]
-        -   Karl-Göran Mäler, Sara Aniyar, and Åsa Jansson - Accounting
-            for ecosystem services as a way to understand the
-            requirements for sustainable development - PNAS 2008
-    -   A review of financial instruments to pay for predator
-        conservation and encourage human-carnivore coexistence
+        -   A special issue on the African poverty trap in PNAS (Kates
+            and Dasgupta 2007) revealed that ethnic diversity
+            contributes to keep countries trapped in poverty (Collier
+            2007). Therefore, alleviation of such cases requires special
+            regulatory interventions in the global economy (Hyden 2007)
 
-**The impact of trade on the environment**
+-   Local impacts of inequality
+
+    -   Local hotspots of economic inequality is correlated with loss of
+        biodiversity (Mikkelson, Gonzalez, and Peterson 2007; Holland,
+        Peterson, and Gonzalez 2009) and poverty hotspots exhibit poorer
+        environmental quality and hence opportunities for improving
+        public health (Cushing et al. 2015)
+
+    -   *References*
+        -   The Haves, the Have-Nots, and the Health of Everyone: The
+            Relationship Between Social Inequality and Environmental
+            Quality Annual Review of Public Health, 2014
+
+        -   Cost-effectivness of conservation actions (e.g. Jonathan
+            Hoekstra, PNAS piece, 2012)
+
+        -   A review of financial instruments to pay for predator
+            conservation and encourage human-carnivore coexistence
 
 <br><br>
 
@@ -441,7 +445,7 @@ electorate?
 
 <br><br>
 
-#### Impact of major financial corporations on global sustainability (key players)
+#### Impact of ownership structures and financial corporations on global sustainability (key players)
 
 -   A recent study have documented that a small number of financial
     institutions play an important role in linking the global economy
@@ -456,9 +460,27 @@ electorate?
     agricultural and silvicultural realms with regard to land-use change
     etc.
 
+-   **Fertilizer prices** is one case where prices may be controlled by
+    a cartel-like ownership structure and could be a terrestrial model
+    for the key-financial actors model (**Christopher Gilbert GEDB
+    seminar 150424**). **(Ott 2012)** "Torero (2011) examines the market
+    structure and shows that the fertilizer industry is a global one
+    with a high level of concentration." \*\*(Hernandez and Torero
+    2011): "The results of the study indicate that the fertilizer
+    industry is a global market with high levels of concentration and
+    increasing trade. The top five countries control more than 50
+    percent of the world's production capacity for all major fertilizer
+    products. There is also a high level of concentration at the country
+    level among the major producing countries, except for China. The
+    high and increasing levels of trade in the industry are evident from
+    the higher dependence of several regions on imported fertilizer."
+    "*It appears that despite the high levels of concentration in the
+    industry, prices are even higher in further concentrated markets due
+    to the apparent greater market power enjoyed by a couple of firms*."
+
 <br><br>
 
-#### Financial market dynamics and impact on global sustainability
+#### The global impact of investments and market dynamics
 
 -   The great recession of 2008 and the prolonged recession in Europe
     have been two of the most influential events on western hemisphere
@@ -473,17 +495,26 @@ electorate?
     ambitions in national and supra-national plans of transitioning to
     renewable energy sources [**REF**].
 
+-   Increasing investment in food commodities from index investors in
+    2007 may have exacerbaed the spikes in food prices in 2008 and 2011
+    and consequently had a role in the social unrest that these price
+    rises helped unleash (**Christopher Gilbert GEDB seminar 150424 -
+    Index investor activity increased before price spikes**).
+
 -   The integration of financial market dynamics and complexity with
     sustainability science seems an important agenda to ensure a more
     resilient and holistic response to such events.
 
 -   Examples of remaining research questions with regard to the
     financial crisis are:
-    -   What have some of socio-environmental impacts been of the
-        fincial crisis on other continents?
-    -   Can key trends in enviornmental and social degradation or
+
+    -   What have socio-environmental impacts been of the fincial crisis
+        on other continents?
+
+    -   Can key trends in environmental and social degradation or
         improvement be traced to events relating to the financial
         crisis.
+
     -   How do other actors respond to financial crisis. Do they e.g.
         learn to anticipate negative impacts from prolonge recessions
         caused by financial market complexity?
@@ -582,8 +613,7 @@ FUTURE PERSPECTIVES AND CONCLUSION
 Supporting notes
 ================
 
-Notes on integration
---------------------
+#### Notes on integration
 
 -   Emphasis on need to fully integrate economics and finance into
     sustainability science.
@@ -604,10 +634,9 @@ Notes on integration
 
 ------------------------------------------------------------------------
 
-***Older snippets***
---------------------
+### Older snippets
 
-### INTRO
+#### INTRO
 
 The concept of capital is important to sustainability science and
 environmental conservation
@@ -637,7 +666,7 @@ transactions and illicit capital flows influence social and
 environmental outcomes at their destinations and to what extent this
 tele-couples econo-socio-environmental dynamics in areas fare apart.
 
-### Main body
+#### Main body
 
 -   Green accounting (progress, next steps)
 
@@ -652,19 +681,18 @@ Perspective \* From green accounting to national accounts revisions
 
 ------------------------------------------------------------------------
 
-***Even older snippets***
--------------------------
+### Even older snippets
 
 <br><br>
 
-### Title:
+#### Title:
 
 *Blind spots: Gaps and recent progress in linking real world economics
 and sustainability science*
 
 <br><br>
 
-### Tenet:
+#### Tenet:
 
 Sustainability science has made good progress in showing the
 environmental and social effects and limits to current resource use.
@@ -674,7 +702,7 @@ environmental and social aspects of sustainability.
 
 <br><br>
 
-### Format suggestions:
+#### Format suggestions:
 
 A comment or perspective piece, e.g. for PNAS sustainability science
 section, or some more realistic target journal. The piece would comment
@@ -812,6 +840,11 @@ of sustainability science.” *Proceedings of the National Academy of
 Sciences of the United States of America* 108 (49): 19540–5.
 doi:[10.1073/pnas.1102712108](http://dx.doi.org/10.1073/pnas.1102712108).
 
+Blaxekjær, Lau Øfjord, and Tobias Dan Nielsen. 2014. “Mapping the
+narrative positions of new political groups under the UNFCCC.” *Climate
+Policy* 0 (0): 1–16.
+doi:[10.1080/14693062.2014.965656](http://dx.doi.org/10.1080/14693062.2014.965656).
+
 Brown, James H, Joseph R Burger, William R Burnside, Michael Chang, Ana
 D Davidson, Trevor S Fristoe, Marcus J Hamilton, et al. 2014.
 “Macroecology Meets Macroeconomics: Resource Scarcity and Global
@@ -835,6 +868,11 @@ Colander, David. 2005. “The Making of an Economist Redux.” *Journal of
 Economic Perspectives* 19 (1): 175–98.
 doi:[10.1257/0895330053147976](http://dx.doi.org/10.1257/0895330053147976).
 
+Collier, Paul. 2007. “Poverty reduction in Africa.” *Proceedings of the
+National Academy of Sciences of the United States of America* 104 (43):
+16763–68.
+doi:[10.1073/pnas.0611702104](http://dx.doi.org/10.1073/pnas.0611702104).
+
 Costanza, Robert, Rudolf de Groot, Paul Sutton, Sander van der Ploeg,
 Sharolyn J Anderson, Ida Kubiszewski, Stephen Farber, and R Kerry
 Turner. 2014. “Changes in the global value of ecosystem services.”
@@ -852,10 +890,22 @@ services for implementation.” *Proceedings of the National Academy of
 Sciences of the United States of America* 105 (28): 9483–88.
 doi:[10.1073/pnas.0706559105](http://dx.doi.org/10.1073/pnas.0706559105).
 
+Cushing, Lara, Rachel Morello-Frosch, Madeline Wander, and Manuel
+Pastor. 2015. “The Haves, the Have-Nots, and the Health of Everyone: The
+Relationship Between Social Inequality and Environmental Quality.”
+*Annual Review of Public Health* 36 (1): 193–209.
+doi:[10.1146/annurev-publhealth-031914-122646](http://dx.doi.org/10.1146/annurev-publhealth-031914-122646).
+
 Daily, Gretchen C, and Pamela a Matson. 2008. “Ecosystem services: from
 theory to implementation.” *Proceedings of the National Academy of
 Sciences of the United States of America* 105 (28): 9455–56.
 doi:[10.1073/pnas.0804960105](http://dx.doi.org/10.1073/pnas.0804960105).
+
+Díaz, Sandra, Sebsebe Demissew, Julia Carabias, Carlos Joly, Mark
+Lonsdale, Neville Ash, Anne Larigauderie, et al. 2015. “The IPBES
+Conceptual Framework — connecting nature and people.” *Current Opinion
+in Environmental Sustainability* 14 (June): 1–16.
+doi:[10.1016/j.cosust.2014.11.002](http://dx.doi.org/10.1016/j.cosust.2014.11.002).
 
 Ferguson, Thomas, and Robert Johnson. 2010. “When Wolves Cry’Wolf’:
 Systemic Financial Crisis and the Myth of the Danaid Jar.” *Institute
@@ -872,6 +922,22 @@ Montes. 2010. “The history of ecosystem services in economic theory and
 practice: From early notions to markets and payment schemes.”
 *Ecological Economics* 69 (6): 1209–18.
 doi:[http://dx.doi.org/10.1016/j.ecolecon.2009.11.007](http://dx.doi.org/http://dx.doi.org/10.1016/j.ecolecon.2009.11.007).
+
+Hernandez, Manuel a, and Maximo Torero. 2011. “Fertilizer market
+situation: market structure, consumption and trade patterns, and pricing
+behavior.” *International Food Policy Reserach Institute*, no. January:
+1–76.
+<http://www.ifpri.org/sites/default/files/publications/ifpridp01058.pdf>.
+
+Holland, Tim G., Garry D. Peterson, and Andrew Gonzalez. 2009. “A
+cross-national analysis of how economic inequality predicts biodiversity
+loss.” *Conservation Biology* 23 (5): 1304–13.
+doi:[10.1111/j.1523-1739.2009.01207.x](http://dx.doi.org/10.1111/j.1523-1739.2009.01207.x).
+
+Hyden, Goran. 2007. “Governance and poverty reduction in Africa.”
+*Proceedings of the National Academy of Sciences of the United States of
+America* 104 (43): 16751–56.
+doi:[10.1073/pnas.0700696104](http://dx.doi.org/10.1073/pnas.0700696104).
 
 Kates, Robert W, and Partha Dasgupta. 2007. “African poverty: a grand
 challenge for sustainability science.” *Proceedings of the National
@@ -919,6 +985,25 @@ sustainable development.” *Proceedings of the National Academy of
 Sciences of the United States of America* 105 (28): 9501–6.
 doi:[10.1073/pnas.0708856105](http://dx.doi.org/10.1073/pnas.0708856105).
 
+Mikkelson, Gregory M., Andrew Gonzalez, and Garry D. Peterson. 2007.
+“Economic inequality predicts biodiversity loss.” *PLoS ONE* 2 (5): 3–7.
+doi:[10.1371/journal.pone.0000444](http://dx.doi.org/10.1371/journal.pone.0000444).
+
+Millennium Ecosystem Assessment. 2005. “Ecosystems and Human Well-being:
+Synthesis.” Washington, DC.
+
+Norgaard, Richard B. 2008. “Finding hope in the Millennium Ecosystem
+Assessment.” *Conservation Biology* 22 (4): 862–69.
+doi:[10.1111/j.1523-1739.2008.00922.x](http://dx.doi.org/10.1111/j.1523-1739.2008.00922.x).
+
+———. 2010. “Ecosystem services: From eye-opening metaphor to complexity
+blinder.” *Ecological Economics* 69 (6): 1219–27.
+doi:[10.1016/j.ecolecon.2009.11.009](http://dx.doi.org/10.1016/j.ecolecon.2009.11.009).
+
+Ott, Herve. 2012. “Fertilizer markets and its interplay with commodity
+and food prices,” no. JRC73043.
+doi:[10.2791/82136](http://dx.doi.org/10.2791/82136).
+
 Palazy, L., C. Bonenfant, J. M. Gaillard, and F. Courchamp. 2012.
 “Rarity, trophy hunting and ungulates.” *Animal Conservation* 15 (1):
 4–11.
@@ -929,7 +1014,34 @@ Courchamp. 2011. “Cat dilemma: Too protected to escape trophy hunting?”
 *PLoS ONE* 6 (7): 1–6.
 doi:[10.1371/journal.pone.0022424](http://dx.doi.org/10.1371/journal.pone.0022424).
 
+Reyers, Belinda, Stephen Polasky, Heather Tallis, and Harold A Mooney.
+2012. “Biodiversity and Ecosystem Services: Similar but Different.”
+*BioScience* 62 (9): 785–85.
+doi:[10.1525/bio.2012.62.9.17](http://dx.doi.org/10.1525/bio.2012.62.9.17).
+
+Reyers, Belinda, Stephen Polasky, Heather Tallis, Harold A Mooney, and
+Anne Larigauderie. 2012. “Finding Common Ground for Biodiversity and
+Ecosystem Services” 62 (5): 503–7.
+
+Roberts, J Timmons. 2001. “Global Inequality and Climate Change.”
+*Society & Natural Resources* 14 (6): 501–9.
+doi:[10.1080/08941920118490](http://dx.doi.org/10.1080/08941920118490).
+
+Tallis, Heather, and Jane Lubchenco. 2014. “A call for inclusive
+conservation.” *Nature* 515: 27–28.
+
+Tallis, Heather, Peter Kareiva, Michelle Marvier, and Amy Chang. 2008.
+“An ecosystem services framework to support both practical conservation
+and economic development.” *Proceedings of the National Academy of
+Sciences* 105 (28): 9457–64.
+
 Vitali, Stefania, and Stefano Battiston. 2013. “The Community Structure
 of the Global Corporate Network.” *Swiss Federal Institute of Technology
 Zurich* 9 (255987): 1–19.
 doi:[10.1371/journal.pone.0104655](http://dx.doi.org/10.1371/journal.pone.0104655).
+
+Wiedmann, Thomas O, Heinz Schandl, Manfred Lenzen, Daniel Moran, Sangwon
+Suh, James West, and Keiichiro Kanemoto. 2013. “The material footprint
+of nations.” *Proceedings of the National Academy of Sciences of the
+United States of America*, September.
+doi:[10.1073/pnas.1220362110](http://dx.doi.org/10.1073/pnas.1220362110).
