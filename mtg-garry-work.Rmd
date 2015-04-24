@@ -1,26 +1,56 @@
 ---
-title: "Notes Garry meeting"
-author: "Peter Søgaard Jørgensen"
+output:
+  html_document:
+    number_sections: yes
+    theme: default
+    toc: yes
+    toc_depth: 4
+  md_document:
+    dev: png
+    toc: yes
+    toc_depth: 4
+  pdf_document:
+    latex_engine: xelatex
+    number_sections: yes
+    toc: yes
+    toc_depth: 4
+  word_document:
+    reference_docx: template.docx
+title: "mtg-garry-notes-150424"
 date: "Friday, April 24, 2015"
-output: html_document
+category: real-world-economics
+layout: post
+tagline: Outlining an ms
+tags:
+- outline
+- real world economics
+- economics
+- sustainability
+- sustainability science
+bibliography: PostDocKVA2.bib
 ---
+{% include JB/setup %}
 
-
-
-
-#### Migration flows - capital flows
-
-* captial in, migration in
-
-* capital out, migration out
-
-* capital in, migration out
-
-* capital out, migration in
-
------ 
 
 ### Notes for RWE outline
+
+<br><br>
+
+#### Globalization framework
+
+
+**Economic phenomena linked to the formal and informal economies at various spatial scales.**
+
+
+actors | white (licit) | grey | black (illicit) |
+-------|---------------|-------|-------|
+finance | banks, bonds |  | money laundering |
+global actors | direct land investment  | |narco / arms / mafias / range |
+individual agens | remittances | |illegal migrants & "evaders of the state"|
+
+
+<br><br>
+
 
 #### Inequality
 
@@ -28,7 +58,7 @@ output: html_document
 
     * Tim Jackson - social hierarchy
     
-    * Spirit level
+    * Spirit level - book
     
     * *Conspicuous consumption* - Consuming to be seen and get status.
     
@@ -38,39 +68,29 @@ output: html_document
 
 * Unequal nations - less government investment in public health
 
-    * Picketty - weatlh 
+    * Link to Picketty and higher degree of return on financial capital weatlh
 
 
-* Quality of democracy
+    * Quality of democracy
 
-    * Median voter theorem
+        * Median voter theorem
     
-    * Regulatory capture
+        * Regulatory capture
     
-        * Case: Endangered Species Act - strong, but not implemented, because state governments do not fund it.
+            * Case: Endangered Species Act - strong, but not implemented, because state governments do not fund it.
         
-    * Political economy
-
-
-* Co-production - what happens when scientists collaborate
-
-    * Challenges of co-production
-    
-    * How do you think of having socially good processes, without being over-normative.
-    
-
-* Concentrated media
-
-    * Australia - media owned by coal ownership
-    
-    * Employment in PR industry versus journalism
-    
-    * Role of large media corportations in demochratic sustainable transitions
-    
-        * Communication of information about non-empowering information/news
+        * Political economy
         
-            * e.g. 
-            
+    * Concentrated media and unempowering junk information?
+
+        * Australia - media owned by coal ownership
+    
+        * Employment in PR industry versus journalism
+    
+        * Role of large media corportations in demochratic sustainable transitions
+    
+            * Communication of information about non-empowering information/news
+
 
 * Global inequality - Historical political ecology
 
@@ -87,8 +107,109 @@ output: html_document
     * Shock doctrine and the socio-ecological as well as macroeconomic consequences today
 
 
+<br><br>
 
 
+#### Financial innovation
+
+* a roving bandits strategy
+
+* is financial innvoation a strategy for escaping regulation
+    
+* black and grey markets
+    
+    * money laundering - tax havens
+    
+* "black/deviatnt globalization (book)"
+    
+    * using globalization to evade prosecution
+    
+    * cross-border crime as a business to benefit from administrative
+    
+* illegal waste dumbing in Italy, starting out as legal waste exports in Germany
+    
+    
+* Gomorrah movie
+
+
+<br><br>
+
+
+#### Illicit financial flows
+    
+* **Estimate size of flows**
+    
+* **Find good cases**
+    
+    * Illicit flows from China (to Garry's hometown)
+        
+        * Partially off the books businesses moving capital out of country to obscure tracking.
+            
+        * Main investors in China are global tax havens.
+        
+    * "Narko states" - e.g. Colombia, Mexico
+        
+        * Effects on land use change dynamiscs
+            
+            * E.g. Colombia, spraying fields will generate new areas with deforestation for coca plantations.
+    
+* [Global Financial Integrity](http://www.gfintegrity.org/)
+    
+    * [Global Illicit Financial Flows Reports](http://www.gfintegrity.org/reports/)
+    
+* drugs
+    
+    * Cocaine production World Bank report - What Do We Know
+    
+* human trafficking (probably treat separate from drugs)
+    
+    * a problem and a solution
+        
+        * new people in countries as source of conflict
+            
+            * ethnic diversity as a source of conflict or a sign of different cultures
+                
+        * new people in countries as a source of innovation (*REFS from economic geography*)
+            
+            * new economic ventures started up by immigrants
+                
+            * immigrants in canadian households earning more than native-born canadians
+                
+            * interlinked-chains of skilled migrants between coupled bilateral systems
+              
+<br><br>
+    
+
+#### family financial networks
+
+* Hawala
+
+* Informal Transfer Systems - IMF report on Hawala
+    
+* framed under a teleccoupled financial 
+
+* **References**
+
+    * ***Do international migration and remittances reduce poverty in developing countries***
+
+    * Remittances, financial development and growth - **Highly cited paper**
+
+    * Evaluating the Economic Impact of International Remittances on Developing Countries
+
+* possible structuring
+
+    * global markets and on the ground effects
+    
+        * financial flows
+    
+    * local networks and the global impact and context 
+
+        * most illicit flows
+
+<br><br>
+
+
+#### Online resources on fincial flows
         
         
 http://www.afdb.org/en/blogs/integrating-africa/post/african-regional-integration-and-the-fight-against-illicit-financial-flows-12898/
@@ -118,145 +239,26 @@ http://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1928&context=faculty_
 http://faculty.haas.berkeley.edu/Dalbo/Regulatory_Capture_Published.pdf
 
 
+<br><br>
 
 
 
----
-
-* financial innovation as a roving bandits strategy
-
-    * is financial innvoation a strategy for escaping regulation
-    
-    * black and grey markets
-    
-        * money laundering - tax havens
-    
-    * "black/deviatnt globalization (book)"
-    
-        * using globalization to evade prosecution
-    
-        * cross-border crime as a business to benefit from administrative
-    
-    * illegal waste dumbing in Italy, starting out as legal waste exports in Germany
-    
-    
-    * Gomorrah movie
-
-* illicit financial flows -
-    
-    * **Estimate size of flows**
-    
-    * **Find good cases**
-    
-        * Illicit flows from China (to Garry's hometown)
-        
-            * Partially off the books businesses moving capital out of country to obscure tracking.
-            
-            * Main investors in China are global tax havens.
-        
-        * "Narko states" - e.g. Colombia, Mexico
-        
-            * Effects on land use change dynamiscs
-            
-                * E.g. Colombia, spraying fields will generate new areas with deforestation for coca plantations.
-    
-    * [Global Financial Integrity](http://www.gfintegrity.org/)
-    
-        * [Global Illicit Financial Flows Reports](http://www.gfintegrity.org/reports/)
-    
-    * drugs
-    
-        * Cocaine production World Bank report - What Do We Know
-    
-    * human trafficking (probably treat separate from drugs)
-    
-        * a problem and a solution
-        
-            * new people in countries as source of conflict
-            
-                * ethnic diversity as a source of conflict or a sign of different cultures
-                
-                * 
-            
-            * new people in countries as a source of innovation (*REFS from economic geography*)
-            
-                * new economic ventures started up by immigrants
-                
-                * immigrants in canadian households earning more than native-born canadians
-                
-                * interlinked-chains of skilled migrants between coupled bilateral systems
-                
-    
-
-* family financial networks
-
-    * Hawala
-
-    * Informal Transfer Systems - IMF report on Hawala
-    
-    * framed under a teleccoupled financial 
-
-* **References**
-
-    * ***Do international migration and remittances reduce poverty in developing countries***
-
-    * Remittances, financial development and growth - **Highly cited paper**
-
-    * Evaluating the Economic Impact of International Remittances on Developing Countries
-
-* possible structuring
-
-    * global markets and on the ground effects
-    
-        * financial flows
-    
-    * local networks and the global impact and context 
-
-
-        * most illicit flows
-        
-
-#### Globalization
-
-
-actors | white (licit) | grey | black (illicit) |
--------|---------------|-------|-------|
-finance | banks, bonds |  | money laundering |
-global actors | direct land investment  | |narco / arms / mafias / range |
-individual agens | remittances | |illegal migrants & "evaders of the state"|
-
-
----
-
-
-* Berkes
-
-* Kate Brown - development geography - adaptation to climate change
-
---
-
-* Kates
-
-* Billy Lee Turner
-
-* Hal Mooney
-
-
----
-
-* Daniel
-
+#### Integrating with the core of the socio-economic sciences
 
 * Deeper integration with economic and social sciences
 
     * Going away from individualism, having a more rich view of how societies function - corruption - brutality - goodness - norms - war & conflict (blind spots - myopias - cognitive disonance - understand the world and see the seeds of good) - decision making / participatory stuff
 
 
-* Advanced economic modelling (maybe not for the paper)
+* Advanced economic modelling (maybe not for this paper)
 
     * Game theory - Chaos - Buzz Braug -
     
-    *
+
+<br><br>
+
+
+#### Market dynamics
 
 
 * Socio-ecological consequences of financial and market dynamics
@@ -279,16 +281,67 @@ individual agens | remittances | |illegal migrants & "evaders of the state"|
       * Somalia - cautionary tale of socio-ecological drivers of piracy in a economically and democratically collapsed state
       
 
----
+<br><br>
 
-Key guideline for the moore controversial bits - looking at the empirical side of things
 
-Future perspectives - how can sustainability science go on from here in interacting with a broad set of large scale/real world socio-economic issues
+#### Future perspectives
 
-Meeting with Daniel and Anne Sophie
+* How can sustainability science go on from here in interacting with a broad set of large real world (socio-)economic and financial issues
 
-Potential editors
+* Co-production - what happens when scientists collaborate
 
-  * Neil Adger & Kate Brown
+    * Challenges of co-production
+    
+    * How do you think about having socially good processes, without being over-normative.
+    
+* Key guideline for what may be considered more controversial bits - looking at the empirical side of things
 
+
+<br><br>
+
+
+-----
+
+-----
+
+
+
+
+#### Next steps
+
+* Meeting with Daniel and Anne Sophie
+
+* Online repository for readings - Garry on Eboks.
+
+* Potential collabs
+
+    * Neil Adger & Kate Brown
+    
+    * Berkes
+
+    * Kate Brown - development geography - adaptation to climate change
+
+    * Billy Lee Turner
+
+    * Hal Mooney
+
+
+* Peter - talk to Gretchen and Carl and Cecilia.
+
+
+
+-----
+
+-----
+
+
+#### Framework for migration flows - capital flows - Daniel project
+
+* captial in, migration in
+
+* capital out, migration out
+
+* capital in, migration out
+
+* capital out, migration in
 

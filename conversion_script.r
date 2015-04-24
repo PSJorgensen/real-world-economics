@@ -7,7 +7,7 @@ html.output.dir<-"G:/Documents/PostDocKVA/Labbook/psjorgensen.github.com/_posts"
 project.title<- "real-world-economics"
 
 docs.vec<-c("real-world-economics-outline","real-world-economics-bibliography","finance-sustainability-crashcourse-session2",
-            "finance-sustainability-crashcourse-session4","finance-biosphere-seminar3")
+            "finance-sustainability-crashcourse-session4","finance-biosphere-seminar3","mtg-garry-work")
 
 htmlpost_switch <- TRUE
 html_switch <- TRUE
@@ -18,7 +18,7 @@ word_switch <- TRUE
 setwd(paste(wd,"projects/",project.title,sep=""))
 
 
-for(i in 1){#c(1:5)){#1:length(docs.vec)){
+for(i in 6){#c(1:6)){#1:length(docs.vec)){
 
 # html
 if(htmlpost_switch == TRUE){
