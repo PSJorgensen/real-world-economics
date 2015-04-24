@@ -1,8 +1,4 @@
 ---
-title: "Real-world-economics-outline"
-date: "Friday, April 24, 2015"
-category: real-world-economics
-layout: post
 output:
   html_document:
     number_sections: yes
@@ -20,6 +16,10 @@ output:
     toc_depth: 3
   word_document:
     reference_docx: template.docx
+title: "Real-world-economics-outline"
+date: "Friday, April 24, 2015"
+category: real-world-economics
+layout: post
 tagline: Outlining an ms
 tags:
 - outline

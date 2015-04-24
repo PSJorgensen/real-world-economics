@@ -18,7 +18,7 @@ word_switch <- TRUE
 setwd(paste(wd,"projects/",project.title,sep=""))
 
 
-for(i in 1){#c(1:4)){#1:length(docs.vec)){
+for(i in 1){#c(1:5)){#1:length(docs.vec)){
 
 # html
 if(htmlpost_switch == TRUE){
