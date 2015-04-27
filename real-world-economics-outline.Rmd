@@ -1,24 +1,24 @@
 ---
+title: "Real-world-economics-outline"
+category: real-world-economics
+date: "Friday, April 27, 2015"
 output:
-  html_document:
+  pdf_document:
+    latex_engine: xelatex
     number_sections: yes
-    theme: default
     toc: yes
     toc_depth: 3
   md_document:
     dev: png
     toc: yes
     toc_depth: 3
-  pdf_document:
-    latex_engine: xelatex
+  html_document:
     number_sections: yes
+    theme: default
     toc: yes
     toc_depth: 3
   word_document:
     reference_docx: template.docx
-title: "Real-world-economics-outline"
-date: "Friday, April 24, 2015"
-category: real-world-economics
 layout: post
 tagline: Outlining an ms
 tags:
@@ -44,7 +44,7 @@ bibliography: PostDocKVA2.bib
 # INTRO
 
 #### Importance of economic dynamics for the earth system and global sustainability
-	
+  
 * Human economic activitiy has a deciding role for the future of our planet. Yet some may argue that economics out of the three pillars of sustainability development - the social, the economic and the environmental - is the pillar least integrated in current approach to sustainability science.
     
 * The human economy is a driving factor of biodiversity loss and climate change. At the same time, global economic inequalities themselves can be viewed as one of the greatet barriers for addressing global environmental and socio-economic challenges.
@@ -202,27 +202,81 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
 
         * Trade and emissions [e.g. China's international trade and air pollution in the United States, Lin et al. 2014 PNAS] and Lenzen and Wiedmann studies. [i.e. consumption based accounting of official trade statistics]
 
-<br><br>	
+<br><br>  
 
 
 
 ### Socio-economic inequality and health and environmental quality
 
 
-* Global impacts of inequality
+#### Global dynamics and impacts of inequality
   
-    * challenges for global governance of the commons - 
+* challenges for global governance of the commons - 
         
-        * Inequality in contributions to global climate change together with global economic inequality largely explains the deadlock in climate change negotiations and the global south's insistence on their rights to develop [@Timmons2001; @Blaxekjaer2014]
+    * Inequality in contributions to global climate change together with global economic inequality largely explains the deadlock in climate change negotiations and the global south's insistence on their rights to develop [@Timmons2001; @Blaxekjaer2014]
     
-    * global economic implications of poverty traps exacerbated by trade, ethnic diversity and resource endownments
+* global economic implications of poverty traps exacerbated by trade, ethnic diversity and resource endownments
         
-        * A special issue on the African poverty trap in PNAS [@Kates2007] revealed that ethnic diversity contributes to keep countries trapped in poverty [@Collier2007]. Therefore, alleviation of such cases requires special regulatory interventions in the global economy [@Hyden2007]
+    * A special issue on the African poverty trap in PNAS [@Kates2007] revealed that ethnic diversity contributes to keep countries trapped in poverty [@Collier2007]. Therefore, alleviation of such cases requires special regulatory interventions in the global economy [@Hyden2007]
 
 
-* Local impacts of inequality
+* ** Notes for integration**
+
+    * Global inequality - Historical political ecology
+
+        * Henrik on Soviet Union and regime shifts
     
-    * Local hotspots of economic inequality is correlated with loss of biodiversity [@Mikkelson2007; @Holland2009] and poverty hotspots exhibit poorer environmental quality and hence opportunities for improving public health [@Cushing2015]
+        * Mark Davis - late Victorian-holocausts
+    
+            * El-Nino, famines, and the making of the third world
+        
+        * India: Climate shocks used to be normal in India - colonialism blocked institutional adaptation - Raj - modern society - 
+    
+        * Luis et al. - mass die-offs of native americans to European settlement - onset of the Anthropocene
+    
+        * Shock doctrine and the socio-ecological as well as macroeconomic consequences today - Naomi Klein
+
+
+
+#### National dynamics and impacts of inequality
+
+
+* **Notes to integrate**
+
+    * Economic measures relating to concentration of wealth - CLASSIC REFERENCES, e.g. Picketty
+    
+    * Dynamics of more unequal nations
+
+        * More unequal nations have less government investment in public health
+
+        * Link to Picketty and higher degree of return on financial capital weatlh
+
+
+    * Quality of democracy in more vs. less equal nations
+
+        * Median voter theorem
+    
+        * Regulatory capture
+    
+            * Case: Endangered Species Act - strong, but not implemented, because state governments do not fund it.
+        
+        * Sustainability science needs to integrate with political economy research
+        
+    * Concentrated media and unempowering junk information?
+
+        * Australia - media owned by coal ownership
+    
+        * Employment in PR industry versus journalism
+    
+        * Role of large media corportations in demochratic sustainable transitions
+    
+            * Communication of information about non-empowering information/news
+
+
+
+#### Local dynamics and impacts of inequality
+    
+* Local hotspots of economic inequality is correlated with loss of biodiversity [@Mikkelson2007; @Holland2009] and poverty hotspots exhibit poorer environmental quality and hence opportunities for improving public health [@Cushing2015]
 
 
     * *References*
@@ -232,6 +286,19 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
   
         * A review of financial instruments to pay for predator conservation and encourage human-carnivore coexistence
 
+    * **Notes to integrate**
+    
+        * Unequal localities - mental health and stress for rising in the social hierarchy
+
+        * Tim Jackson - social hierarchy
+    
+        * Spirit level - book
+    
+        * *Conspicuous consumption* - Consuming to be seen and get status.
+    
+            * Thorstein Veblen
+        
+            * Veblen goods
 
 
 
@@ -248,7 +315,32 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
 
 <br><br>
 
-### Finance in politics, financial players an dynamcis
+### A framework for structuring research questions on the global dynamics of  the formal and informal economy
+
+Global economic dynamics are influenced by actors at different levels of organization and occur in both the formalized and informal global economy.
+
+
+<br><br>
+
+
+
+#### Table 1 - globalization framework
+
+**Economic phenomena linked to the formal and informal economies at various spatial scales.**
+
+actors | white (licit) | grey | black (illicit) |
+-------|---------------|-------|-------|
+finance | banks, bonds |  | money laundering |
+global actors | direct land investment  | |drugs / arms / mafias / ??range?? |
+individual agens | remittances | |illegal migrants & "evaders of the state"|
+
+
+
+<br><br>
+
+
+
+### Finance in politics and key financial players
 
 <br><br>
 
@@ -269,7 +361,7 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
 
 <br><br>
 
-#### The global impact of investments and market dynamics
+### The global impact of investments and market dynamics
         
 * The great recession of 2008 and the prolonged recession in Europe have been two of the most influential events on western hemisphere policy in the 21st century. Both recessions were partially caused by the influence of increasingly complex financial system on commodity prices such as housing prices and even national savings (Greece) [find articles on investment in the national savings of Greece, Italy and Spain **REFS**]. The impact of the following economic downturn on important environmental policies such as energy investments can be seen e.g. in many nations decision to explore options for liquified shale oil and natural gas and lowered ambitions in national and supra-national plans of transitioning to renewable energy sources [**REF**].
 
@@ -284,6 +376,34 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
     * Can key trends in environmental and social degradation or improvement be traced to events relating to the financial crisis.
     
     * How do other actors respond to financial crisis. Do they e.g. learn to anticipate negative impacts from prolonge recessions caused by financial market complexity?
+
+
+* **notes for integration**
+
+    * Market dynamics
+
+        * Socio-ecological consequences of financial and market dynamics
+
+            * The principal agent problem
+    
+            * What are employees evaluated for and what is the goal of the institution
+        
+    * National bankruptcies - socio-ecological consequences of economic shocks
+
+        * Asian financial crisis
+      
+        * Latin American crises - 
+      
+            * Argentina - rangelands
+          
+            * Brazil - forest dynamics
+
+        * Somalia - cautionary tale of socio-ecological drivers of piracy in a economically and democratically collapsed state
+      
+        * Greece
+
+
+
 
 <br><br>
 
@@ -301,10 +421,112 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
 
 * While captial flows of the financial market may prove an important factor influencing the likelihood of sustainable transitions, much of international trade happens outside the market. For example, the international market for wildlife medicine largely occur through illicit financial transactions. Such markets and transactions may in some cases have more immediately obvious impact on socio-environemntal sustainablity. For example, the negative impact of such trading on threatened species, sometimes appearing on the brnk of extinction, is well-documented through declines in e.g. elephants and rhinos in Africa. Tragically, from trophy hunting it has been shown that increasing rarity of hunted species may only increase the exclusiveness, price and demand for their derived products - potentially leading to a self-reinforcing feedback loop toward further decline [@Palazy2011; @Palazy2012]. In other cases, the effect of illicit international capital flows are much less well documented. **give examples** Thus, whether licit or illicit, untangling the teleconnected socio-environmental effects of international capital flows should be of priority to sustainability science.
     
+
+
+<br><br>
+
+
+* **Notes for integration**
     
+    * **Estimate size of flows**
+    
+    * **Find good cases**
+    
+        * Illicit flows from China (to Garry's hometown)
+        
+            * Partially off the books businesses moving capital out of country to obscure tracking.
+            
+            * Main investors in China are global tax havens.
+        
+    
+    * [Global Financial Integrity](http://www.gfintegrity.org/)
+    
+        * [Global Illicit Financial Flows Reports](http://www.gfintegrity.org/reports/)
+    
+    * *drugs*
+    
+        * Cocaine production World Bank report - What Do We Know
+    
+        * "Narko states" - e.g. Colombia, Mexico
+        
+            * Effects on land use change dynamiscs
+            
+            * E.g. Colombia, spraying fields will generate new areas with deforestation for coca plantations.
 
-    * Trade Policy and Public Health - Annual Review of Public Health - Vol. 36: 325-344 (Volume publication date March 2015) - First published online as a Review in Advance on December 10, 2014 - DOI: 10.1146/annurev-publhealth-031914-122739
+    * *human trafficking* (probably treat separate from drugs)
+    
+        * immigration as a problem and a solution (not sure this fits under the header of trafficking - maybe need separate chapter on economic consequences of migration (human flows))
+        
+            * new people in countries as source of conflict
+            
+            * *ethnic diversity as a source of conflict or a sign of different cultures*
+                
+            * new people in countries as a source of innovation (*REFS from economic geography*)
+            
+            * *new economic ventures started up by immigrants*
+                
+            * immigrants in canadian households earning more than native-born canadians
+                
+            * interlinked-chains of skilled migrants between coupled bilateral systems (source-sink dynamics)
+                
 
+    * *family financial networks*
+
+        * Hawala
+
+        * Informal Transfer Systems - IMF report on Hawala
+    
+        * framed under a teleccoupled financial 
+
+        * **References**
+
+            * ***Do international migration and remittances reduce poverty in developing countries***
+
+            * Remittances, financial development and growth - **Highly cited paper**
+
+            * Evaluating the Economic Impact of International Remittances on Developing Countries
+
+        * possible structuring
+
+            * global markets and on the ground effects - financial flows
+    
+            * local networks and the global impact and context - most illicit flows
+
+
+<br><br>
+
+
+* **Online resources on fincial flows for integration**
+        
+    * http://www.afdb.org/en/blogs/integrating-africa/post/african-regional-integration-and-the-fight-against-illicit-financial-flows-12898/
+
+    * http://www.gfintegrity.org/storage/gfip/documents/reports/gfi_africareport_web.pdf
+
+    * http://www.unodc.org/documents/data-and-analysis/Studies/Illicit_financial_flows_2011_web.pdf
+
+    * https://openknowledge.worldbank.org/bitstream/handle/10986/6719/wps4618.pdf?sequence=1
+
+    * http://www.gfintegrity.org/reports/
+
+    * http://www.gfintegrity.org/
+
+    * https://books.google.se/books?hl=en&lr=&id=CCwqWOvf9dQC&oi=fnd&pg=PR5&dq=human+trafficking+illicit+financial+flows&ots=Vm5pNT9V_4&sig=0uoR07JZjcDnayaBLfpoZ1PL9EM&redir_esc=y#v=onepage&q=human%20trafficking%20illicit%20financial%20flows&f=false
+
+    * http://www.econstor.eu/bitstream/10419/52839/1/376632771.pdf
+
+    * http://natlex.ilo.ch/wcmsp5/groups/public/---ed_norm/---declaration/documents/publication/wcms_081931.pdf
+
+    * http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2528587
+
+    * http://www.jstor.org/discover/10.2307/1123280?uid=3738984&uid=2&uid=4&sid=21106131267781
+
+    * http://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1928&context=faculty_publications
+
+    * http://faculty.haas.berkeley.edu/Dalbo/Regulatory_Capture_Published.pdf
+
+              
+<br><br>
+    
 
 <br><br>
 
@@ -319,6 +541,29 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
 
 * Sustainability science needs to embrace these recent developments by asking a number of research and solution-oriented questions: (1) How effective are private financial investments in ensuring positive sustainability-related outcomes, compared to, for example, governnmental investments?; (2) Which types of private financial investments are most effective in various geographical areas and in solving different sustainability-challenges.
 
+* **notes for integration**
+
+    * the positive perspective - see notes from finance and the biosphere seminar
+
+    * the critical perspective - a roving bandits strategy??
+
+        * is financial innvoation a strategy for escaping regulation
+    
+        * black and grey markets
+    
+            * money laundering - tax havens
+    
+        * "black/deviant globalization (book)"
+    
+            * using globalization to evade prosecution
+    
+            * *cross-border crime as a business to benefit from administrative conflicts and inefficiences*
+    
+            * illegal waste dumbing in Italy, starting out as legal waste exports in Germany
+    
+            * Gomorrah movie
+
+
 
 <br><br>
 
@@ -330,6 +575,32 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
 # FUTURE PERSPECTIVES AND CONCLUSION
 
 *Text to be added here.*
+
+<br><br>
+
+* **notes for integration**
+
+    * Integrating with the core of the socio-economic sciences
+
+        * Deeper integration with economic and social sciences
+
+    * Going away from individualism, having a more rich view of how societies function - corruption - brutality - goodness - norms - war & conflict (blind spots - myopias - cognitive disonance - understand the world and see the seeds of good) - decision making / participatory stuff
+
+
+    * Advanced economic modelling (maybe not for this paper)
+
+        * Game theory - Chaos - Buzz Braug -
+
+    * *How can sustainability science go on from here in interacting with a broad set of large real world (socio-)economic and financial issues*
+
+    * Co-production - what happens when scientists collaborate
+
+        * Challenges of co-production
+    
+        * How do you think about having socially good processes, without being over-normative.
+    
+    * Key guideline for what may be considered more controversial bits - looking at the empirical side of things and value diversity
+
 
 
 <br><br>
@@ -353,6 +624,7 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
     * Examples of lack of integration between ecological, social and economic perspectives:
 
       * Lack of integration of an explicitly ecological perspective into social sciences and socio-economic policy [@Brown2014, @Burnside2012]
+        
         * With the implication of overlooking natural resource exploitation as an underlying trend for the "great recession" [@Brown2014]
 
 

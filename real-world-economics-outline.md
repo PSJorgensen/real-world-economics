@@ -21,7 +21,10 @@
         -   Socio-economic inequality and health and environmental
             quality
 -   AREAS THAT NEED ATTENTION
-    -   Finance in politics, financial players an dynamcis
+    -   A framework for structuring research questions on the global
+        dynamics of the formal and informal economy
+    -   Finance in politics and key financial players
+    -   The global impact of investments and market dynamics
     -   International financial transactions and flows
     -   Financial innovation for sustainabiltiy
 -   FUTURE PERSPECTIVES AND CONCLUSION
@@ -369,31 +372,87 @@ environmental problems*" amplified.
 
 ### Socio-economic inequality and health and environmental quality
 
--   Global impacts of inequality
+#### Global dynamics and impacts of inequality
 
-    -   challenges for global governance of the commons -
+-   challenges for global governance of the commons -
 
-        -   Inequality in contributions to global climate change
-            together with global economic inequality largely explains
-            the deadlock in climate change negotiations and the global
-            south's insistence on their rights to develop (Roberts 2001;
-            Blaxekjær and Nielsen 2014)
-    -   global economic implications of poverty traps exacerbated by
-        trade, ethnic diversity and resource endownments
+    -   Inequality in contributions to global climate change together
+        with global economic inequality largely explains the deadlock in
+        climate change negotiations and the global south's insistence on
+        their rights to develop (Roberts 2001; Blaxekjær and Nielsen
+        2014)
+-   global economic implications of poverty traps exacerbated by trade,
+    ethnic diversity and resource endownments
 
-        -   A special issue on the African poverty trap in PNAS (Kates
-            and Dasgupta 2007) revealed that ethnic diversity
-            contributes to keep countries trapped in poverty (Collier
-            2007). Therefore, alleviation of such cases requires special
-            regulatory interventions in the global economy (Hyden 2007)
+    -   A special issue on the African poverty trap in PNAS (Kates and
+        Dasgupta 2007) revealed that ethnic diversity contributes to
+        keep countries trapped in poverty (Collier 2007). Therefore,
+        alleviation of such cases requires special regulatory
+        interventions in the global economy (Hyden 2007)
+-   \*\* Notes for integration\*\*
 
--   Local impacts of inequality
+    -   Global inequality - Historical political ecology
 
-    -   Local hotspots of economic inequality is correlated with loss of
-        biodiversity (Mikkelson, Gonzalez, and Peterson 2007; Holland,
-        Peterson, and Gonzalez 2009) and poverty hotspots exhibit poorer
-        environmental quality and hence opportunities for improving
-        public health (Cushing et al. 2015)
+        -   Henrik on Soviet Union and regime shifts
+
+        -   Mark Davis - late Victorian-holocausts
+
+            -   El-Nino, famines, and the making of the third world
+        -   India: Climate shocks used to be normal in India -
+            colonialism blocked institutional adaptation - Raj - modern
+            society -
+
+        -   Luis et al. - mass die-offs of native americans to European
+            settlement - onset of the Anthropocene
+
+        -   Shock doctrine and the socio-ecological as well as
+            macroeconomic consequences today - Naomi Klein
+
+#### National dynamics and impacts of inequality
+
+-   **Notes to integrate**
+
+    -   Economic measures relating to concentration of wealth - CLASSIC
+        REFERENCES, e.g. Picketty
+
+    -   Dynamics of more unequal nations
+
+        -   More unequal nations have less government investment in
+            public health
+
+        -   Link to Picketty and higher degree of return on financial
+            capital weatlh
+
+    -   Quality of democracy in more vs. less equal nations
+
+        -   Median voter theorem
+
+        -   Regulatory capture
+
+            -   Case: Endangered Species Act - strong, but not
+                implemented, because state governments do not fund it.
+        -   Sustainability science needs to integrate with political
+            economy research
+
+    -   Concentrated media and unempowering junk information?
+
+        -   Australia - media owned by coal ownership
+
+        -   Employment in PR industry versus journalism
+
+        -   Role of large media corportations in demochratic sustainable
+            transitions
+
+            -   Communication of information about non-empowering
+                information/news
+
+#### Local dynamics and impacts of inequality
+
+-   Local hotspots of economic inequality is correlated with loss of
+    biodiversity (Mikkelson, Gonzalez, and Peterson 2007; Holland,
+    Peterson, and Gonzalez 2009) and poverty hotspots exhibit poorer
+    environmental quality and hence opportunities for improving public
+    health (Cushing et al. 2015)
 
     -   *References*
         -   The Haves, the Have-Nots, and the Health of Everyone: The
@@ -405,6 +464,22 @@ environmental problems*" amplified.
 
         -   A review of financial instruments to pay for predator
             conservation and encourage human-carnivore coexistence
+
+    -   **Notes to integrate**
+
+        -   Unequal localities - mental health and stress for rising in
+            the social hierarchy
+
+        -   Tim Jackson - social hierarchy
+
+        -   Spirit level - book
+
+        -   *Conspicuous consumption* - Consuming to be seen and get
+            status.
+
+            -   Thorstein Veblen
+
+            -   Veblen goods
 
 <br><br>
 
@@ -419,7 +494,53 @@ AREAS THAT NEED ATTENTION
 
 <br><br>
 
-### Finance in politics, financial players an dynamcis
+### A framework for structuring research questions on the global dynamics of the formal and informal economy
+
+Global economic dynamics are influenced by actors at different levels of
+organization and occur in both the formalized and informal global
+economy.
+
+<br><br>
+
+#### Table 1 - globalization framework
+
+**Economic phenomena linked to the formal and informal economies at
+various spatial scales.**
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">actors</th>
+<th align="left">white (licit)</th>
+<th align="left">grey</th>
+<th align="left">black (illicit)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">finance</td>
+<td align="left">banks, bonds</td>
+<td align="left"></td>
+<td align="left">money laundering</td>
+</tr>
+<tr class="even">
+<td align="left">global actors</td>
+<td align="left">direct land investment</td>
+<td align="left"></td>
+<td align="left">drugs / arms / mafias / ??range??</td>
+</tr>
+<tr class="odd">
+<td align="left">individual agens</td>
+<td align="left">remittances</td>
+<td align="left"></td>
+<td align="left">illegal migrants &amp; &quot;evaders of the state&quot;</td>
+</tr>
+</tbody>
+</table>
+
+<br><br>
+
+### Finance in politics and key financial players
 
 <br><br>
 
@@ -480,7 +601,7 @@ electorate?
 
 <br><br>
 
-#### The global impact of investments and market dynamics
+### The global impact of investments and market dynamics
 
 -   The great recession of 2008 and the prolonged recession in Europe
     have been two of the most influential events on western hemisphere
@@ -518,6 +639,34 @@ electorate?
     -   How do other actors respond to financial crisis. Do they e.g.
         learn to anticipate negative impacts from prolonge recessions
         caused by financial market complexity?
+
+-   **notes for integration**
+
+    -   Market dynamics
+
+        -   Socio-ecological consequences of financial and market
+            dynamics
+
+            -   The principal agent problem
+
+                -   What are employees evaluated for and what is the
+                    goal of the institution
+
+    -   National bankruptcies - socio-ecological consequences of
+        economic shocks
+
+        -   Asian financial crisis
+
+        -   Latin American crises -
+
+            -   Argentina - rangelands
+
+            -   Brazil - forest dynamics
+
+        -   Somalia - cautionary tale of socio-ecological drivers of
+            piracy in a economically and democratically collapsed state
+
+        -   Greece
 
 <br><br>
 
@@ -559,10 +708,116 @@ electorate?
     international capital flows should be of priority to sustainability
     science.
 
-    -   Trade Policy and Public Health - Annual Review of Public
-        Health - Vol. 36: 325-344 (Volume publication date March 2015) -
-        First published online as a Review in Advance on December 10,
-        2014 - DOI: 10.1146/annurev-publhealth-031914-122739
+<br><br>
+
+-   **Notes for integration**
+
+    -   **Estimate size of flows**
+
+    -   **Find good cases**
+
+        -   Illicit flows from China (to Garry's hometown)
+
+            -   Partially off the books businesses moving capital out of
+                country to obscure tracking.
+
+            -   Main investors in China are global tax havens.
+
+    -   [Global Financial Integrity](http://www.gfintegrity.org/)
+
+        -   [Global Illicit Financial Flows
+            Reports](http://www.gfintegrity.org/reports/)
+    -   *drugs*
+
+        -   Cocaine production World Bank report - What Do We Know
+
+        -   "Narko states" - e.g. Colombia, Mexico
+
+            -   Effects on land use change dynamiscs
+
+                -   E.g. Colombia, spraying fields will generate new
+                    areas with deforestation for coca plantations.
+
+    -   *human trafficking* (probably treat separate from drugs)
+
+        -   immigration as a problem and a solution (not sure this fits
+            under the header of trafficking - maybe need separate
+            chapter on economic consequences of migration (human flows))
+
+            -   new people in countries as source of conflict
+
+                -   ethnic diversity as a source of conflict or a sign
+                    of different cultures
+            -   new people in countries as a source of innovation (*REFS
+                from economic geography*)
+
+                -   new economic ventures started up by immigrants
+
+                -   immigrants in canadian households earning more than
+                    native-born canadians
+
+                -   interlinked-chains of skilled migrants between
+                    coupled bilateral systems (source-sink dynamics)
+
+    -   *family financial networks*
+
+        -   Hawala
+
+        -   Informal Transfer Systems - IMF report on Hawala
+
+        -   framed under a teleccoupled financial
+
+        -   **References**
+
+            -   ***Do international migration and remittances reduce
+                poverty in developing countries***
+
+            -   Remittances, financial development and growth - **Highly
+                cited paper**
+
+            -   Evaluating the Economic Impact of International
+                Remittances on Developing Countries
+
+        -   possible structuring
+
+            -   global markets and on the ground effects
+
+                -   financial flows
+            -   local networks and the global impact and context
+
+                -   most illicit flows
+
+<br><br>
+
+-   **Online resources on fincial flows for integration**
+
+    -   <http://www.afdb.org/en/blogs/integrating-africa/post/african-regional-integration-and-the-fight-against-illicit-financial-flows-12898/>
+
+    -   <http://www.gfintegrity.org/storage/gfip/documents/reports/gfi_africareport_web.pdf>
+
+    -   <http://www.unodc.org/documents/data-and-analysis/Studies/Illicit_financial_flows_2011_web.pdf>
+
+    -   <https://openknowledge.worldbank.org/bitstream/handle/10986/6719/wps4618.pdf?sequence=1>
+
+    -   <http://www.gfintegrity.org/reports/>
+
+    -   <http://www.gfintegrity.org/>
+
+    -   <https://books.google.se/books?hl=en&lr>=&id=CCwqWOvf9dQC&oi=fnd&pg=PR5&dq=human+trafficking+illicit+financial+flows&ots=Vm5pNT9V\_4&sig=0uoR07JZjcDnayaBLfpoZ1PL9EM&redir\_esc=y\#v=onepage&q=human%20trafficking%20illicit%20financial%20flows&f=false
+
+    -   <http://www.econstor.eu/bitstream/10419/52839/1/376632771.pdf>
+
+    -   <http://natlex.ilo.ch/wcmsp5/groups/public/>---ed\_norm/---declaration/documents/publication/wcms\_081931.pdf
+
+    -   <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2528587>
+
+    -   <http://www.jstor.org/discover/10.2307/1123280?uid=3738984&uid=2&uid=4&sid=21106131267781>
+
+    -   <http://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1928&context=faculty_publications>
+
+    -   <http://faculty.haas.berkeley.edu/Dalbo/Regulatory_Capture_Published.pdf>
+
+<br><br>
 
 <br><br>
 
@@ -591,6 +846,30 @@ electorate?
     investments are most effective in various geographical areas and in
     solving different sustainability-challenges.
 
+-   **notes for integration**
+
+    -   the positive perspective - see notes from finance and the
+        biosphere seminar
+
+    -   the critical perspective - a roving bandits strategy??
+
+        -   is financial innvoation a strategy for escaping regulation
+
+        -   black and grey markets
+
+            -   money laundering - tax havens
+        -   "black/deviant globalization (book)"
+
+            -   using globalization to evade prosecution
+
+            -   cross-border crime as a business to benefit from
+                administrative
+
+                -   illegal waste dumbing in Italy, starting out as
+                    legal waste exports in Germany
+
+                -   Gomorrah movie
+
 <br><br>
 
 ------------------------------------------------------------------------
@@ -601,6 +880,37 @@ FUTURE PERSPECTIVES AND CONCLUSION
 ==================================
 
 *Text to be added here.*
+
+<br><br>
+
+-   **notes for integration**
+
+    -   Integrating with the core of the socio-economic sciences
+
+        -   Deeper integration with economic and social sciences
+    -   Going away from individualism, having a more rich view of how
+        societies function - corruption - brutality - goodness - norms -
+        war & conflict (blind spots - myopias - cognitive disonance -
+        understand the world and see the seeds of good) - decision
+        making / participatory stuff
+
+    -   Advanced economic modelling (maybe not for this paper)
+
+        -   Game theory - Chaos - Buzz Braug -
+    -   *How can sustainability science go on from here in interacting
+        with a broad set of large real world (socio-)economic and
+        financial issues*
+
+    -   Co-production - what happens when scientists collaborate
+
+        -   Challenges of co-production
+
+        -   How do you think about having socially good processes,
+            without being over-normative.
+
+    -   Key guideline for what may be considered more controversial
+        bits - looking at the empirical side of things and value
+        diversity
 
 <br><br>
 
