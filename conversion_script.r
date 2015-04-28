@@ -9,11 +9,11 @@ project.title<- "real-world-economics"
 docs.vec<-c("real-world-economics-outline","real-world-economics-bibliography","finance-sustainability-crashcourse-session2",
             "finance-sustainability-crashcourse-session4","finance-biosphere-seminar3","mtg-garry-work")
 
-htmlpost_switch <- TRUE
-html_switch <- TRUE
-md_switch <- TRUE
-pdf_switch <- TRUE
-word_switch <- TRUE
+htmlpost_switch <- TRUE # TRUE, FALSE
+html_switch <- TRUE # TRUE, FALSE
+md_switch <- TRUE # TRUE, FALSE
+pdf_switch <- TRUE # TRUE, FALSE
+word_switch <- TRUE # TRUE, FALSE
 
 setwd(paste(wd,"projects/",project.title,sep=""))
 

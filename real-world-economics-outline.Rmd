@@ -3,18 +3,18 @@ title: "Real-world-economics-outline"
 category: real-world-economics
 date: "Friday, April 27, 2015"
 output:
-  pdf_document:
-    latex_engine: xelatex
+  html_document:
     number_sections: yes
+    theme: default
     toc: yes
     toc_depth: 3
   md_document:
     dev: png
     toc: yes
     toc_depth: 3
-  html_document:
+  pdf_document:
+    latex_engine: xelatex
     number_sections: yes
-    theme: default
     toc: yes
     toc_depth: 3
   word_document:
@@ -162,9 +162,9 @@ bibliography: PostDocKVA2.bib
 
 #### History of the ecosystem services and natural capital concept
 
-* The ecosystem services and natural capital concepts evolved out of other related concepts in the 1980's linked to the "land economy" and were mainstreamed in particular through the Millennium Ecosystem Assessment published in 2005 [@MillenniumEcosystemAssessment2005]. From a historical perspective [@GómezBaggethun20101209] "the trend towards monetization and commodification of ecosystem services is partly the result of a slow move from the original economic conception of nature's benefits as use values in Classical economics to their conceptualization in terms of exchange values in Neoclassical economics". This trend has led to debate over whether the use of the concept in its current form would stall aims of conservationists [@Norgaard2010; @Norgaard2008]. The contrary argument sees the benefit of co-existence and exchange between a diversity of concepts and approaches, including both traditional biodiversity conservationist and newer ecosystem service or natural capital based apparoaches [@Tallis2008; @Reyers2012; @Reyers2012a].  The main feature of the inclusivity argument is that the diversity of concepts are needed to interact with as many stakeholders as possible for the parrallel pursuit of conservation and enviornmentally sustainable economic development [@Tallis2014].
+* The ecosystem services and natural capital concepts evolved out of other related concepts in the 1980's linked to the "land economy" and were mainstreamed in particular through the Millennium Ecosystem Assessment published in 2005 [@MillenniumEcosystemAssessment2005]. From a historical perspective [@GÃ³mezBaggethun20101209] "the trend towards monetization and commodification of ecosystem services is partly the result of a slow move from the original economic conception of nature's benefits as use values in Classical economics to their conceptualization in terms of exchange values in Neoclassical economics". This trend has led to debate over whether the use of the concept in its current form would stall aims of conservationists [@Norgaard2010; @Norgaard2008]. The contrary argument sees the benefit of co-existence and exchange between a diversity of concepts and approaches, including both traditional biodiversity conservationist and newer ecosystem service or natural capital based apparoaches [@Tallis2008; @Reyers2012; @Reyers2012a].  The main feature of the inclusivity argument is that the diversity of concepts are needed to interact with as many stakeholders as possible for the parrallel pursuit of conservation and enviornmentally sustainable economic development [@Tallis2014].
 
-Gomez-Baggethun [@GómezBaggethun20101209] in her review concludes that the focus on monetary valuation and payment schemes related to the ecosystem services and natural capital communities  has indeed contributed to attract political support for conservation. At the same time "*a growing number of ecosystem services may have been commidified and the Neoclassical economics paradigm and the market logic to tackle environmental problems*" amplified.
+Gomez-Baggethun [@GÃ³mezBaggethun20101209] in his review concludes that the focus on monetary valuation and payment schemes related to the ecosystem services and natural capital communities  has indeed contributed to attract political support for conservation. At the same time "*a growing number of ecosystem services may have been commidified and the Neoclassical economics paradigm and the market logic to tackle environmental problems*" amplified.
 
 * Payments for ecosystem services [e.g. Kelsey Jack et al. 2008 PNAS]
 
@@ -185,7 +185,7 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
 
 <br><br>
 
-### Telecoupled dynamics of global trade
+### Telecoupled dynamics socio-environmental dynamics from global trade
 
 * Leontief 1970 envisioned national accounting as a way of measuring the impact of economic activities and human consumption on the environment. With recent progress in accounting for resource use in globalized production and consumption chains using global multi-regional input-output models (MRIOs) to link together resource extraction, import, consumption and exports in national accounts [@Lenzen2012a, @Lenzen2013, @Lenzen2014]. Early phases of that vision is now being implemented in a number of ways. By associating the MRIO with enviromental and social variables (so-called satellite variables), environmentally and socially extended MRIOs are produced that allow to assess the environmental and social interlinked impacts of global ecnomomic activity [e.g. @Wiedmann2013, @Lenzen2012; @Marques2012].
 
@@ -206,23 +206,29 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
 
 
 
-### Socio-economic inequality and health and environmental quality
+## Implications of economic inequality globally, nationally and locally
+
+Economic inequality has steadily risen to the top of politicial agenda fuelled by financial crises in North America and Euroope. Most recently it was nominated by the World Economic Forum as one of the greatest challenges of the century (**REF**). During the past decade(s) inequality research has helped show how social and environmental sustainability is tightly linked to this phenomenon from the global level of earth system governance down to the level of the mental well-being of the individual.
 
 
 #### Global dynamics and impacts of inequality
   
-* challenges for global governance of the commons - 
-        
-    * Inequality in contributions to global climate change together with global economic inequality largely explains the deadlock in climate change negotiations and the global south's insistence on their rights to develop [@Timmons2001; @Blaxekjaer2014]
+* The world is heterogenous in terms of its natural resources, biophysical conditions as well as history of human colonization and colonial history. From those first principles global inequality in terms of economic wealth, is in and by itself not surprising. 
+
+* The history of how global inequality has come to be is too rich a literature to cover in any detail here. However, the implications for global sustainability should be obvious to anyone who have followed global negotiations on any enviromental, social or economic topic.
+
+* The effort to combat climate change serves as an important lesson for all, including sustainability science, on how important historical inequalities are to take into account in any attempt of global stewardship.
+
+* Thus, historically unequal contributions to global climate change together with global economic inequality largely explains the deadlock in climate change negotiations and the global south's insistence on their rights to develop [@Timmons2001; @Blaxekjaer2014], known in UN-jargon as "common, but differentiated responsibility".
     
-* global economic implications of poverty traps exacerbated by trade, ethnic diversity and resource endownments
-        
-    * A special issue on the African poverty trap in PNAS [@Kates2007] revealed that ethnic diversity contributes to keep countries trapped in poverty [@Collier2007]. Therefore, alleviation of such cases requires special regulatory interventions in the global economy [@Hyden2007]
+
+* A special issue on the African poverty trap in PNAS [@Kates2007] highlighted the complex interplay between ethnic diversity, natural resource endowments and the global trade system in keeping some countries seeminly trapped in poverty [@Collier2007]. Such research highlights the potential need for special regulatory interventions in the global economy [@Hyden2007] to re-level the global economic playing field. In the end, such interventions, may be crucial to speed up progress in tackling global threats such as climate change.
 
 
-* ** Notes for integration**
 
-    * Global inequality - Historical political ecology
+* **Notes to integrate**
+
+    * Global inequality - Historical political ecology - is colonial history a blind spot in sustainability science?
 
         * Henrik on Soviet Union and regime shifts
     
@@ -240,37 +246,50 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
 
 #### National dynamics and impacts of inequality
 
+* Just as global outcomes are highly influenced by global inequality, research is increasingly demonstrating how economic, social and environmental outcomes within nations are influenced by how wealth is distributed in society. For example, sustainability science research has focused on the need for more tightly regulating wealth in Africa to bring the country out of poverty [@Kates2007]. **Median voter theorem** However, a study from 2014 [@Gilens2014] raises the question about the influence of concentration of wealth in developed nations on sustainability transitions in Western democracies. Thus, Gilens [@Gilens2014] showed how voting behavior of elected politicians tended to align more closely with interested of financial actors, than interests of the public as hypothesized by the median voter theorem (*check statement*). This has potentially important implications for research on sustainaibility transitions at the national lelvel. 
 
-* **Notes to integrate**
+* **General importance for sustainability science** Such questions are of clear interested to sustainabliity science and research on global sustainablity. For example, what are the implications for the likelihood of sustainability transitions? If decision makers make choice in the interest of their financiers instead of in the interest of their electorate, may this either increase or decrease the likelihood and speed of sustainablity transitions wanted by the electorate? These recent research advances offer important specific questions for sustainability science to integrate with and more generally identifies economics research on the concentration wealth and the research on political economy as priorities for integration.
 
-    * Economic measures relating to concentration of wealth - CLASSIC REFERENCES, e.g. Picketty
+    * A study from 2014 have documented how the role of campaign financing in US politics may lead to in-validation of long held theories of political science, such as the median voter theorem [@Gilens2014]. Similar ongoing studies are documenting how the probability of getting elected is correlated with the amount of campaing funds raised [**Cite Tom Ferguson research**].
     
-    * Dynamics of more unequal nations
 
-        * More unequal nations have less government investment in public health
+* **Regulatory caputre** Related lines of research in public administration deals with the concept of "regulatory capture", which describes the situation why regulatory institutions act in favor of the entities they are supposed to regulate instead of the public interest they have been instituted to carry out [@Zinn2002]. The regulated has more financial resources available than the regulator, this financial inequality may present some moral challenges for sound decision-making in regulators [@Ferguson2010]. Cases where this concept has been proposed in the USA are the state and municipal-level implementations of federal regulations such as the Endangered Species Act [@Botello-Samson2010a] and Surface Mining Act [@Botello-Samson2010]. Other recent examples with relation to the environment include off-shore driling, in Israel [@Portman2014] and the US [in Alaska and the Mexican Gulf @Unger2008; @Shapiro2012] as  well as approval of Genetically Modified Organisms in the United States [@Hiatt2010; @Hosmer2013], often contrasted with the public scepticism reflected in regulatory hesitance of GMO's and biotecnology in the EU [@Ostrovsky2007]. Relevant cross-country questions for sustainability science ask whether vested interests have a larger influence on the trajectory of publicly supported pathways for sustainability transitions in more unequal nations or whether these phenomena are rare unique cases or nearly universal.
 
+    * A recent cross-national study shows the interesting pattern that regulatory styles are more similar between countries at any given point time than within a country over time [@Newman2014]. *Implications for sustainability / socio-ecological models?*
+
+
+    * If states do not find ways to increase their capacities then PTAs are likely to become much greater drivers of health inequities [@Walls2015]. 
+
+
+* **Media control** The degree to which sustainability transitions have public support may depend on the degree to which the public is informed about the grand challenges of sustainability. An interesting question for sustainability science in the context of national inequality can look into the influence of the economic concentration of multimedia ownership structures and the degree to which communities locally and nationally are aware about specific and general sustainability grand challenges. (**PERFORM LITERATURE SEARCH**) The results of this line of research will in turn influence the models that sustainability science will propose for viable sustainable transitions.
+
+* **Implications for society, well-being, health and environment** The final line of research highlighted here relating to national inequality relates to the social and environmental impacts of differences in equality. Highlight here recent findings on whether more equal societies have better public health, are more happy, and better environmental protection. This relates back to the mechanisms of concentration of wealth, one person one vote, regulatory capture and media ownership structures.
+
+    * Regulatory capture and health - case - the tobacco industry in middle and low income countries [@Gilmore2015]
+    * Regulation of inter-continental trade agreements (Global Health)
+    
+* The worst case scenario for sustainability science is if inferred conclusions and proposed models are naive to the importance of these areas of economics in law, public administration, political science and communication.
+
+
+* *Research agenda:*
+    * Sustainability science is and should integrate with economics research on concentration of wealth (e.g. Picketty), including political economy
         * Link to Picketty and higher degree of return on financial capital weatlh
-
-
-    * Quality of democracy in more vs. less equal nations
-
-        * Median voter theorem
-    
-        * Regulatory capture
-    
-            * Case: Endangered Species Act - strong, but not implemented, because state governments do not fund it.
-        
-        * Sustainability science needs to integrate with political economy research
-        
-    * Concentrated media and unempowering junk information?
-
+    * One person - one vote OR one dollar - one vote - Is quality of democracy (for individual voice and for sustainability) higher in more vs. less equal nations
+        * Democracy - does the median voter theorem only apply to nations with low concentration of wealth
+    * Is regulatory capture - i.e. regulators acting in favor of the regulated entities more likely in nations with high income disparity and concentration of wealth between regulated groups and regulators? - What are the implications for sustainaibility transitions?
+        * Case: *USA* Endangered Species Act - strong, but not implemented, because state governments do not fund it.
+    * Media ownership structures - is disinformation and public awareness about sustainability issues smaller in nations with higher concentration of wealth in media (or is it ownership structure?) 
         * Australia - media owned by coal ownership
-    
         * Employment in PR industry versus journalism
-    
         * Role of large media corportations in demochratic sustainable transitions
+        * Communication of information about non-empowering information/news
+        
+    * Societal health and happinness - government investments smaller public health investments?
+    * Research question - to what degree are sustainability dynamics in nations with high concentration of wealth different nations with less concentration of wealth?
+        
     
-            * Communication of information about non-empowering information/news
+
+      
 
 
 
@@ -344,7 +363,7 @@ individual agens | remittances | |illegal migrants & "evaders of the state"|
 
 <br><br>
 
-#### Role of finance in preventing democracy and implications sustainable transitions
+#### Role of finance in preventing democracy and implications sustainable transitions - is only the case in more unequal nations?
     
 *A study from 2014 have documented how the role of campaign financing in US politics may lead to in-validation of long held theories of political science, such as the median voter theorem [@Gilens2014]. Similar ongoing studies are documenting how the probability of getting elected is correlated with the amount of campaing funds raised [**Cite Tom Ferguson research**]. The regulated earns more than the regulator and this financial inequality may present some moral challenges for sound decision-making in regulators [@Ferguson2010].
     

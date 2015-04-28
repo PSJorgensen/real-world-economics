@@ -17,9 +17,13 @@
     -   Two advances in integrating the earth system in economic
         accounting
         -   Greener economic accounting for natural capital
-        -   Telecoupled dynamics of global trade
-        -   Socio-economic inequality and health and environmental
-            quality
+        -   Telecoupled dynamics socio-environmental dynamics from
+            global trade
+    -   Implications of economic inequality globally, nationally and
+        locally
+        -   Global dynamics and impacts of inequality
+        -   National dynamics and impacts of inequality
+        -   Local dynamics and impacts of inequality
 -   AREAS THAT NEED ATTENTION
     -   A framework for structuring research questions on the global
         dynamics of the formal and informal economy
@@ -249,7 +253,8 @@ Two advances in integrating the earth system in economic accounting
     other related concepts in the 1980's linked to the "land economy"
     and were mainstreamed in particular through the Millennium Ecosystem
     Assessment published in 2005 (Millennium Ecosystem Assessment 2005).
-    From a historical perspective (Gómez-Baggethun et al. 2010) "the
+    From a historical perspective (<span class="citeproc-not-found"
+    data-reference-id="GÃ³mezBaggethun20101209">**???**</span>) "the
     trend towards monetization and commodification of ecosystem services
     is partly the result of a slow move from the original economic
     conception of nature's benefits as use values in Classical economics
@@ -268,13 +273,14 @@ Two advances in integrating the earth system in economic accounting
     and enviornmentally sustainable economic development (Tallis and
     Lubchenco 2014).
 
-Gomez-Baggethun (Gómez-Baggethun et al. 2010) in her review concludes
-that the focus on monetary valuation and payment schemes related to the
-ecosystem services and natural capital communities has indeed
-contributed to attract political support for conservation. At the same
-time "*a growing number of ecosystem services may have been commidified
-and the Neoclassical economics paradigm and the market logic to tackle
-environmental problems*" amplified.
+Gomez-Baggethun (<span class="citeproc-not-found"
+data-reference-id="GÃ³mezBaggethun20101209">**???**</span>) in his
+review concludes that the focus on monetary valuation and payment
+schemes related to the ecosystem services and natural capital
+communities has indeed contributed to attract political support for
+conservation. At the same time "*a growing number of ecosystem services
+may have been commidified and the Neoclassical economics paradigm and
+the market logic to tackle environmental problems*" amplified.
 
 -   Payments for ecosystem services [e.g. Kelsey Jack et al. 2008 PNAS]
 
@@ -303,7 +309,7 @@ environmental problems*" amplified.
 
 <br><br>
 
-### Telecoupled dynamics of global trade
+### Telecoupled dynamics socio-environmental dynamics from global trade
 
 -   Leontief 1970 envisioned national accounting as a way of measuring
     the impact of economic activities and human consumption on the
@@ -370,28 +376,57 @@ environmental problems*" amplified.
 
 <br><br>
 
-### Socio-economic inequality and health and environmental quality
+Implications of economic inequality globally, nationally and locally
+--------------------------------------------------------------------
+
+Economic inequality has steadily risen to the top of politicial agenda
+fuelled by financial crises in North America and Euroope. Most recently
+it was nominated by the World Economic Forum as one of the greatest
+challenges of the century (**REF**). During the past decade(s)
+inequality research has helped show how social and environmental
+sustainability is tightly linked to this phenomenon from the global
+level of earth system governance down to the level of the mental
+well-being of the individual.
 
 #### Global dynamics and impacts of inequality
 
--   challenges for global governance of the commons -
+-   The world is heterogenous in terms of its natural resources,
+    biophysical conditions as well as history of human colonization and
+    colonial history. From those first principles global inequality in
+    terms of economic wealth, is in and by itself not surprising.
 
-    -   Inequality in contributions to global climate change together
-        with global economic inequality largely explains the deadlock in
-        climate change negotiations and the global south's insistence on
-        their rights to develop (Roberts 2001; Blaxekjær and Nielsen
-        2014)
--   global economic implications of poverty traps exacerbated by trade,
-    ethnic diversity and resource endownments
+-   The history of how global inequality has come to be is too rich a
+    literature to cover in any detail here. However, the implications
+    for global sustainability should be obvious to anyone who have
+    followed global negotiations on any enviromental, social or economic
+    topic.
 
-    -   A special issue on the African poverty trap in PNAS (Kates and
-        Dasgupta 2007) revealed that ethnic diversity contributes to
-        keep countries trapped in poverty (Collier 2007). Therefore,
-        alleviation of such cases requires special regulatory
-        interventions in the global economy (Hyden 2007)
--   \*\* Notes for integration\*\*
+-   The effort to combat climate change serves as an important lesson
+    for all, including sustainability science, on how important
+    historical inequalities are to take into account in any attempt of
+    global stewardship.
 
-    -   Global inequality - Historical political ecology
+-   Thus, historically unequal contributions to global climate change
+    together with global economic inequality largely explains the
+    deadlock in climate change negotiations and the global south's
+    insistence on their rights to develop (Roberts 2001; Blaxekjær and
+    Nielsen 2014), known in UN-jargon as "common, but differentiated
+    responsibility".
+
+-   A special issue on the African poverty trap in PNAS (Kates and
+    Dasgupta 2007) highlighted the complex interplay between ethnic
+    diversity, natural resource endowments and the global trade system
+    in keeping some countries seeminly trapped in poverty (Collier
+    2007). Such research highlights the potential need for special
+    regulatory interventions in the global economy (Hyden 2007) to
+    re-level the global economic playing field. In the end, such
+    interventions, may be crucial to speed up progress in tackling
+    global threats such as climate change.
+
+-   **Notes to integrate**
+
+    -   Global inequality - Historical political ecology - is colonial
+        history a blind spot in sustainability science?
 
         -   Henrik on Soviet Union and regime shifts
 
@@ -410,41 +445,136 @@ environmental problems*" amplified.
 
 #### National dynamics and impacts of inequality
 
--   **Notes to integrate**
+-   Just as global outcomes are highly influenced by global inequality,
+    research is increasingly demonstrating how economic, social and
+    environmental outcomes within nations are influenced by how wealth
+    is distributed in society. For example, sustainability science
+    research has focused on the need for more tightly regulating wealth
+    in Africa to bring the country out of poverty (Kates and Dasgupta
+    2007). **Median voter theorem** However, a study from 2014 (Gilens
+    and Page 2014) raises the question about the influence of
+    concentration of wealth in developed nations on sustainability
+    transitions in Western democracies. Thus, Gilens (Gilens and Page
+    2014) showed how voting behavior of elected politicians tended to
+    align more closely with interested of financial actors, than
+    interests of the public as hypothesized by the median voter theorem
+    (*check statement*). This has potentially important implications for
+    research on sustainaibility transitions at the national lelvel.
 
-    -   Economic measures relating to concentration of wealth - CLASSIC
-        REFERENCES, e.g. Picketty
+-   **General importance for sustainability science** Such questions are
+    of clear interested to sustainabliity science and research on global
+    sustainablity. For example, what are the implications for the
+    likelihood of sustainability transitions? If decision makers make
+    choice in the interest of their financiers instead of in the
+    interest of their electorate, may this either increase or decrease
+    the likelihood and speed of sustainablity transitions wanted by the
+    electorate? These recent research advances offer important specific
+    questions for sustainability science to integrate with and more
+    generally identifies economics research on the concentration wealth
+    and the research on political economy as priorities for integration.
 
-    -   Dynamics of more unequal nations
+    -   A study from 2014 have documented how the role of campaign
+        financing in US politics may lead to in-validation of long held
+        theories of political science, such as the median voter theorem
+        (Gilens and Page 2014). Similar ongoing studies are documenting
+        how the probability of getting elected is correlated with the
+        amount of campaing funds raised [**Cite Tom Ferguson
+        research**].
+-   **Regulatory caputre** Related lines of research in public
+    administration deals with the concept of "regulatory capture", which
+    describes the situation why regulatory institutions act in favor of
+    the entities they are supposed to regulate instead of the public
+    interest they have been instituted to carry out (Zinn 2002). The
+    regulated has more financial resources available than the regulator,
+    this financial inequality may present some moral challenges for
+    sound decision-making in regulators (Ferguson and Johnson 2010).
+    Cases where this concept has been proposed in the USA are the state
+    and municipal-level implementations of federal regulations such as
+    the Endangered Species Act (Botello-Samson 2010a) and Surface Mining
+    Act (Botello-Samson 2010b). Other recent examples with relation to
+    the environment include off-shore driling, in Israel (Portman 2014)
+    and the US (in Alaska and the Mexican Gulf Unger 2008; Shapiro 2012)
+    as well as approval of Genetically Modified Organisms in the United
+    States (Hiatt and Park 2010; Hosmer 2013), often contrasted with the
+    public scepticism reflected in regulatory hesitance of GMO's and
+    biotecnology in the EU (Ostrovsky 2007). Relevant cross-country
+    questions for sustainability science ask whether vested interests
+    have a larger influence on the trajectory of publicly supported
+    pathways for sustainability transitions in more unequal nations or
+    whether these phenomena are rare unique cases or nearly universal.
 
-        -   More unequal nations have less government investment in
-            public health
+    -   A recent cross-national study shows the interesting pattern that
+        regulatory styles are more similar between countries at any
+        given point time than within a country over time (Newman and
+        Howlett 2014). *Implications for sustainability /
+        socio-ecological models?*
 
+    -   If states do not find ways to increase their capacities then
+        PTAs are likely to become much greater drivers of health
+        inequities (Walls, Smith, and Drahos 2015).
+
+-   **Media control** The degree to which sustainability transitions
+    have public support may depend on the degree to which the public is
+    informed about the grand challenges of sustainability. An
+    interesting question for sustainability science in the context of
+    national inequality can look into the influence of the economic
+    concentration of multimedia ownership structures and the degree to
+    which communities locally and nationally are aware about specific
+    and general sustainability grand challenges. (**PERFORM LITERATURE
+    SEARCH**) The results of this line of research will in turn
+    influence the models that sustainability science will propose for
+    viable sustainable transitions.
+
+-   **Implications for society, well-being, health and environment** The
+    final line of research highlighted here relating to national
+    inequality relates to the social and environmental impacts of
+    differences in equality. Highlight here recent findings on whether
+    more equal societies have better public health, are more happy, and
+    better environmental protection. This relates back to the mechanisms
+    of concentration of wealth, one person one vote, regulatory capture
+    and media ownership structures.
+
+    -   Regulatory capture and health - case - the tobacco industry in
+        middle and low income countries (Gilmore et al. 2015)
+    -   Regulation of inter-continental trade agreements (Global Health)
+-   The worst case scenario for sustainability science is if inferred
+    conclusions and proposed models are naive to the importance of these
+    areas of economics in law, public administration, political science
+    and communication.
+
+-   *Research agenda:*
+    -   Sustainability science is and should integrate with economics
+        research on concentration of wealth (e.g. Picketty), including
+        political economy
         -   Link to Picketty and higher degree of return on financial
             capital weatlh
-
-    -   Quality of democracy in more vs. less equal nations
-
-        -   Median voter theorem
-
-        -   Regulatory capture
-
-            -   Case: Endangered Species Act - strong, but not
-                implemented, because state governments do not fund it.
-        -   Sustainability science needs to integrate with political
-            economy research
-
-    -   Concentrated media and unempowering junk information?
-
+    -   One person - one vote OR one dollar - one vote - Is quality of
+        democracy (for individual voice and for sustainability) higher
+        in more vs. less equal nations
+        -   Democracy - does the median voter theorem only apply to
+            nations with low concentration of wealth
+    -   Is regulatory capture - i.e. regulators acting in favor of the
+        regulated entities more likely in nations with high income
+        disparity and concentration of wealth between regulated groups
+        and regulators? - What are the implications for sustainaibility
+        transitions?
+        -   Case: *USA* Endangered Species Act - strong, but not
+            implemented, because state governments do not fund it.
+    -   Media ownership structures - is disinformation and public
+        awareness about sustainability issues smaller in nations with
+        higher concentration of wealth in media (or is it ownership
+        structure?)
         -   Australia - media owned by coal ownership
-
         -   Employment in PR industry versus journalism
-
         -   Role of large media corportations in demochratic sustainable
             transitions
-
-            -   Communication of information about non-empowering
-                information/news
+        -   Communication of information about non-empowering
+            information/news
+    -   Societal health and happinness - government investments smaller
+        public health investments?
+    -   Research question - to what degree are sustainability dynamics
+        in nations with high concentration of wealth different nations
+        with less concentration of wealth?
 
 #### Local dynamics and impacts of inequality
 
@@ -544,7 +674,7 @@ various spatial scales.**
 
 <br><br>
 
-#### Role of finance in preventing democracy and implications sustainable transitions
+#### Role of finance in preventing democracy and implications sustainable transitions - is only the case in more unequal nations?
 
 \*A study from 2014 have documented how the role of campaign financing
 in US politics may lead to in-validation of long held theories of
@@ -649,8 +779,8 @@ electorate?
 
             -   The principal agent problem
 
-                -   What are employees evaluated for and what is the
-                    goal of the institution
+            -   What are employees evaluated for and what is the goal of
+                the institution
 
     -   National bankruptcies - socio-ecological consequences of
         economic shocks
@@ -735,8 +865,8 @@ electorate?
 
             -   Effects on land use change dynamiscs
 
-                -   E.g. Colombia, spraying fields will generate new
-                    areas with deforestation for coca plantations.
+            -   E.g. Colombia, spraying fields will generate new areas
+                with deforestation for coca plantations.
 
     -   *human trafficking* (probably treat separate from drugs)
 
@@ -746,18 +876,19 @@ electorate?
 
             -   new people in countries as source of conflict
 
-                -   ethnic diversity as a source of conflict or a sign
-                    of different cultures
+            -   *ethnic diversity as a source of conflict or a sign of
+                different cultures*
+
             -   new people in countries as a source of innovation (*REFS
                 from economic geography*)
 
-                -   new economic ventures started up by immigrants
+            -   *new economic ventures started up by immigrants*
 
-                -   immigrants in canadian households earning more than
-                    native-born canadians
+            -   immigrants in canadian households earning more than
+                native-born canadians
 
-                -   interlinked-chains of skilled migrants between
-                    coupled bilateral systems (source-sink dynamics)
+            -   interlinked-chains of skilled migrants between coupled
+                bilateral systems (source-sink dynamics)
 
     -   *family financial networks*
 
@@ -780,12 +911,11 @@ electorate?
 
         -   possible structuring
 
-            -   global markets and on the ground effects
+            -   global markets and on the ground effects - financial
+                flows
 
-                -   financial flows
-            -   local networks and the global impact and context
-
-                -   most illicit flows
+            -   local networks and the global impact and context - most
+                illicit flows
 
 <br><br>
 
@@ -862,13 +992,13 @@ electorate?
 
             -   using globalization to evade prosecution
 
-            -   cross-border crime as a business to benefit from
-                administrative
+            -   *cross-border crime as a business to benefit from
+                administrative conflicts and inefficiences*
 
-                -   illegal waste dumbing in Italy, starting out as
-                    legal waste exports in Germany
+            -   illegal waste dumbing in Italy, starting out as legal
+                waste exports in Germany
 
-                -   Gomorrah movie
+            -   Gomorrah movie
 
 <br><br>
 
@@ -938,6 +1068,7 @@ Supporting notes
     -   Lack of integration of an explicitly ecological perspective into
         social sciences and socio-economic policy (Brown et al. 2014,
         Burnside et al. (2012))
+
         -   With the implication of overlooking natural resource
             exploitation as an underlying trend for the "great
             recession" (Brown et al. 2014)
@@ -1155,6 +1286,14 @@ narrative positions of new political groups under the UNFCCC.” *Climate
 Policy* 0 (0): 1–16.
 doi:[10.1080/14693062.2014.965656](http://dx.doi.org/10.1080/14693062.2014.965656).
 
+Botello-Samson, Darren. 2010a. “The Endangered Species Act.” In
+*Regulatory Takings and the Environment : The Impact of Property Rights
+Litigation*, 159–86.
+
+———. 2010b. “Surface Mining Control and Reclamation Act.” In *Regulatory
+Takings and the Environmnent: The Impact of Property Rights Litigation*,
+113–48.
+
 Brown, James H, Joseph R Burger, William R Burnside, Michael Chang, Ana
 D Davidson, Trevor S Fristoe, Marcus J Hamilton, et al. 2014.
 “Macroecology Meets Macroeconomics: Resource Scarcity and Global
@@ -1227,11 +1366,11 @@ American Politics : Elites , Interest Groups , and Average Citizens.”
 *Perspectives on Politics*, 42.
 doi:[10.1017/S1537592714001595](http://dx.doi.org/10.1017/S1537592714001595).
 
-Gómez-Baggethun, Erik, Rudolf de Groot, Pedro L Lomas, and Carlos
-Montes. 2010. “The history of ecosystem services in economic theory and
-practice: From early notions to markets and payment schemes.”
-*Ecological Economics* 69 (6): 1209–18.
-doi:[http://dx.doi.org/10.1016/j.ecolecon.2009.11.007](http://dx.doi.org/http://dx.doi.org/10.1016/j.ecolecon.2009.11.007).
+Gilmore, Anna B, Gary Fooks, Jeffrey Drope, Stella Aguinaga Bialous, and
+Rachel Rose Jackson. 2015. “Exposing and addressing tobacco industry
+conduct in low-income and middle-income countries.” *The Lancet* 385
+(9972): 1029–43.
+doi:[10.1016/S0140-6736(15)60312-9](http://dx.doi.org/10.1016/S0140-6736(15)60312-9).
 
 Hernandez, Manuel a, and Maximo Torero. 2011. “Fertilizer market
 situation: market structure, consumption and trade patterns, and pricing
@@ -1239,10 +1378,21 @@ behavior.” *International Food Policy Reserach Institute*, no. January:
 1–76.
 <http://www.ifpri.org/sites/default/files/publications/ifpridp01058.pdf>.
 
+Hiatt, Shon R., and Sangchan Park. 2010. “Lords of the Harvest: Symbolic
+Signaling and Regulatory Approval of Genetically Modified Organisms.”
+*Academy of Management Annual Meeting Proceedings* 8 (1): 1–6.
+doi:[10.5465/AMBPP.2010.54491938](http://dx.doi.org/10.5465/AMBPP.2010.54491938).
+
 Holland, Tim G., Garry D. Peterson, and Andrew Gonzalez. 2009. “A
 cross-national analysis of how economic inequality predicts biodiversity
 loss.” *Conservation Biology* 23 (5): 1304–13.
 doi:[10.1111/j.1523-1739.2009.01207.x](http://dx.doi.org/10.1111/j.1523-1739.2009.01207.x).
+
+Hosmer, Heather. 2013. “Outgrowing Agency Oversight: Genetically
+Modified Crops and the Regulatory Commons Theory.” *Georgetown
+International Environmental Law Review* 25 (July). Copyright (c) 2013
+Georgetown International Environmental Law Review: 647.
+[https://ezp.sub.su.se/login?url=http://search.ebscohost.com/login.aspx?direct=true\\&db=edslex\\&AN=edslex6713020F\\&site=eds-live\\&scope=site](https://ezp.sub.su.se/login?url=http://search.ebscohost.com/login.aspx?direct=true\&db=edslex\&AN=edslex6713020F\&site=eds-live\&scope=site).
 
 Hyden, Goran. 2007. “Governance and poverty reduction in Africa.”
 *Proceedings of the National Academy of Sciences of the United States of
@@ -1302,6 +1452,11 @@ doi:[10.1371/journal.pone.0000444](http://dx.doi.org/10.1371/journal.pone.000044
 Millennium Ecosystem Assessment. 2005. “Ecosystems and Human Well-being:
 Synthesis.” Washington, DC.
 
+Newman, J., and M. Howlett. 2014. “Regulation and time: temporal
+patterns in regulatory development.” *International Review of
+Administrative Sciences* 80 (3): 493–511.
+doi:[10.1177/0020852313517995](http://dx.doi.org/10.1177/0020852313517995).
+
 Norgaard, Richard B. 2008. “Finding hope in the Millennium Ecosystem
 Assessment.” *Conservation Biology* 22 (4): 862–69.
 doi:[10.1111/j.1523-1739.2008.00922.x](http://dx.doi.org/10.1111/j.1523-1739.2008.00922.x).
@@ -1309,6 +1464,9 @@ doi:[10.1111/j.1523-1739.2008.00922.x](http://dx.doi.org/10.1111/j.1523-1739.200
 ———. 2010. “Ecosystem services: From eye-opening metaphor to complexity
 blinder.” *Ecological Economics* 69 (6): 1219–27.
 doi:[10.1016/j.ecolecon.2009.11.009](http://dx.doi.org/10.1016/j.ecolecon.2009.11.009).
+
+Ostrovsky, Aaron A. 2007. “Up Against a Wall : Europe ’ s Options for
+Regulating Biotechnology through Regulatory Anarchy” 13 (1): 110–34.
 
 Ott, Herve. 2012. “Fertilizer markets and its interplay with commodity
 and food prices,” no. JRC73043.
@@ -1324,6 +1482,11 @@ Courchamp. 2011. “Cat dilemma: Too protected to escape trophy hunting?”
 *PLoS ONE* 6 (7): 1–6.
 doi:[10.1371/journal.pone.0022424](http://dx.doi.org/10.1371/journal.pone.0022424).
 
+Portman, Michelle E. 2014. “Regulatory capture by default: Offshore
+exploratory drilling for oil and gas.” *Energy Policy* 65. Elsevier:
+37–47.
+doi:[10.1016/j.enpol.2013.10.010](http://dx.doi.org/10.1016/j.enpol.2013.10.010).
+
 Reyers, Belinda, Stephen Polasky, Heather Tallis, and Harold A Mooney.
 2012. “Biodiversity and Ecosystem Services: Similar but Different.”
 *BioScience* 62 (9): 785–85.
@@ -1337,6 +1500,10 @@ Roberts, J Timmons. 2001. “Global Inequality and Climate Change.”
 *Society & Natural Resources* 14 (6): 501–9.
 doi:[10.1080/08941920118490](http://dx.doi.org/10.1080/08941920118490).
 
+Shapiro, Sidney A. 2012. “The Complexity of Regulatory Capture:
+Diagnosis, Causality, and Remediation.” *Roger Willliams University Law
+Review* 17: 221–57.
+
 Tallis, Heather, and Jane Lubchenco. 2014. “A call for inclusive
 conservation.” *Nature* 515: 27–28.
 
@@ -1345,13 +1512,26 @@ Tallis, Heather, Peter Kareiva, Michelle Marvier, and Amy Chang. 2008.
 and economic development.” *Proceedings of the National Academy of
 Sciences* 105 (28): 9457–64.
 
+Unger, Jacob D. 2008. “REGULATING THE ARCTIC GOLD RUSH : RECOMMENDED
+REGULATORY REFORMS TO PROTECT ALASKA ’ S ARCTIC ENVIRONMENT FROM
+OFFSHORE OIL DRILLING POLLUTION.” *Alaska Law Review* 31 (2014): 263–94.
+
 Vitali, Stefania, and Stefano Battiston. 2013. “The Community Structure
 of the Global Corporate Network.” *Swiss Federal Institute of Technology
 Zurich* 9 (255987): 1–19.
 doi:[10.1371/journal.pone.0104655](http://dx.doi.org/10.1371/journal.pone.0104655).
+
+Walls, Helen L, Richard D Smith, and Peter Drahos. 2015. “Improving
+regulatory capacity to manage risks associated with trade agreements.”
+*Globalization and Health* 11 (1): 1–5.
+doi:[10.1186/s12992-015-0099-7](http://dx.doi.org/10.1186/s12992-015-0099-7).
 
 Wiedmann, Thomas O, Heinz Schandl, Manfred Lenzen, Daniel Moran, Sangwon
 Suh, James West, and Keiichiro Kanemoto. 2013. “The material footprint
 of nations.” *Proceedings of the National Academy of Sciences of the
 United States of America*, September.
 doi:[10.1073/pnas.1220362110](http://dx.doi.org/10.1073/pnas.1220362110).
+
+Zinn, Matthew D. 2002. “Policing Environmental Regulatory Enforcement:
+Cooperation, Capture, and Citizen Suits.” *STANFORD ENVIRONMENTAL LAW
+JOURNAL* 21: 81–174.
