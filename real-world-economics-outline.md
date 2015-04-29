@@ -21,7 +21,7 @@
             global trade
     -   Implications of economic inequality globally, nationally and
         locally
-        -   Global dynamics and impacts of inequality
+        -   Consequences of global inequality dynamics
         -   National dynamics and impacts of inequality
         -   Local dynamics and impacts of inequality
 -   AREAS THAT NEED ATTENTION
@@ -253,8 +253,7 @@ Two advances in integrating the earth system in economic accounting
     other related concepts in the 1980's linked to the "land economy"
     and were mainstreamed in particular through the Millennium Ecosystem
     Assessment published in 2005 (Millennium Ecosystem Assessment 2005).
-    From a historical perspective (<span class="citeproc-not-found"
-    data-reference-id="GÃ³mezBaggethun20101209">**???**</span>) "the
+    From a historical perspective (Gómez-Baggethun et al. 2010) "the
     trend towards monetization and commodification of ecosystem services
     is partly the result of a slow move from the original economic
     conception of nature's benefits as use values in Classical economics
@@ -273,14 +272,13 @@ Two advances in integrating the earth system in economic accounting
     and enviornmentally sustainable economic development (Tallis and
     Lubchenco 2014).
 
-Gomez-Baggethun (<span class="citeproc-not-found"
-data-reference-id="GÃ³mezBaggethun20101209">**???**</span>) in his
-review concludes that the focus on monetary valuation and payment
-schemes related to the ecosystem services and natural capital
-communities has indeed contributed to attract political support for
-conservation. At the same time "*a growing number of ecosystem services
-may have been commidified and the Neoclassical economics paradigm and
-the market logic to tackle environmental problems*" amplified.
+Gomez-Baggethun (Gómez-Baggethun et al. 2010) in his review concludes
+that the focus on monetary valuation and payment schemes related to the
+ecosystem services and natural capital communities has indeed
+contributed to attract political support for conservation. At the same
+time "*a growing number of ecosystem services may have been commidified
+and the Neoclassical economics paradigm and the market logic to tackle
+environmental problems*" amplified.
 
 -   Payments for ecosystem services [e.g. Kelsey Jack et al. 2008 PNAS]
 
@@ -350,6 +348,11 @@ the market logic to tackle environmental problems*" amplified.
     current economic paradigms.
 
     -   *References*
+        -   (Lambin and Meyfroidt 2011) Globalized trade have increased
+            pressure to convert forest to cropland. Some countries have
+            managed to circumvent this pressure and increased forest
+            area and agricultural production simulatneously.
+
         -   Leontief, W.; Ford, D. Environmental repercussions and the
             economic structure: An input-output approach. Rev. Econ.
             Stat. 1970, 52 (3), 262???271
@@ -382,13 +385,13 @@ Implications of economic inequality globally, nationally and locally
 Economic inequality has steadily risen to the top of politicial agenda
 fuelled by financial crises in North America and Euroope. Most recently
 it was nominated by the World Economic Forum as one of the greatest
-challenges of the century (**REF**). During the past decade(s)
-inequality research has helped show how social and environmental
-sustainability is tightly linked to this phenomenon from the global
-level of earth system governance down to the level of the mental
-well-being of the individual.
+challenges of the century (World Economic Forum 2014). During the past
+decade(s) inequality research has helped show how social and
+environmental sustainability is tightly linked to this phenomenon from
+the global level of earth system governance down to the level of the
+mental well-being of the individual.
 
-#### Global dynamics and impacts of inequality
+#### Consequences of global inequality dynamics
 
 -   The world is heterogenous in terms of its natural resources,
     biophysical conditions as well as history of human colonization and
@@ -443,6 +446,13 @@ well-being of the individual.
         -   Shock doctrine and the socio-ecological as well as
             macroeconomic consequences today - Naomi Klein
 
+-   Can also add regional examples of grid-lock such as inequality
+    within the European Union and challenges for the sustainability
+    transition. With large inequality the poorer nations will have an
+    incentive to stall transition policies for which they would at a
+    disadvantage. EMU crises and inequality paper (Bitros, Batavia, and
+    Nandakumar 2014).
+
 #### National dynamics and impacts of inequality
 
 -   Just as global outcomes are highly influenced by global inequality,
@@ -453,65 +463,46 @@ well-being of the individual.
     in Africa to bring the country out of poverty (Kates and Dasgupta
     2007). **Median voter theorem** However, a study from 2014 (Gilens
     and Page 2014) raises the question about the influence of
-    concentration of wealth in developed nations on sustainability
-    transitions in Western democracies. Thus, Gilens (Gilens and Page
-    2014) showed how voting behavior of elected politicians tended to
-    align more closely with interested of financial actors, than
-    interests of the public as hypothesized by the median voter theorem
-    (*check statement*). This has potentially important implications for
-    research on sustainaibility transitions at the national lelvel.
+    concentration of wealth on democracy and potential sustainability
+    transitions also in Western democracies. Thus, Gilens (Gilens and
+    Page 2014) showed that "economic elites and organized groups
+    representing business interests have substantial independent impacts
+    on US government policy while average citizens have little or no
+    impact", the latter observation contrary to the prediction of the
+    median voter theorem. *The degree to which these findings can be
+    transferred to most developed nations or in some way can be
+    explained by macroeconomic indicators such as the concentration of
+    wealth will have important implications for sustainability science
+    in particular with regard to the role of democracy in models of how
+    to achieve transitions to for global sustainability*.
 
--   **General importance for sustainability science** Such questions are
-    of clear interested to sustainabliity science and research on global
-    sustainablity. For example, what are the implications for the
-    likelihood of sustainability transitions? If decision makers make
-    choice in the interest of their financiers instead of in the
-    interest of their electorate, may this either increase or decrease
-    the likelihood and speed of sustainablity transitions wanted by the
-    electorate? These recent research advances offer important specific
-    questions for sustainability science to integrate with and more
-    generally identifies economics research on the concentration wealth
-    and the research on political economy as priorities for integration.
-
-    -   A study from 2014 have documented how the role of campaign
-        financing in US politics may lead to in-validation of long held
-        theories of political science, such as the median voter theorem
-        (Gilens and Page 2014). Similar ongoing studies are documenting
-        how the probability of getting elected is correlated with the
-        amount of campaing funds raised [**Cite Tom Ferguson
-        research**].
--   **Regulatory caputre** Related lines of research in public
-    administration deals with the concept of "regulatory capture", which
-    describes the situation why regulatory institutions act in favor of
-    the entities they are supposed to regulate instead of the public
-    interest they have been instituted to carry out (Zinn 2002). The
-    regulated has more financial resources available than the regulator,
-    this financial inequality may present some moral challenges for
-    sound decision-making in regulators (Ferguson and Johnson 2010).
-    Cases where this concept has been proposed in the USA are the state
-    and municipal-level implementations of federal regulations such as
-    the Endangered Species Act (Botello-Samson 2010a) and Surface Mining
-    Act (Botello-Samson 2010b). Other recent examples with relation to
-    the environment include off-shore driling, in Israel (Portman 2014)
-    and the US (in Alaska and the Mexican Gulf Unger 2008; Shapiro 2012)
-    as well as approval of Genetically Modified Organisms in the United
-    States (Hiatt and Park 2010; Hosmer 2013), often contrasted with the
-    public scepticism reflected in regulatory hesitance of GMO's and
-    biotecnology in the EU (Ostrovsky 2007). Relevant cross-country
-    questions for sustainability science ask whether vested interests
-    have a larger influence on the trajectory of publicly supported
-    pathways for sustainability transitions in more unequal nations or
-    whether these phenomena are rare unique cases or nearly universal.
-
-    -   A recent cross-national study shows the interesting pattern that
-        regulatory styles are more similar between countries at any
-        given point time than within a country over time (Newman and
-        Howlett 2014). *Implications for sustainability /
-        socio-ecological models?*
-
-    -   If states do not find ways to increase their capacities then
-        PTAs are likely to become much greater drivers of health
-        inequities (Walls, Smith, and Drahos 2015).
+-   **Regulatory caputre** In public administration, "regulatory
+    capture" describes the situation where regulatory institutions act
+    in favor of the entities they are supposed to regulate instead of
+    the public interest they have been instituted to enact (Zinn 2002,
+    Livermore and Revesz (2012)). Although the origins of capture-like
+    regulatory behavior can be hard to identify (Shapiro 2012),
+    regulated entities often have more financial resources available
+    than the regulator and the job security of the regulator might in
+    the end depend on the economic activity of the regulated. This
+    economic inequality may present some moral challenges for sound
+    regulatory decision-making (Ferguson and Johnson 2010). Cases where
+    capture has been proposed to influence decision making on
+    enviromental sustainability inlude the implementations of federal
+    regulations such as the Endangered Species Act (Botello-Samson
+    2010a) and Surface Mining Act (Botello-Samson 2010b) in the United
+    States and off-shore drilling in Israel (Portman 2014) and the US
+    (in Alaska and the Mexican Gulf Unger 2008; Shapiro 2012). Further
+    the regulation of Genetically Modified Organisms in the United
+    States (Hiatt and Park 2010; Hosmer 2013) is often contrasted with
+    the public scepticism reflected in regulatory hesitance of GMO's and
+    biotecnology in the EU (Ostrovsky 2007), which may partially be
+    related to a great risk of capture in the US. A recent
+    cross-national study found that "regulatory regimes have similar
+    developmental patterns over time, although the time spent at each
+    stage in the process can vary significantly according to unique
+    domestic factor" (Newman and Howlett 2014). *Implications for
+    sustainability / socio-ecological models?*
 
 -   **Media control** The degree to which sustainability transitions
     have public support may depend on the degree to which the public is
@@ -525,6 +516,212 @@ well-being of the individual.
     influence the models that sustainability science will propose for
     viable sustainable transitions.
 
+-   Media coverage influences public behavior and vice versa. If media
+    coverage is influenced by the owner of a given media, high
+    concentration of media ownership can lead to over or underreporting
+    of a given issue, lack of diversity or disinformation (also from
+    vested interest). For example, newspaper coverage of climate change
+    in Japan from 1998 and 2007 correlated with increased public
+    awareness (Sampei and Aoyagi-Usui 2009) (Global Environmental Change
+    study). *Mass media have been critical to highlight enviornmental
+    concerns in the past* (Boykoff 2009).
+
+-   \*\*Two general issues seems to dominate in the research literature:
+    (1) How organizations brand themselves through media. (2) Influence
+    on public awareness and concern of media coverage.
+
+-   **Quality of reporting**
+
+    -   (Boykoff, Frame, and Randalls 2010) found a need to increase the
+        diversity of media framings related to how to tackle climate
+        change beyond "climate stabilization", but did not relate this
+        lack of diversity back to ownership structure or concentration.
+
+    -   (Boykoff and Boykoff 2007) \*On the role of journalistic norms
+        in decreasing information content about antrhopogenic climate
+        change in US mass media. "consistent adherence to interacting
+        journalistic norms has contributed to impediments in the
+        coverage of anthropogenic climate change science. Through
+        analysis of US newspaper and television coverage of human
+        contributions to climate change from 1988 through 2004, this
+        paper finds that adherence to first-order journalistic norms -
+        personalization, dramatization, and novelty - significantly
+        influence the employment of second-order norms - authority-order
+        and balance - and that this has led to informationally deficient
+        mass-media coverage of this crucial issue. By critically
+        scrutinizing US print and television media as a 'public arena,'
+        we improve understanding of how journalistic activities have
+        shaped interactions at the interface with climate science,
+        policy and the public." **Question - are these journalistic
+        norms tied to ownership structure?**
+
+    -   *Climate contrarians* (Boykoff and Olson 2013) in Celebrity
+        Studies: illustrate the growth pathways of climate change
+        contrarians in US media (i.e. decrease in quality) one of which
+        is hypothesized to be relation to the carbon-based industry:
+        "threefold analysis: of the motivations that prop up these
+        contrarian stances, such as ideological or evidentiary
+        disagreement to the orthodox views of science (also known as
+        scientific consensus); **the drive to fulfil the perceived
+        desires of special interests (for example, carbon-based
+        industry)**; and the exhilaration from self-perceived academic
+        martyrdom and the more general desire for notoriety. In these
+        ways, celebrity is a vehicle for influence, and influence is
+        vital to decision-making within the dynamic architectures of
+        contemporary climate science, politics and policy"
+
+    -   *Balanced reporting on consensus issues* (Boykoff and Boykoff
+        2004) GEC "the prestige press's adherence to balance actually
+        leads to biased coverage of both anthropogenic contributions to
+        global warming and resultant action".
+
+    -   *Political economy* (Boykoff and Yulsman 2013) Wired "This paper
+        addresses contemporary political economics-from greater
+        workloads and reductions in specialist science journalism to
+        digital innovations and new media organizational forms-as they
+        relate to media coverage of climate change." *decline in climate
+        change reportint* (Boykoff and Yulsman 2013) Wired "In the face
+        of many ongoing climate science and climate-related weather
+        events to report on, we must look for explanations for this
+        decline in the realm of political economy." On covering global
+        environmental issues - (Boykoff 2009) "Meanwhile, political
+        economic forces have contributed to tremendous pres- sures on
+        and within the news industry, where these issues have become
+        more, not less, chal- lenging to cover."
+
+    -   *Some short-term improvements combined with persistent long-term
+        challenges* (Boykoff 2009) "there is empirical evidence to
+        suggest that there have been short-term improvements in media
+        representations of environmental issues, such as more accurate
+        coverage of anthropogenic climate change. However, over the
+        long-term scale, many institutional challenges persist for
+        enhanced media reporting on the environment."
+
+-   **Concentration**
+
+    -   Germano shows through mathematical modelling that ownership
+        concentration influences the tendency of media to underreport or
+        censor issues that may influence there advertisers negatively.
+        "Given that over half the revenues of global newspaper
+        publishing come from advertising (80% in the US and 57% in OECD
+        countries, OECD, 2010), we study how media firms internalize the
+        effect of their own coverage on advertisers' sales and hence on
+        their own advertising revenues. We show, within a framework of
+        non-localized, Hotelling-type competition among arbitrary
+        numbers of media firms and outlets, that (i) \***topics
+        sensitive to advertisers can be underreported by all outlets in
+        the market, (ii) underreporting tends to increase with the
+        concentration of ownership, and (iii) adding outlets, while
+        keeping the number of owners fixed, can further increase the
+        bias**. We argue that self-censorship can potentially cover a
+        wide range of topics and generate empirically large
+        externalities" (Germano and Meier 2013)
+
+    -   While media over the long-term have undergone a process of
+        ownership "unconcentration", media is currently undergoing a
+        recent trend of increasing concentration (Vizcarrondo 2013).
+
+    -   (George 2007) A study of US newspaper coverage and reporter
+        assignment in 1993, 1994 and 2004 found that the repositioning
+        of products during mergers and resulting concentration of
+        ownership led to increasing variety and differentiaion in
+        coverage. The study did not address the variety and
+        diversification in relation to topics of sustainability or
+        topics of interest to the ownership. The onwer's need to
+        differnetiate its increasing number of products may therefore be
+        the largest counter acting force to decrease in diversity or
+        bias in reporting during increasing concentration of media
+        ownership.
+
+    -   *Increasing concentration of ownership in Pakistan despite
+        political and regulatory intentions of the opposite* (Rasul and
+        Proffitt 2013). There is also a study on concentration from
+        Latvia after becoming member of the EU which does not cite the
+        results. Also increasing concentration in Taiwan (Chen 2002)
+
+    -   (Nash and Bacon 2006) in a review of pacific media coverage on
+        environmental sustainability in relation to ownership structure
+        fould little effect. Instead environment reporting had a
+        "motherhood" status, which also however ruled out making any
+        assumptions about the quality of reporting.
+
+    -   Swedish case studies: "corporate voices make substantial use of
+        environmental and ecological arguments in their strategic
+        communication, but they provide little useful information about
+        the company's impact and do not usually foster forms of dialogic
+        stakeholder engagement" (Lischinsky and Sjölander 2014).
+        (Tjernström 2007) investigated a case study of political
+        intention to decrease ownership of TV media with the opposite
+        outcome for Swedish TV4
+
+    -   Fortune 100 companies need to manage the information sources
+        that there employees use to get information about their
+        sustainability. Note: Negative implications of employer control
+        of employee knowledge, framed as a management issue. (Craig and
+        Allen 2013)
+
+    -   *Digitalization as a driver of concentration?* (Compaine 2010)
+        "One of Noam's final and most useful insights, coming in Chapter
+        19, "The Findings and the Model," is that any trend to
+        concentration is largely the result of declining prices for
+        media consumers. This is primarily the outcome of the digital
+        revolution. For example, the music industry has found it hard to
+        maintain prices and the online newspaper business is still
+        struggling with a model for user payment. Telephone calls can be
+        made for close to nothing using Voice over IP services. Yet the
+        high fixed cost and low marginal costs of most information
+        products has been a strong incentive for players to meet the
+        price deflation challenge first by reducing costs, by attempts
+        at product differentiation, but eventually by seeking merger or
+        acquisition by a competitor to be able to maintain some control
+        over prices."
+
+    -   *Number of media vs. number of source media* (Winseck 2008) The
+        State of Media Ownership and Media Markets: Competition or
+        Concentration and Why Should We Care? "This article presents a
+        global overview of the state of communications media ownership
+        and markets. The primary issue at stake is whether or not
+        markets and ownership are becoming more or less concentrated.
+        After reviewing contrasting views on this issue, I suggest that
+        the question turns on whether or not we consider 'numerical
+        diversity' (the number of channels available in any given area)
+        versus 'source diversity' (a measure of the number of media
+        owners in any given area). Drawing on recent data I suggest that
+        while there is undoubtably greater 'numerical diversity', we are
+        seeing - within countries, regionally and globally - greater
+        concentration at the level of 'source diversity'. While new
+        media, especially the Internet, open up unprecedented
+        opportunities for people to access and distribute information,
+        the emergence of a powerful nexus between both 'old' and 'new'
+        media means that the character of media ownership and markets
+        still matters greatly. This nexus of ownership and market power
+        spans different segments of the media and is qualitatively
+        different from previous times. These factors have an important
+        influence on the evolution of media technologies and markets,
+        the work of media professionals and the character of information
+        and media content"
+
+-   **General importance for sustainability science** Such questions are
+    of clear interested to sustainabliity science and research on global
+    sustainablity. For example, what are the implications for the
+    likelihood of sustainability transitions? If decision makers make
+    choice in the interest of their financiers instead of in the
+    interest of their electorate, may this either increase or decrease
+    the likelihood and speed of sustainablity transitions wanted by the
+    electorate? Relevant cross-country questions for sustainability
+    science ask whether vested interests have a larger influence on the
+    trajectory of publicly supported pathways for sustainability
+    transitions in more unequal nations or whether these phenomena are
+    rare unique cases or nearly universal. These recent research
+    advances offer important specific questions for sustainability
+    science to integrate with and more generally identifies economics
+    research on the concentration wealth and the research on political
+    economy as priorities for integration.
+
+    -   *Trade agreements and inequality* If states do not find ways to
+        increase their capacities then PTAs are likely to become much
+        greater drivers of health inequities (Walls, Smith, and Drahos
+        2015).
 -   **Implications for society, well-being, health and environment** The
     final line of research highlighted here relating to national
     inequality relates to the social and environmental impacts of
@@ -543,23 +740,6 @@ well-being of the individual.
     and communication.
 
 -   *Research agenda:*
-    -   Sustainability science is and should integrate with economics
-        research on concentration of wealth (e.g. Picketty), including
-        political economy
-        -   Link to Picketty and higher degree of return on financial
-            capital weatlh
-    -   One person - one vote OR one dollar - one vote - Is quality of
-        democracy (for individual voice and for sustainability) higher
-        in more vs. less equal nations
-        -   Democracy - does the median voter theorem only apply to
-            nations with low concentration of wealth
-    -   Is regulatory capture - i.e. regulators acting in favor of the
-        regulated entities more likely in nations with high income
-        disparity and concentration of wealth between regulated groups
-        and regulators? - What are the implications for sustainaibility
-        transitions?
-        -   Case: *USA* Endangered Species Act - strong, but not
-            implemented, because state governments do not fund it.
     -   Media ownership structures - is disinformation and public
         awareness about sustainability issues smaller in nations with
         higher concentration of wealth in media (or is it ownership
@@ -575,6 +755,49 @@ well-being of the individual.
     -   Research question - to what degree are sustainability dynamics
         in nations with high concentration of wealth different nations
         with less concentration of wealth?
+-   "Rising wealth concentration contributed to the crisis because the
+    increasing asset demand from the rich played a key role in the rise
+    of the structured credit market and enabled poor and middle-income
+    households to accumulate increasing amounts of debt. To tame the
+    inherent instability of the current mode of capitalism it is
+    necessary to reduce inequality." - Sabalini 2014/2015
+
+-   Also cite contrary view from Chicago School - the economic elite
+    wants democracy and would strike a deal if they had the chance,
+    because dictators tries to wipe out the economic elite Capital - in
+    the Twenty-First Century - In the Rest of the World - Michael
+    Albertus - University of Chicago.
+
+-   *References to integrate* \* The Haves, the Have-Nots, and the
+    Health of Everyone: The Relationship Between Social Inequality and
+    Environmental Quality Annual Review of Public Health, 2014 \*
+    SUMMARY POINTS \* 1. Evidence supporting the equality/sustainability
+    hypothesis suggests that social inequality is bad for the
+    environment, which may in turn explain why societies with more
+    inequality appear to be less healthy. \* 2. Social inequality may
+    degrade the environment through asymmetries in political power that
+    affect who experiences the benefits and harms of pollution. \* 3.
+    Social inequality may also worsen environmental quality by
+    increasing the environmental intensity of a society's consumption or
+    decreasing social cohesion and the willingness to cooperate to
+    protect common resources. \* 4. Evidence of a negative association
+    between social inequality and environmental quality appears
+    strongest for localized air pollutants and markers of access to safe
+    water and sanitation, and weaker for more dispersed pollutants, such
+    as CO2, and other measures of water quality. \* 5. The evidence
+    linking inequality with worse environmental quality is more
+    consistent in within-country studies from the United States than in
+    between-country studies, perhaps because the former benefit from a
+    greater consistency in data and the fact that the larger political
+    and development contexts are held fixed. \* 6. Challenges to
+    conducting this research include the fact that inequality changes
+    slowly over time so that longitudinal effects are hard to estimate
+    and the fact that nonlinear effects and effect modifiers appear to
+    play a part. \* 7. Although the evidence remains somewhat mixed and
+    more research is needed, there are intriguing indications that
+    reducing social inequality may not only help those who are most
+    exposed to health-damaging pollutants but may also improve
+    environmental conditions for all.
 
 #### Local dynamics and impacts of inequality
 
@@ -584,10 +807,59 @@ well-being of the individual.
     environmental quality and hence opportunities for improving public
     health (Cushing et al. 2015)
 
+-   Economic inequality leads to mental stresses and loss of social
+    capital whihc results in largely unsustainable economic growth based
+    on short-sighted compensatory consumer behavior (Bartolini 2014).
+
+-   Income inequality and health - (Pickett and Wilkinson 2015)
+
+    -   There is a very large literature examining income inequality in
+        relation to health. Early reviews came to different
+        interpretations of the evidence, though a large majority of
+        studies reported that health tended to be worse in more unequal
+        societies. More recent studies, not included in those reviews,
+        provide substantial new evidence.
+    -   Key points
+    -   Evidence that income inequality is associated with worse health
+        is reviewed.
+    -   It meets established epidemiological and other scientific
+        criteria for causality.
+    -   The causal processes may extend to violence and other problems
+        with social gradients.
+    -   Reducing income inequality will improve population health and
+        wellbeing.
+
     -   *References*
         -   The Haves, the Have-Nots, and the Health of Everyone: The
             Relationship Between Social Inequality and Environmental
             Quality Annual Review of Public Health, 2014
+            -   SUMMARY POINTS
+            -   1.  Evidence supporting the equality/sustainability
+                    hypothesis suggests that social inequality is bad
+                    for the environment, which may in turn explain why
+                    societies with more inequality appear to be less
+                    healthy.
+            -   1.  Social inequality may degrade the environment
+                    through asymmetries in political power that affect
+                    who experiences the benefits and harms of pollution.
+            -   1.  Social inequality may also worsen environmental
+                    quality by increasing the environmental intensity of
+                    a society's consumption or decreasing social
+                    cohesion and the willingness to cooperate to protect
+                    common resources.
+            -   1.  Evidence of a negative association between social
+                    inequality and environmental quality appears
+                    strongest for localized air pollutants and markers
+                    of access to safe water and sanitation, and weaker
+                    for more dispersed pollutants, such as CO2, and
+                    other measures of water quality.
+            -   1.  The evidence linking inequality with worse
+                    environmental quality is more consistent in
+                    within-country studies from the United States than
+                    in between-country studies, perhaps because the
+                    former benefit from a greater consistency in data
+                    and the fact that the larger political and
+                    development contexts are held fixed.
 
         -   Cost-effectivness of conservation actions (e.g. Jonathan
             Hoekstra, PNAS piece, 2012)
@@ -602,7 +874,9 @@ well-being of the individual.
 
         -   Tim Jackson - social hierarchy
 
-        -   Spirit level - book
+        -   Spirit level - book - Wilkinson, R.G., Pickett, K., 2010b.
+            The Spirit Level: Why Equality Is Better for Everyone.
+            Penguin, London.
 
         -   *Conspicuous consumption* - Consuming to be seen and get
             status.
@@ -1276,10 +1550,19 @@ REFERENCES
 
 The following literature was cited
 
+Bartolini, Stefano. 2014. “Building sustainability through greater
+happiness.”
+doi:[10.1177/1035304614559436](http://dx.doi.org/10.1177/1035304614559436).
+
 Bettencourt, Luís M A, and Jasleen Kaur. 2011. “Evolution and structure
 of sustainability science.” *Proceedings of the National Academy of
 Sciences of the United States of America* 108 (49): 19540–5.
 doi:[10.1073/pnas.1102712108](http://dx.doi.org/10.1073/pnas.1102712108).
+
+Bitros, George C., Bala Batavia, and Parameswar Nandakumar. 2014.
+“Economic crisis in the European periphery: An Assessment of EMU
+Membership and home Policy Effects Based on the Greek Experience.”
+*Munich Personal RePEc Archive*, no. 60596.
 
 Blaxekjær, Lau Øfjord, and Tobias Dan Nielsen. 2014. “Mapping the
 narrative positions of new political groups under the UNFCCC.” *Climate
@@ -1293,6 +1576,36 @@ Litigation*, 159–86.
 ———. 2010b. “Surface Mining Control and Reclamation Act.” In *Regulatory
 Takings and the Environmnent: The Impact of Property Rights Litigation*,
 113–48.
+
+Boykoff, Maxwell T. 2009. “We Speak for the Trees: Media Reporting on
+the Environment.” *Annual Review of Environment and Resources* 34 (1):
+431–57.
+doi:[10.1146/annurev.environ.051308.084254](http://dx.doi.org/10.1146/annurev.environ.051308.084254).
+
+Boykoff, Maxwell T., and Jules M. Boykoff. 2004. “Balance as bias:
+Global warming and the US prestige press.” *Global Environmental Change*
+14 (2): 125–36.
+doi:[10.1016/j.gloenvcha.2003.10.001](http://dx.doi.org/10.1016/j.gloenvcha.2003.10.001).
+
+———. 2007. “Climate change and journalistic norms: A case-study of US
+mass-media coverage.” *Geoforum* 38 (6): 1190–1204.
+doi:[10.1016/j.geoforum.2007.01.008](http://dx.doi.org/10.1016/j.geoforum.2007.01.008).
+
+Boykoff, Maxwell T., and Shawn K. Olson. 2013. “’Wise contrarians’: A
+keystone species in contemporary climate science, politics and policy.”
+*Celebrity Studies* 4 (3): 276–91.
+doi:[10.1080/19392397.2013.831618](http://dx.doi.org/10.1080/19392397.2013.831618).
+
+Boykoff, Maxwell T., and Tom Yulsman. 2013. “Political economy, media,
+and climate change: Sinews of modern life.” *Wiley Interdisciplinary
+Reviews: Climate Change* 4 (5): 359–71.
+doi:[10.1002/wcc.233](http://dx.doi.org/10.1002/wcc.233).
+
+Boykoff, Maxwell T., David Frame, and Samuel Randalls. 2010. “Discursive
+stability meets climate instability: A critical exploration of the
+concept of ’climate stabilization’ in contemporary climate policy.”
+*Global Environmental Change* 20 (1): 53–64.
+doi:[10.1016/j.gloenvcha.2009.09.003](http://dx.doi.org/10.1016/j.gloenvcha.2009.09.003).
 
 Brown, James H, Joseph R Burger, William R Burnside, Michael Chang, Ana
 D Davidson, Trevor S Fristoe, Marcus J Hamilton, et al. 2014.
@@ -1313,6 +1626,10 @@ linking pattern and process in big-picture human ecology.” *Biological
 Reviews of the Cambridge Philosophical Society* 87 (1): 194–208.
 doi:[10.1111/j.1469-185X.2011.00192.x](http://dx.doi.org/10.1111/j.1469-185X.2011.00192.x).
 
+Chen, Ping-Hung. 2002. “Who Owns Cable Television? Media Ownership
+Concentration in Taiwan.” *Journal of Media Economics* 15 (1): 41–55.
+doi:[10.1207/S15327736ME1501\\\_4](http://dx.doi.org/10.1207/S15327736ME1501\_4).
+
 Colander, David. 2005. “The Making of an Economist Redux.” *Journal of
 Economic Perspectives* 19 (1): 175–98.
 doi:[10.1257/0895330053147976](http://dx.doi.org/10.1257/0895330053147976).
@@ -1321,6 +1638,10 @@ Collier, Paul. 2007. “Poverty reduction in Africa.” *Proceedings of the
 National Academy of Sciences of the United States of America* 104 (43):
 16763–68.
 doi:[10.1073/pnas.0611702104](http://dx.doi.org/10.1073/pnas.0611702104).
+
+Compaine, Benjamin M. 2010. “Eli Noam, Media Ownership and Concentration
+in America.” *Journal of Media Economics* 23 (3): 180–85.
+doi:[10.1080/08997764.2010.517469](http://dx.doi.org/10.1080/08997764.2010.517469).
 
 Costanza, Robert, Rudolf de Groot, Paul Sutton, Sander van der Ploeg,
 Sharolyn J Anderson, Ida Kubiszewski, Stephen Farber, and R Kerry
@@ -1338,6 +1659,10 @@ Wilhelm-Rechman. 2008. “An operational model for mainstreaming ecosystem
 services for implementation.” *Proceedings of the National Academy of
 Sciences of the United States of America* 105 (28): 9483–88.
 doi:[10.1073/pnas.0706559105](http://dx.doi.org/10.1073/pnas.0706559105).
+
+Craig, Christopher A, and Myria W Allen. 2013. “Sustainability
+information sources: employee knowledge, perceptions, and learning.”
+*Journal of Communication Management* 17: 292–307.
 
 Cushing, Lara, Rachel Morello-Frosch, Madeline Wander, and Manuel
 Pastor. 2015. “The Haves, the Have-Nots, and the Health of Everyone: The
@@ -1361,6 +1686,16 @@ Systemic Financial Crisis and the Myth of the Danaid Jar.” *Institute
 for New Economic Thinking …*, 1–36.
 [http://andrewgelman.com/movabletype/mlm/Ferg-John INET Conf Cambridge UK April 2010 final  pdf-1.pdf](http://andrewgelman.com/movabletype/mlm/Ferg-John INET Conf Cambridge UK April 2010 final  pdf-1.pdf).
 
+George, Lisa. 2007. “What’s fit to print: The effect of ownership
+concentration on product variety in daily newspaper markets.”
+*Information Economics and Policy* 19 (3-4): 285–303.
+doi:[10.1016/j.infoecopol.2007.04.002](http://dx.doi.org/10.1016/j.infoecopol.2007.04.002).
+
+Germano, Fabrizio, and Martin Meier. 2013. “Concentration and
+self-censorship in commercial media.” *Journal of Public Economics* 97
+(1). Elsevier B.V.: 117–30.
+doi:[10.1016/j.jpubeco.2012.09.009](http://dx.doi.org/10.1016/j.jpubeco.2012.09.009).
+
 Gilens, Martin, and Benjamin I. Page. 2014. “Testing Theories of
 American Politics : Elites , Interest Groups , and Average Citizens.”
 *Perspectives on Politics*, 42.
@@ -1371,6 +1706,12 @@ Rachel Rose Jackson. 2015. “Exposing and addressing tobacco industry
 conduct in low-income and middle-income countries.” *The Lancet* 385
 (9972): 1029–43.
 doi:[10.1016/S0140-6736(15)60312-9](http://dx.doi.org/10.1016/S0140-6736(15)60312-9).
+
+Gómez-Baggethun, Erik, Rudolf de Groot, Pedro L Lomas, and Carlos
+Montes. 2010. “The history of ecosystem services in economic theory and
+practice: From early notions to markets and payment schemes.”
+*Ecological Economics* 69 (6): 1209–18.
+doi:[http://dx.doi.org/10.1016/j.ecolecon.2009.11.007](http://dx.doi.org/http://dx.doi.org/10.1016/j.ecolecon.2009.11.007).
 
 Hernandez, Manuel a, and Maximo Torero. 2011. “Fertilizer market
 situation: market structure, consumption and trade patterns, and pricing
@@ -1404,6 +1745,12 @@ challenge for sustainability science.” *Proceedings of the National
 Academy of Sciences of the United States of America* 104 (43): 16747–50.
 doi:[10.1073/pnas.0708566104](http://dx.doi.org/10.1073/pnas.0708566104).
 
+Lambin, Eric F, and Patrick Meyfroidt. 2011. “Global land use change,
+economic globalization, and the looming land scarcity.” *Proceedings of
+the National Academy of Sciences of the United States of America* 108
+(9): 3465–72.
+doi:[10.1073/pnas.1100480108](http://dx.doi.org/10.1073/pnas.1100480108).
+
 Lenzen, M., D. Moran, K. Kanemoto, B. Foran, L. Lobefaro, and A.
 Geschke. 2012. “International trade drives biodiversity threats in
 developing nations.” *Nature* 486 (7401). Nature Publishing Group:
@@ -1428,11 +1775,18 @@ High Country and Sector Resolution.” *Economic Systems Research* 25 (1):
 20–49.
 doi:[10.1080/09535314.2013.769938](http://dx.doi.org/10.1080/09535314.2013.769938).
 
+Lischinsky, Alon, and Annika Egan Sjölander. 2014. “Talking Green in the
+Public Sphere.” *Nordicom Review* 35: 125–39.
+
 Liu, Jianguo, Shuxin Li, Zhiyun Ouyang, Christine Tam, and Xiaodong
 Chen. 2008. “Ecological and socioeconomic effects of China’s policies
 for ecosystem services.” *Proceedings of the National Academy of
 Sciences of the United States of America* 105 (28): 9477–82.
 doi:[10.1073/pnas.0706436105](http://dx.doi.org/10.1073/pnas.0706436105).
+
+Livermore, Michael a, and Richard L Revesz. 2012. “Regulatory Review,
+Capture, and Agency Inaction.” *NEW YORK UNIVERSITY SCHOOL OF LAW* 101
+(1337): 1337–98.
 
 Marques, Alexandra, João Rodrigues, Manfred Lenzen, and Tiago Domingos.
 2012. “Income-based environmental responsibility.” *Ecological
@@ -1451,6 +1805,10 @@ doi:[10.1371/journal.pone.0000444](http://dx.doi.org/10.1371/journal.pone.000044
 
 Millennium Ecosystem Assessment. 2005. “Ecosystems and Human Well-being:
 Synthesis.” Washington, DC.
+
+Nash, Chris, and Wendy Bacon. 2006. “Reporting sustainability in the
+English-language press of Southeast Asia.” *Pacific Journalism Review*
+12 (2): 106–35.
 
 Newman, J., and M. Howlett. 2014. “Regulation and time: temporal
 patterns in regulatory development.” *International Review of
@@ -1482,10 +1840,18 @@ Courchamp. 2011. “Cat dilemma: Too protected to escape trophy hunting?”
 *PLoS ONE* 6 (7): 1–6.
 doi:[10.1371/journal.pone.0022424](http://dx.doi.org/10.1371/journal.pone.0022424).
 
+Pickett, Kate E, and Richard G Wilkinson. 2015. “Income inequality and
+health: A causal review.” *Social Science & Medicine* 128: 316–26.
+
 Portman, Michelle E. 2014. “Regulatory capture by default: Offshore
 exploratory drilling for oil and gas.” *Energy Policy* 65. Elsevier:
 37–47.
 doi:[10.1016/j.enpol.2013.10.010](http://dx.doi.org/10.1016/j.enpol.2013.10.010).
+
+Rasul, Azmat, and J M Proffitt. 2013. “Diversity or homogeny:
+concentration of ownership and media diversity in Pakistan.” *Asian
+Journal of Communication* 23 (6): 590–604.
+doi:[10.1080/01292986.2013.805797](http://dx.doi.org/10.1080/01292986.2013.805797).
 
 Reyers, Belinda, Stephen Polasky, Heather Tallis, and Harold A Mooney.
 2012. “Biodiversity and Ecosystem Services: Similar but Different.”
@@ -1500,6 +1866,12 @@ Roberts, J Timmons. 2001. “Global Inequality and Climate Change.”
 *Society & Natural Resources* 14 (6): 501–9.
 doi:[10.1080/08941920118490](http://dx.doi.org/10.1080/08941920118490).
 
+Sampei, Yuki, and Midori Aoyagi-Usui. 2009. “Mass-media coverage, its
+influence on public awareness of climate-change issues, and implications
+for Japan’s national campaign to reduce greenhouse gas emissions.”
+*Global Environmental Change* 19 (2): 203–12.
+doi:[10.1016/j.gloenvcha.2008.10.005](http://dx.doi.org/10.1016/j.gloenvcha.2008.10.005).
+
 Shapiro, Sidney A. 2012. “The Complexity of Regulatory Capture:
 Diagnosis, Causality, and Remediation.” *Roger Willliams University Law
 Review* 17: 221–57.
@@ -1512,6 +1884,9 @@ Tallis, Heather, Peter Kareiva, Michelle Marvier, and Amy Chang. 2008.
 and economic development.” *Proceedings of the National Academy of
 Sciences* 105 (28): 9457–64.
 
+Tjernström, Sune. 2007. “Ownership Concentration in the TV Industry.”
+*Nordicom Review* 28 (1): 77–93.
+
 Unger, Jacob D. 2008. “REGULATING THE ARCTIC GOLD RUSH : RECOMMENDED
 REGULATORY REFORMS TO PROTECT ALASKA ’ S ARCTIC ENVIRONMENT FROM
 OFFSHORE OIL DRILLING POLLUTION.” *Alaska Law Review* 31 (2014): 263–94.
@@ -1520,6 +1895,10 @@ Vitali, Stefania, and Stefano Battiston. 2013. “The Community Structure
 of the Global Corporate Network.” *Swiss Federal Institute of Technology
 Zurich* 9 (255987): 1–19.
 doi:[10.1371/journal.pone.0104655](http://dx.doi.org/10.1371/journal.pone.0104655).
+
+Vizcarrondo, Tom. 2013. “Measuring concentration of media ownership:
+1976–2009.” *International Journal on Media Management* 15 (3): 177–95.
+doi:[10.1080/14241277.2013.782499](http://dx.doi.org/10.1080/14241277.2013.782499).
 
 Walls, Helen L, Richard D Smith, and Peter Drahos. 2015. “Improving
 regulatory capacity to manage risks associated with trade agreements.”
@@ -1531,6 +1910,14 @@ Suh, James West, and Keiichiro Kanemoto. 2013. “The material footprint
 of nations.” *Proceedings of the National Academy of Sciences of the
 United States of America*, September.
 doi:[10.1073/pnas.1220362110](http://dx.doi.org/10.1073/pnas.1220362110).
+
+Winseck, Dwayne. 2008. “The State of Media Ownership and Media Markets:
+Competition or Concentration and Why Should We Care?” *Sociology
+Compass* 2 (1). Blackwell Publishing Ltd: 34–47.
+doi:[10.1111/j.1751-9020.2007.00061.x](http://dx.doi.org/10.1111/j.1751-9020.2007.00061.x).
+
+World Economic Forum. 2014. *Global Risks Report Eighth Edition*.
+<http://reports.weforum.org/global-risks-2013/>.
 
 Zinn, Matthew D. 2002. “Policing Environmental Regulatory Enforcement:
 Cooperation, Capture, and Citizen Suits.” *STANFORD ENVIRONMENTAL LAW
