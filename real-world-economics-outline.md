@@ -17,8 +17,8 @@
     -   Two advances in integrating the earth system in economic
         accounting
         -   Greener economic accounting for natural capital
-        -   Telecoupled dynamics socio-environmental dynamics from
-            global trade
+        -   Global trade and the telecoupling of socio-environmental
+            dynamics
     -   Implications of economic inequality globally, nationally and
         locally
         -   Consequences of global inequality dynamics
@@ -307,7 +307,7 @@ environmental problems*" amplified.
 
 <br><br>
 
-### Telecoupled dynamics socio-environmental dynamics from global trade
+### Global trade and the telecoupling of socio-environmental dynamics
 
 -   Leontief 1970 envisioned national accounting as a way of measuring
     the impact of economic activities and human consumption on the
@@ -446,12 +446,17 @@ mental well-being of the individual.
         -   Shock doctrine and the socio-ecological as well as
             macroeconomic consequences today - Naomi Klein
 
--   Can also add regional examples of grid-lock such as inequality
-    within the European Union and challenges for the sustainability
-    transition. With large inequality the poorer nations will have an
-    incentive to stall transition policies for which they would at a
-    disadvantage. EMU crises and inequality paper (Bitros, Batavia, and
-    Nandakumar 2014).
+        -   Can also add regional examples of grid-lock such as
+            inequality within the European Union and challenges for the
+            sustainability transition. With large inequality the poorer
+            nations will have an incentive to stall transition policies
+            for which they would at a disadvantage. EMU crises and
+            inequality paper (Bitros, Batavia, and Nandakumar 2014).
+
+        -   Progress in reaching MDGs is less in lower-income countries
+            in particular countries with high burdens of HIV and
+            Non-communicable diseases (<span class="citeproc-not-found"
+            data-reference-id="Stuckler2010">**???**</span>)
 
 #### National dynamics and impacts of inequality
 
@@ -476,7 +481,7 @@ mental well-being of the individual.
     in particular with regard to the role of democracy in models of how
     to achieve transitions to for global sustainability*.
 
--   **Regulatory caputre** In public administration, "regulatory
+-   **Regulatory capture** In public administration, "regulatory
     capture" describes the situation where regulatory institutions act
     in favor of the entities they are supposed to regulate instead of
     the public interest they have been instituted to enact (Zinn 2002,
@@ -716,12 +721,11 @@ mental well-being of the individual.
     advances offer important specific questions for sustainability
     science to integrate with and more generally identifies economics
     research on the concentration wealth and the research on political
-    economy as priorities for integration.
+    economy as priorities for integration. *The worst case scenario for
+    sustainability science is if inferred conclusions and proposed
+    models are naive to the importance of these areas of economics in
+    law, public administration, political science and communication.*
 
-    -   *Trade agreements and inequality* If states do not find ways to
-        increase their capacities then PTAs are likely to become much
-        greater drivers of health inequities (Walls, Smith, and Drahos
-        2015).
 -   **Implications for society, well-being, health and environment** The
     final line of research highlighted here relating to national
     inequality relates to the social and environmental impacts of
@@ -731,13 +735,134 @@ mental well-being of the individual.
     of concentration of wealth, one person one vote, regulatory capture
     and media ownership structures.
 
-    -   Regulatory capture and health - case - the tobacco industry in
-        middle and low income countries (Gilmore et al. 2015)
-    -   Regulation of inter-continental trade agreements (Global Health)
--   The worst case scenario for sustainability science is if inferred
-    conclusions and proposed models are naive to the importance of these
-    areas of economics in law, public administration, political science
-    and communication.
+-   Health impacts of inequality from national to local level
+    -   **NATIONAL**
+
+    -   **Regulatory capture and health** - case - the tobacco industry
+        in middle and low income countries (Gilmore et al. 2015)
+
+    -   *Influence of regulatory capture in trade agreements and
+        implications for health inequality* If states do not find ways
+        to increase their capacities then PTAs are likely to become much
+        greater drivers of health inequities (Walls, Smith, and Drahos
+        2015).
+
+    -   Persistent inverse relatin between socioeconomic status and
+        mortality in the USA in 1960 and 1986 (<span
+        class="citeproc-not-found"
+        data-reference-id="Pappas1993">**???**</span>). While the over
+        all death rate decreased i nthe period, the inverse association
+        with income increased.
+
+    -   (<span class="citeproc-not-found"
+        data-reference-id="Bhandari2014">**???**</span>) Lower ratio of
+        dentist per population in more unequal countries could be a sign
+        of divestment in health car in unequal countries. "This study
+        shows an inverse relationship between income inequalityand use
+        of dental services. Of the two indicators of disinvestment in
+        health careassessed, only dentist-to-population ratio was
+        associated with income inequalityand use of dental services."
+
+    -   **Political will as a barrier to implementing generated
+        knowledge** **Relate back to median voter theorem** Cite coming
+        of age review.
+
+    -   **Which type of pubic health interventions generate
+        inequalities - downstream (yes) - upstream (no)** 'downstream'
+        preventive interventions are more likely to increase health
+        inequalities than 'upstream' interventions. More consistent
+        reporting of differential intervention effectiveness is required
+        to help build the evidence base on IGIs (<span
+        class="citeproc-not-found"
+        data-reference-id="Lorenc2013">**???**</span>)
+
+    -   **Effective public health stroke interventions and socioeconomic
+        status** "Those with a lower socioeconomic status have more
+        severe deficits and are less likely to receive evidence-based
+        stroke services, although the results are inconsistent. Poorer
+        people within a population and poorer countries globally are
+        most affected in terms of incidence and poor outcomes of stroke.
+        Innovative prevention strategies targeting people in low
+        socioeconomic groups are required along with effective measures
+        to promote access to effective stroke interventions worldwide.
+        (Stroke. 2012;43:1186-1191.)" (<span class="citeproc-not-found"
+        data-reference-id="Addo2012">**???**</span>)
+
+    -   **Non-communicable diseases and socioeconomic inequality**
+        (<span class="citeproc-not-found"
+        data-reference-id="DiCesare2013">**???**</span>) (1) "In most
+        countries, people who have a low socioeconomic status and those
+        who live in poor or marginalised communities have a higher risk
+        of dying from non-communicable diseases (NCDs) than do more
+        advantaged groups and communities.". "Effective actions to
+        reduce NCD inequalities include equitable early childhood
+        development programmes and education; removal of barriers to
+        secure employment in disadvantaged groups; comprehensive
+        strategies for tobacco and alcohol control and for dietary salt
+        reduction that target low socioeconomic status groups;
+        universal, financially and physically accessible, high-quality
+        primary care for delivery of preventive interventions and for
+        early detection and treatment of NCDs; and universal insurance
+        and other mechanisms to remove fi nancial barriers to health
+        care."
+
+    -   **LOCAL**
+
+    -   **Whitehall study I and II** (<span class="citeproc-not-found"
+        data-reference-id="Marmot1991">**???**</span>) "The Whitehall
+        study of British civil servants begun in 1967, showed a steep
+        inverse association between social class, as assessed by grade
+        of employment, and mortality from a wide range of diseases." The
+        same pattern was consistently found 20 years later.
+
+    -   (<span class="citeproc-not-found"
+        data-reference-id="Pickett2001">**???**</span>)
+
+    -   The evidence for modest neighbourhood effects on health is
+        fairly consistent despite heterogeneity of study designs,
+        substitution of local area measures for neighbourhood measures
+        and probable measurement error. By drawing public health
+        attention to the health risks associated with the social
+        structure and ecology of neighbourhoods, innovative approaches
+        to community level interventions may ensue.
+
+    -   The Haves, the Have-Nots, and the Health of Everyone: The
+        Relationship Between Social Inequality and Environmental Quality
+        Annual Review of Public Health, 2014 [@]
+        -   SUMMARY POINTS
+        -   1.  Evidence supporting the equality/sustainability
+                hypothesis suggests that social inequality is bad for
+                the environment, which may in turn explain why societies
+                with more inequality appear to be less healthy.
+        -   1.  Social inequality may degrade the environment through
+                asymmetries in political power that affect who
+                experiences the benefits and harms of pollution.
+        -   1.  Social inequality may also worsen environmental quality
+                by increasing the environmental intensity of a society's
+                consumption or decreasing social cohesion and the
+                willingness to cooperate to protect common resources.
+        -   1.  Evidence of a negative association between social
+                inequality and environmental quality appears strongest
+                for localized air pollutants and markers of access to
+                safe water and sanitation, and weaker for more dispersed
+                pollutants, such as CO2, and other measures of water
+                quality.
+        -   1.  The evidence linking inequality with worse environmental
+                quality is more consistent in within-country studies
+                from the United States than in between-country studies,
+                perhaps because the former benefit from a greater
+                consistency in data and the fact that the larger
+                political and development contexts are held fixed.
+        -   1.  Challenges to conducting this research include the fact
+                that inequality changes slowly over time so that
+                longitudinal effects are hard to estimate and the fact
+                that nonlinear effects and effect modifiers appear to
+                play a part.
+        -   1.  Although the evidence remains somewhat mixed and more
+                research is needed, there are intriguing indications
+                that reducing social inequality may not only help those
+                who are most exposed to health-damaging pollutants but
+                may also improve environmental conditions for all.
 
 -   *Research agenda:*
     -   Media ownership structures - is disinformation and public
@@ -755,49 +880,39 @@ mental well-being of the individual.
     -   Research question - to what degree are sustainability dynamics
         in nations with high concentration of wealth different nations
         with less concentration of wealth?
--   "Rising wealth concentration contributed to the crisis because the
-    increasing asset demand from the rich played a key role in the rise
-    of the structured credit market and enabled poor and middle-income
-    households to accumulate increasing amounts of debt. To tame the
-    inherent instability of the current mode of capitalism it is
-    necessary to reduce inequality." - Sabalini 2014/2015
 
--   Also cite contrary view from Chicago School - the economic elite
-    wants democracy and would strike a deal if they had the chance,
-    because dictators tries to wipe out the economic elite Capital - in
-    the Twenty-First Century - In the Rest of the World - Michael
-    Albertus - University of Chicago.
+    -   "Rising wealth concentration contributed to the crisis because
+        the increasing asset demand from the rich played a key role in
+        the rise of the structured credit market and enabled poor and
+        middle-income households to accumulate increasing amounts of
+        debt. To tame the inherent instability of the current mode of
+        capitalism it is necessary to reduce inequality." - Sabalini
+        2014/2015
 
--   *References to integrate* \* The Haves, the Have-Nots, and the
-    Health of Everyone: The Relationship Between Social Inequality and
-    Environmental Quality Annual Review of Public Health, 2014 \*
-    SUMMARY POINTS \* 1. Evidence supporting the equality/sustainability
-    hypothesis suggests that social inequality is bad for the
-    environment, which may in turn explain why societies with more
-    inequality appear to be less healthy. \* 2. Social inequality may
-    degrade the environment through asymmetries in political power that
-    affect who experiences the benefits and harms of pollution. \* 3.
-    Social inequality may also worsen environmental quality by
-    increasing the environmental intensity of a society's consumption or
-    decreasing social cohesion and the willingness to cooperate to
-    protect common resources. \* 4. Evidence of a negative association
-    between social inequality and environmental quality appears
-    strongest for localized air pollutants and markers of access to safe
-    water and sanitation, and weaker for more dispersed pollutants, such
-    as CO2, and other measures of water quality. \* 5. The evidence
-    linking inequality with worse environmental quality is more
-    consistent in within-country studies from the United States than in
-    between-country studies, perhaps because the former benefit from a
-    greater consistency in data and the fact that the larger political
-    and development contexts are held fixed. \* 6. Challenges to
-    conducting this research include the fact that inequality changes
-    slowly over time so that longitudinal effects are hard to estimate
-    and the fact that nonlinear effects and effect modifiers appear to
-    play a part. \* 7. Although the evidence remains somewhat mixed and
-    more research is needed, there are intriguing indications that
-    reducing social inequality may not only help those who are most
-    exposed to health-damaging pollutants but may also improve
-    environmental conditions for all.
+    -   Also cite contrary view from Chicago School - the economic elite
+        wants democracy and would strike a deal if they had the chance,
+        because dictators tries to wipe out the economic elite Capital -
+        in the Twenty-First Century - In the Rest of the World - Michael
+        Albertus - University of Chicago.
+
+-   **Internal conflict - poverty and income inequality**
+    -   Poverty, i.e. global inequality is a better predictor of
+        internal conflict and insurgency than domestic inequality.
+        (<span class="citeproc-not-found"
+        data-reference-id="Fearon2003">**???**</span>) "after
+        controlling for per capita income, more ethnically or
+        religiously diverse countries have been no more likely to
+        experience significant civil violence in this period. We argue
+        for understanding civil war in this period in terms of
+        insurgency or rural guerrilla warfare, a particular form of
+        military practice that can be harnessed to diverse political
+        agendas. The factors that explain which countries have been at
+        risk for civil war are not their ethnic or religious
+        characteristics but rather the conditions that favor insurgency.
+        These include poverty-which marks financially and
+        bureaucratically weak states and also favors rebel
+        recruitment-political instability, rough terrain, and large
+        populations."
 
 #### Local dynamics and impacts of inequality
 

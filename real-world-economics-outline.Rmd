@@ -1,7 +1,7 @@
 ---
 title: "Real-world-economics-outline"
 category: real-world-economics
-date: "Wednesday, April 29, 2015"
+date: "Thursday, April 30, 2015"
 output:
   html_document:
     number_sections: yes
@@ -185,7 +185,7 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
 
 <br><br>
 
-### Telecoupled dynamics socio-environmental dynamics from global trade
+### Global trade and the telecoupling of socio-environmental dynamics
 
 * Leontief 1970 envisioned national accounting as a way of measuring the impact of economic activities and human consumption on the environment. With recent progress in accounting for resource use in globalized production and consumption chains using global multi-regional input-output models (MRIOs) to link together resource extraction, import, consumption and exports in national accounts [@Lenzen2012a, @Lenzen2013, @Lenzen2014]. Early phases of that vision is now being implemented in a number of ways. By associating the MRIO with enviromental and social variables (so-called satellite variables), environmentally and socially extended MRIOs are produced that allow to assess the environmental and social interlinked impacts of global ecnomomic activity [e.g. @Wiedmann2013, @Lenzen2012; @Marques2012].
 
@@ -245,19 +245,19 @@ Economic inequality has steadily risen to the top of politicial agenda fuelled b
         * Shock doctrine and the socio-ecological as well as macroeconomic consequences today - Naomi Klein
 
 
-* Can also add regional examples of grid-lock such as inequality within the European Union and challenges for the sustainability transition. With large inequality the poorer nations will have an incentive to stall transition policies for which they would at a disadvantage. EMU crises and inequality paper [@Bitros2014].
+        * Can also add regional examples of grid-lock such as inequality within the European Union and challenges for the sustainability transition. With large inequality the poorer nations will have an incentive to stall transition policies for which they would at a disadvantage. EMU crises and inequality paper [@Bitros2014].
+        
+        * Progress in reaching MDGs is less in lower-income countries in particular countries with high burdens of HIV and Non-communicable diseases [@Stuckler2010]
 
 #### National dynamics and impacts of inequality
 
 * Just as global outcomes are highly influenced by global inequality, research is increasingly demonstrating how economic, social and environmental outcomes within nations are influenced by how wealth is distributed in society. For example, sustainability science research has focused on the need for more tightly regulating wealth in Africa to bring the country out of poverty [@Kates2007]. **Median voter theorem** However, a study from 2014 [@Gilens2014] raises the question about the influence of concentration of wealth on democracy and potential sustainability transitions also in Western democracies. Thus, Gilens [@Gilens2014] showed that "economic elites and organized groups representing business interests have substantial independent impacts on US government policy while average citizens have little or no impact", the latter observation contrary to the prediction of the median voter theorem. *The degree to which these findings can be transferred to most developed nations or in some way can be explained by macroeconomic indicators such as the concentration of wealth will have important implications for sustainability science in particular with regard to the role of democracy in models of how to achieve transitions to for global sustainability*.
 
-* **Regulatory caputre** In public administration, "regulatory capture" describes the situation where regulatory institutions act in favor of the entities they are supposed to regulate instead of the public interest they have been instituted to enact [@Zinn2002, @Livermore2012]. Although the origins of capture-like regulatory behavior can be hard to identify [@Shapiro2012], regulated entities often have more financial resources available than the regulator and the job security of the regulator might in the end depend on the economic activity of the regulated. This economic inequality may present some moral challenges for sound regulatory decision-making [@Ferguson2010]. Cases where capture has been proposed to influence decision making on enviromental sustainability inlude the implementations of federal regulations such as the Endangered Species Act [@Botello-Samson2010a] and Surface Mining Act [@Botello-Samson2010] in the United States and off-shore drilling in Israel [@Portman2014] and the US [in Alaska and the Mexican Gulf @Unger2008; @Shapiro2012]. Further the regulation of Genetically Modified Organisms in the United States [@Hiatt2010; @Hosmer2013] is often contrasted with the public scepticism reflected in regulatory hesitance of GMO's and biotecnology in the EU [@Ostrovsky2007], which may partially be related to a great risk of capture in the US. A recent cross-national study found that "regulatory regimes have similar developmental patterns over time, although the time spent at each stage in the process can vary significantly according to unique domestic factor" [@Newman2014]. *Implications for sustainability / socio-ecological models?*
+* **Regulatory capture** In public administration, "regulatory capture" describes the situation where regulatory institutions act in favor of the entities they are supposed to regulate instead of the public interest they have been instituted to enact [@Zinn2002, @Livermore2012]. Although the origins of capture-like regulatory behavior can be hard to identify [@Shapiro2012], regulated entities often have more financial resources available than the regulator and the job security of the regulator might in the end depend on the economic activity of the regulated. This economic inequality may present some moral challenges for sound regulatory decision-making [@Ferguson2010]. Cases where capture has been proposed to influence decision making on enviromental sustainability inlude the implementations of federal regulations such as the Endangered Species Act [@Botello-Samson2010a] and Surface Mining Act [@Botello-Samson2010] in the United States and off-shore drilling in Israel [@Portman2014] and the US [in Alaska and the Mexican Gulf @Unger2008; @Shapiro2012]. Further the regulation of Genetically Modified Organisms in the United States [@Hiatt2010; @Hosmer2013] is often contrasted with the public scepticism reflected in regulatory hesitance of GMO's and biotecnology in the EU [@Ostrovsky2007], which may partially be related to a great risk of capture in the US. A recent cross-national study found that "regulatory regimes have similar developmental patterns over time, although the time spent at each stage in the process can vary significantly according to unique domestic factor" [@Newman2014]. *Implications for sustainability / socio-ecological models?*
 
 * **Media control** The degree to which sustainability transitions have public support may depend on the degree to which the public is informed about the grand challenges of sustainability. An interesting question for sustainability science in the context of national inequality can look into the influence of the economic concentration of multimedia ownership structures and the degree to which communities locally and nationally are aware about specific and general sustainability grand challenges. (**PERFORM LITERATURE SEARCH**) The results of this line of research will in turn influence the models that sustainability science will propose for viable sustainable transitions.
 
 * Media coverage influences public behavior and vice versa. If media coverage is influenced by the owner of a given media, high concentration of media ownership can lead to over or underreporting of a given issue, lack of diversity or disinformation (also from vested interest). For example, newspaper coverage of climate change in Japan from 1998 and 2007 correlated with increased public awareness [@Sampei2009] (Global Environmental Change study). *Mass media have been critical to highlight enviornmental concerns in the past* [@Boykoff2009].
-
-
 
 * **Two general issues seems to dominate in the research literature: (1) How organizations brand themselves through media. (2) Influence on public awareness and concern of media coverage.
 
@@ -300,20 +300,56 @@ anthropogenic contributions to global warming and resultant action".
     * *Number of media vs. number of source media* [@Winseck2008] The State of Media Ownership and Media Markets: Competition or Concentration and Why Should We Care? "This article presents a global overview of the state of communications media ownership and markets. The primary issue at stake is whether or not markets and ownership are becoming more or less concentrated. After reviewing contrasting views on this issue, I suggest that the question turns on whether or not we consider 'numerical diversity' (the number of channels available in any given area) versus 'source diversity' (a measure of the number of media owners in any given area). Drawing on recent data I suggest that while there is undoubtably greater 'numerical diversity', we are seeing - within countries, regionally and globally - greater concentration at the level of 'source diversity'. While new media, especially the Internet, open up unprecedented opportunities for people to access and distribute information, the emergence of a powerful nexus between both 'old' and 'new' media means that the character of media ownership and markets still matters greatly. This nexus of ownership and market power spans different segments of the media and is qualitatively different from previous times. These factors have an important influence on the evolution of media technologies and markets, the work of media professionals and the character of information and media content"
 
 
-* **General importance for sustainability science** Such questions are of clear interested to sustainabliity science and research on global sustainablity. For example, what are the implications for the likelihood of sustainability transitions? If decision makers make choice in the interest of their financiers instead of in the interest of their electorate, may this either increase or decrease the likelihood and speed of sustainablity transitions wanted by the electorate? Relevant cross-country questions for sustainability science ask whether vested interests have a larger influence on the trajectory of publicly supported pathways for sustainability transitions in more unequal nations or whether these phenomena are rare unique cases or nearly universal. These recent research advances offer important specific questions for sustainability science to integrate with and more generally identifies economics research on the concentration wealth and the research on political economy as priorities for integration.
+* **General importance for sustainability science** Such questions are of clear interested to sustainabliity science and research on global sustainablity. For example, what are the implications for the likelihood of sustainability transitions? If decision makers make choice in the interest of their financiers instead of in the interest of their electorate, may this either increase or decrease the likelihood and speed of sustainablity transitions wanted by the electorate? Relevant cross-country questions for sustainability science ask whether vested interests have a larger influence on the trajectory of publicly supported pathways for sustainability transitions in more unequal nations or whether these phenomena are rare unique cases or nearly universal. These recent research advances offer important specific questions for sustainability science to integrate with and more generally identifies economics research on the concentration wealth and the research on political economy as priorities for integration. *The worst case scenario for sustainability science is if inferred conclusions and proposed models are naive to the importance of these areas of economics in law, public administration, political science and communication.*
 
 
 
-    * *Trade agreements and inequality* If states do not find ways to increase their capacities then PTAs are likely to become much greater drivers of health inequities [@Walls2015]. 
+
+
 
 
 
 * **Implications for society, well-being, health and environment** The final line of research highlighted here relating to national inequality relates to the social and environmental impacts of differences in equality. Highlight here recent findings on whether more equal societies have better public health, are more happy, and better environmental protection. This relates back to the mechanisms of concentration of wealth, one person one vote, regulatory capture and media ownership structures.
 
-    * Regulatory capture and health - case - the tobacco industry in middle and low income countries [@Gilmore2015]
-    * Regulation of inter-continental trade agreements (Global Health)
+* Health impacts of inequality from national to local level
+    * **NATIONAL**
     
-* The worst case scenario for sustainability science is if inferred conclusions and proposed models are naive to the importance of these areas of economics in law, public administration, political science and communication.
+    * **Regulatory capture and health** - case - the tobacco industry in middle and low income countries [@Gilmore2015]
+    
+    * *Influence of regulatory capture in trade agreements and implications for health inequality* If states do not find ways to increase their capacities then PTAs are likely to become much greater drivers of health inequities [@Walls2015].
+    
+    * Persistent inverse relatin between socioeconomic status and mortality in the USA in 1960 and 1986 [@Pappas1993]. While the over all death rate decreased i nthe period, the inverse association with income increased.
+    
+    * [@Bhandari2014] Lower ratio of dentist per population in more unequal countries could be a sign of divestment in health car in unequal countries. "This study shows an inverse relationship between income inequalityand use of dental services. Of the two indicators of disinvestment in health careassessed, only dentist-to-population ratio was associated with income inequalityand use of dental services."
+    
+    * **Political will as a barrier to implementing generated knowledge** **Relate back to median voter theorem** Cite coming of age review.
+    
+    * **Which type of pubic health interventions generate inequalities - downstream (yes) - upstream (no)**  'downstream' preventive interventions are more likely to increase health inequalities than 'upstream' interventions. More consistent reporting of differential intervention effectiveness is required to help build the evidence base on IGIs [@Lorenc2013]
+    
+    * **Effective public health stroke interventions and socioeconomic status** "Those with a lower socioeconomic status have more severe deficits and are less likely to receive evidence-based stroke services, although the results are inconsistent. Poorer people within a population and poorer countries globally are most affected in terms of incidence and poor outcomes of stroke. Innovative prevention strategies targeting people in low socioeconomic groups are required along with effective measures to promote access to effective stroke interventions worldwide. (Stroke. 2012;43:1186-1191.)" [@Addo2012]
+    
+    * **Non-communicable diseases and socioeconomic inequality** [@DiCesare2013] (1) "In most countries, people who have a low socioeconomic status and those who live in poor or marginalised communities have a higher risk of dying from non-communicable diseases (NCDs) than do more advantaged groups and communities.". "Effective actions to reduce NCD inequalities include equitable early childhood development programmes and education; removal of barriers to secure employment in disadvantaged groups; comprehensive strategies for tobacco and alcohol control and for dietary salt reduction that target low socioeconomic status groups; universal, financially and physically accessible, high-quality primary care for delivery of preventive interventions and for early detection and treatment of NCDs; and universal insurance and other mechanisms to remove fi nancial barriers to health care."
+    
+    * **LOCAL**
+    
+    * **Whitehall study I and II** [@Marmot1991] "The Whitehall study of British civil servants begun in 1967, showed a steep inverse association between social class, as assessed by grade of employment, and mortality from a wide range of diseases." The same pattern was consistently found 20 years later.
+    
+    * [@Pickett2001]
+    
+    * The evidence for modest neighbourhood effects on health is fairly consistent despite heterogeneity of study designs, substitution of local area measures for neighbourhood measures and probable measurement error. By drawing public health attention to the health risks associated with the social structure and ecology of neighbourhoods, innovative approaches to community level interventions may ensue.
+    
+    * The Haves, the Have-Nots, and the Health of Everyone: The Relationship Between Social Inequality and Environmental Quality  Annual Review of Public Health, 2014 [@]
+        * SUMMARY POINTS
+        * 1. Evidence supporting the equality/sustainability hypothesis suggests that social inequality is bad for the environment, which may in turn explain why societies with more inequality appear to be less healthy.
+        * 2. Social inequality may degrade the environment through asymmetries in political power that affect who experiences the benefits and harms of pollution.
+        * 3. Social inequality may also worsen environmental quality by increasing the environmental intensity of a society's consumption or decreasing social cohesion and the willingness to cooperate to protect common resources.
+        * 4. Evidence of a negative association between social inequality and environmental quality appears strongest for localized air pollutants and markers of access to safe water and sanitation, and weaker for more dispersed pollutants, such as CO2, and other measures of water quality.
+        * 5. The evidence linking inequality with worse environmental quality is more consistent in within-country studies from the United States than in between-country studies, perhaps because the former benefit from a greater consistency in data and the fact that the larger political and development contexts are held fixed.
+        * 6. Challenges to conducting this research include the fact that inequality changes slowly over time so that longitudinal effects are hard to estimate and the fact that nonlinear effects and effect modifiers appear to play a part.
+        * 7. Although the evidence remains somewhat mixed and more research is needed, there are intriguing indications that reducing social inequality may not only help those who are most exposed to health-damaging pollutants but may also improve environmental conditions for all.
+
+    
+    
 
 
 * *Research agenda:*
@@ -326,23 +362,15 @@ anthropogenic contributions to global warming and resultant action".
     * Societal health and happinness - government investments smaller public health investments?
     * Research question - to what degree are sustainability dynamics in nations with high concentration of wealth different nations with less concentration of wealth?
         
-    
+    * "Rising wealth concentration contributed to the crisis because the increasing asset demand from the rich played a key role in the rise of the structured credit market and enabled poor and middle-income households to accumulate increasing amounts of debt. To tame the inherent instability of the current mode of capitalism it is necessary to reduce inequality."  - Sabalini 2014/2015
 
-      
-* "Rising wealth concentration contributed to the crisis because the increasing asset demand from the rich played a key role in the rise of the structured credit market and enabled poor and middle-income households to accumulate increasing amounts of debt. To tame the inherent instability of the current mode of capitalism it is necessary to reduce inequality."  - Sabalini 2014/2015
+    * Also cite contrary view from Chicago School - the economic elite wants democracy and would strike a deal if they had the chance, because dictators tries to wipe out the economic elite Capital - in the Twenty-First Century - In the Rest of the World - Michael Albertus - University of Chicago.
 
-* Also cite contrary view from Chicago School - the economic elite wants democracy and would strike a deal if they had the chance, because dictators tries to wipe out the economic elite Capital - in the Twenty-First Century - In the Rest of the World - Michael Albertus - University of Chicago.
 
-* *References to integrate*
-        * The Haves, the Have-Nots, and the Health of Everyone: The Relationship Between Social Inequality and Environmental Quality  Annual Review of Public Health, 2014
-            * SUMMARY POINTS
-            * 1. Evidence supporting the equality/sustainability hypothesis suggests that social inequality is bad for the environment, which may in turn explain why societies with more inequality appear to be less healthy.
-            * 2. Social inequality may degrade the environment through asymmetries in political power that affect who experiences the benefits and harms of pollution.
-            * 3. Social inequality may also worsen environmental quality by increasing the environmental intensity of a society's consumption or decreasing social cohesion and the willingness to cooperate to protect common resources.
-            * 4. Evidence of a negative association between social inequality and environmental quality appears strongest for localized air pollutants and markers of access to safe water and sanitation, and weaker for more dispersed pollutants, such as CO2, and other measures of water quality.
-            * 5. The evidence linking inequality with worse environmental quality is more consistent in within-country studies from the United States than in between-country studies, perhaps because the former benefit from a greater consistency in data and the fact that the larger political and development contexts are held fixed.
-            * 6. Challenges to conducting this research include the fact that inequality changes slowly over time so that longitudinal effects are hard to estimate and the fact that nonlinear effects and effect modifiers appear to play a part.
-            * 7. Although the evidence remains somewhat mixed and more research is needed, there are intriguing indications that reducing social inequality may not only help those who are most exposed to health-damaging pollutants but may also improve environmental conditions for all.
+        
+
+* **Internal conflict - poverty and income inequality**
+    * Poverty, i.e. global inequality is a better predictor of internal conflict and insurgency than domestic inequality. [@Fearon2003] "after controlling for per capita income, more ethnically or religiously diverse countries have been no more likely to experience significant civil violence in this period. We argue for understanding civil war in this period in terms of insurgency or rural guerrilla warfare, a particular form of military practice that can be harnessed to diverse political agendas. The factors that explain which countries have been at risk for civil war are not their ethnic or religious characteristics but rather the conditions that favor insurgency. These include poverty-which marks financially and bureaucratically weak states and also favors rebel recruitment-political instability, rough terrain, and large populations."
 
 
 
