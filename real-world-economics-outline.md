@@ -455,8 +455,7 @@ mental well-being of the individual.
 
         -   Progress in reaching MDGs is less in lower-income countries
             in particular countries with high burdens of HIV and
-            Non-communicable diseases (<span class="citeproc-not-found"
-            data-reference-id="Stuckler2010">**???**</span>)
+            Non-communicable diseases (Stuckler, Basu, and McKee 2010)
 
 #### National dynamics and impacts of inequality
 
@@ -748,18 +747,15 @@ mental well-being of the individual.
         2015).
 
     -   Persistent inverse relatin between socioeconomic status and
-        mortality in the USA in 1960 and 1986 (<span
-        class="citeproc-not-found"
-        data-reference-id="Pappas1993">**???**</span>). While the over
-        all death rate decreased i nthe period, the inverse association
-        with income increased.
+        mortality in the USA in 1960 and 1986 (Pappas et al. 1993).
+        While the over all death rate decreased i nthe period, the
+        inverse association with income increased.
 
-    -   (<span class="citeproc-not-found"
-        data-reference-id="Bhandari2014">**???**</span>) Lower ratio of
-        dentist per population in more unequal countries could be a sign
-        of divestment in health car in unequal countries. "This study
-        shows an inverse relationship between income inequalityand use
-        of dental services. Of the two indicators of disinvestment in
+    -   (Bhandari, Newton, and Bernabé 2015) Lower ratio of dentist per
+        population in more unequal countries could be a sign of
+        divestment in health car in unequal countries. "This study shows
+        an inverse relationship between income inequalityand use of
+        dental services. Of the two indicators of disinvestment in
         health careassessed, only dentist-to-population ratio was
         associated with income inequalityand use of dental services."
 
@@ -772,9 +768,7 @@ mental well-being of the individual.
         preventive interventions are more likely to increase health
         inequalities than 'upstream' interventions. More consistent
         reporting of differential intervention effectiveness is required
-        to help build the evidence base on IGIs (<span
-        class="citeproc-not-found"
-        data-reference-id="Lorenc2013">**???**</span>)
+        to help build the evidence base on IGIs (Lorenc et al. 2012)
 
     -   **Effective public health stroke interventions and socioeconomic
         status** "Those with a lower socioeconomic status have more
@@ -785,38 +779,34 @@ mental well-being of the individual.
         Innovative prevention strategies targeting people in low
         socioeconomic groups are required along with effective measures
         to promote access to effective stroke interventions worldwide.
-        (Stroke. 2012;43:1186-1191.)" (<span class="citeproc-not-found"
-        data-reference-id="Addo2012">**???**</span>)
+        (Stroke. 2012;43:1186-1191.)" (Addo et al. 2012)
 
     -   **Non-communicable diseases and socioeconomic inequality**
-        (<span class="citeproc-not-found"
-        data-reference-id="DiCesare2013">**???**</span>) (1) "In most
-        countries, people who have a low socioeconomic status and those
-        who live in poor or marginalised communities have a higher risk
-        of dying from non-communicable diseases (NCDs) than do more
-        advantaged groups and communities.". "Effective actions to
-        reduce NCD inequalities include equitable early childhood
-        development programmes and education; removal of barriers to
-        secure employment in disadvantaged groups; comprehensive
-        strategies for tobacco and alcohol control and for dietary salt
-        reduction that target low socioeconomic status groups;
-        universal, financially and physically accessible, high-quality
-        primary care for delivery of preventive interventions and for
-        early detection and treatment of NCDs; and universal insurance
-        and other mechanisms to remove fi nancial barriers to health
-        care."
+        (Cesare et al. 2013) (1) "In most countries, people who have a
+        low socioeconomic status and those who live in poor or
+        marginalised communities have a higher risk of dying from
+        non-communicable diseases (NCDs) than do more advantaged groups
+        and communities.". "Effective actions to reduce NCD inequalities
+        include equitable early childhood development programmes and
+        education; removal of barriers to secure employment in
+        disadvantaged groups; comprehensive strategies for tobacco and
+        alcohol control and for dietary salt reduction that target low
+        socioeconomic status groups; universal, financially and
+        physically accessible, high-quality primary care for delivery of
+        preventive interventions and for early detection and treatment
+        of NCDs; and universal insurance and other mechanisms to remove
+        fi nancial barriers to health care."
 
     -   **LOCAL**
 
-    -   **Whitehall study I and II** (<span class="citeproc-not-found"
-        data-reference-id="Marmot1991">**???**</span>) "The Whitehall
-        study of British civil servants begun in 1967, showed a steep
-        inverse association between social class, as assessed by grade
-        of employment, and mortality from a wide range of diseases." The
-        same pattern was consistently found 20 years later.
+    -   **Whitehall study I and II** (Marmot and Anonymous 1991) "The
+        Whitehall study of British civil servants begun in 1967, showed
+        a steep inverse association between social class, as assessed by
+        grade of employment, and mortality from a wide range of
+        diseases." The same pattern was consistently found 20 years
+        later.
 
-    -   (<span class="citeproc-not-found"
-        data-reference-id="Pickett2001">**???**</span>)
+    -   (Pickett and Pearl 2001)
 
     -   The evidence for modest neighbourhood effects on health is
         fairly consistent despite heterogeneity of study designs,
@@ -898,16 +888,14 @@ mental well-being of the individual.
 -   **Internal conflict - poverty and income inequality**
     -   Poverty, i.e. global inequality is a better predictor of
         internal conflict and insurgency than domestic inequality.
-        (<span class="citeproc-not-found"
-        data-reference-id="Fearon2003">**???**</span>) "after
-        controlling for per capita income, more ethnically or
-        religiously diverse countries have been no more likely to
-        experience significant civil violence in this period. We argue
-        for understanding civil war in this period in terms of
-        insurgency or rural guerrilla warfare, a particular form of
-        military practice that can be harnessed to diverse political
-        agendas. The factors that explain which countries have been at
-        risk for civil war are not their ethnic or religious
+        (Fearon and Laitin 2003) "after controlling for per capita
+        income, more ethnically or religiously diverse countries have
+        been no more likely to experience significant civil violence in
+        this period. We argue for understanding civil war in this period
+        in terms of insurgency or rural guerrilla warfare, a particular
+        form of military practice that can be harnessed to diverse
+        political agendas. The factors that explain which countries have
+        been at risk for civil war are not their ethnic or religious
         characteristics but rather the conditions that favor insurgency.
         These include poverty-which marks financially and
         bureaucratically weak states and also favors rebel
@@ -1665,6 +1653,12 @@ REFERENCES
 
 The following literature was cited
 
+Addo, Juliet, Luis Ayerbe, Keerthi M. Mohan, Siobhan Crichton, Anita
+Sheldenkar, Ruoling Chen, Charles D a Wolfe, and Christopher McKevitt.
+2012. “Socioeconomic status and stroke: An updated review.” *Stroke* 43
+(4): 1186–91.
+doi:[10.1161/STROKEAHA.111.639732](http://dx.doi.org/10.1161/STROKEAHA.111.639732).
+
 Bartolini, Stefano. 2014. “Building sustainability through greater
 happiness.”
 doi:[10.1177/1035304614559436](http://dx.doi.org/10.1177/1035304614559436).
@@ -1673,6 +1667,11 @@ Bettencourt, Luís M A, and Jasleen Kaur. 2011. “Evolution and structure
 of sustainability science.” *Proceedings of the National Academy of
 Sciences of the United States of America* 108 (49): 19540–5.
 doi:[10.1073/pnas.1102712108](http://dx.doi.org/10.1073/pnas.1102712108).
+
+Bhandari, Bishal, Jonathan T. Newton, and Eduardo Bernabé. 2015. “Income
+inequality, disinvestment in health care and use of dental services.”
+*Journal of Public Health Dentistry* 75 (1): 58–63.
+doi:[10.1111/jphd.12071](http://dx.doi.org/10.1111/jphd.12071).
 
 Bitros, George C., Bala Batavia, and Parameswar Nandakumar. 2014.
 “Economic crisis in the European periphery: An Assessment of EMU
@@ -1741,6 +1740,12 @@ linking pattern and process in big-picture human ecology.” *Biological
 Reviews of the Cambridge Philosophical Society* 87 (1): 194–208.
 doi:[10.1111/j.1469-185X.2011.00192.x](http://dx.doi.org/10.1111/j.1469-185X.2011.00192.x).
 
+Cesare, Mariachiara Di, Young-ho Khang, Perviz Asaria, Tony Blakely,
+Melanie J Cowan, Farshad Farzadfar, Ramiro Guerrero, and Nayu Ikeda.
+2013. “Non-Communicable Diseases 3 Inequalities in non-communicable
+diseases and eff ective responses.” *Lancet* 381: 585–97.
+doi:[10.1016/S0140-6736(12)61851-0](http://dx.doi.org/10.1016/S0140-6736(12)61851-0).
+
 Chen, Ping-Hung. 2002. “Who Owns Cable Television? Media Ownership
 Concentration in Taiwan.” *Journal of Media Economics* 15 (1): 41–55.
 doi:[10.1207/S15327736ME1501\\\_4](http://dx.doi.org/10.1207/S15327736ME1501\_4).
@@ -1795,6 +1800,9 @@ Lonsdale, Neville Ash, Anne Larigauderie, et al. 2015. “The IPBES
 Conceptual Framework — connecting nature and people.” *Current Opinion
 in Environmental Sustainability* 14 (June): 1–16.
 doi:[10.1016/j.cosust.2014.11.002](http://dx.doi.org/10.1016/j.cosust.2014.11.002).
+
+Fearon, James D, and David D Laitin. 2003. “Ethnicity, Insurgency, and
+Civil War.” *American Political Science Review* 97 (1): 75–90.
 
 Ferguson, Thomas, and Robert Johnson. 2010. “When Wolves Cry’Wolf’:
 Systemic Financial Crisis and the Myth of the Danaid Jar.” *Institute
@@ -1903,6 +1911,15 @@ Livermore, Michael a, and Richard L Revesz. 2012. “Regulatory Review,
 Capture, and Agency Inaction.” *NEW YORK UNIVERSITY SCHOOL OF LAW* 101
 (1337): 1337–98.
 
+Lorenc, T., M. Petticrew, V. Welch, and P. Tugwell. 2012. “What types of
+interventions generate inequalities? Evidence from systematic reviews.”
+*Journal of Epidemiology & Community Health*, 190–93.
+doi:[10.1136/jech-2012-201257](http://dx.doi.org/10.1136/jech-2012-201257).
+
+Marmot, Smith Stansfeld Patel North Head White Brunner Feeney, and
+Anonymous. 1991. “Health inequalities among British civil servants: the
+Whitehall II study.” *The Lancet* 337 (8754): 1387.
+
 Marques, Alexandra, João Rodrigues, Manfred Lenzen, and Tiago Domingos.
 2012. “Income-based environmental responsibility.” *Ecological
 Economics* 84 (December). Elsevier B.V.: 57–65.
@@ -1955,6 +1972,16 @@ Courchamp. 2011. “Cat dilemma: Too protected to escape trophy hunting?”
 *PLoS ONE* 6 (7): 1–6.
 doi:[10.1371/journal.pone.0022424](http://dx.doi.org/10.1371/journal.pone.0022424).
 
+Pappas, Gregory, Susan Queen, Wilbur Hadden, and Gail Fisher. 1993. “The
+increasing disparity in mortality between socioeconomic groups in the
+United States, 1960 and 1986.” *The New England Journal of Medicine* 329
+(2): 103–9.
+
+Pickett, K E, and M Pearl. 2001. “Multilevel analyses of neighbourhood
+socioeconomic context and health outcomes: a critical review.” *Journal
+of Epidemiology and Community Health* 55 (2): 111–22.
+doi:[10.1136/jech.55.2.111](http://dx.doi.org/10.1136/jech.55.2.111).
+
 Pickett, Kate E, and Richard G Wilkinson. 2015. “Income inequality and
 health: A causal review.” *Social Science & Medicine* 128: 316–26.
 
@@ -1990,6 +2017,11 @@ doi:[10.1016/j.gloenvcha.2008.10.005](http://dx.doi.org/10.1016/j.gloenvcha.2008
 Shapiro, Sidney A. 2012. “The Complexity of Regulatory Capture:
 Diagnosis, Causality, and Remediation.” *Roger Willliams University Law
 Review* 17: 221–57.
+
+Stuckler, David, Sanjay Basu, and Martin McKee. 2010. “Drivers of
+inequality in millennium development goal progress: A statistical
+analysis.” *PLoS Medicine* 7 (3): 1–13.
+doi:[10.1371/journal.pmed.1000241](http://dx.doi.org/10.1371/journal.pmed.1000241).
 
 Tallis, Heather, and Jane Lubchenco. 2014. “A call for inclusive
 conservation.” *Nature* 515: 27–28.
