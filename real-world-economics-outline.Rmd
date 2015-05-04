@@ -1,7 +1,7 @@
 ---
 title: "Real-world-economics-outline"
 category: real-world-economics
-date: "Thursday, April 30, 2015"
+date: "Friday, May 01, 2015"
 output:
   html_document:
     number_sections: yes
@@ -253,6 +253,11 @@ Economic inequality has steadily risen to the top of politicial agenda fuelled b
 
 * Just as global outcomes are highly influenced by global inequality, research is increasingly demonstrating how economic, social and environmental outcomes within nations are influenced by how wealth is distributed in society. For example, sustainability science research has focused on the need for more tightly regulating wealth in Africa to bring the country out of poverty [@Kates2007]. **Median voter theorem** However, a study from 2014 [@Gilens2014] raises the question about the influence of concentration of wealth on democracy and potential sustainability transitions also in Western democracies. Thus, Gilens [@Gilens2014] showed that "economic elites and organized groups representing business interests have substantial independent impacts on US government policy while average citizens have little or no impact", the latter observation contrary to the prediction of the median voter theorem. *The degree to which these findings can be transferred to most developed nations or in some way can be explained by macroeconomic indicators such as the concentration of wealth will have important implications for sustainability science in particular with regard to the role of democracy in models of how to achieve transitions to for global sustainability*.
 
+    * *Notes to integrate*
+    
+        * *Contrary view of large concentration of weatlh* Contrary view from Chicago School - the economic elite wants democracy and would strike a deal if they had the chance, because dictators tries to wipe out the economic elite Capital - in the Twenty-First Century - In the Rest of the World - Michael Albertus - University of Chicago.
+
+
 * **Regulatory capture** In public administration, "regulatory capture" describes the situation where regulatory institutions act in favor of the entities they are supposed to regulate instead of the public interest they have been instituted to enact [@Zinn2002, @Livermore2012]. Although the origins of capture-like regulatory behavior can be hard to identify [@Shapiro2012], regulated entities often have more financial resources available than the regulator and the job security of the regulator might in the end depend on the economic activity of the regulated. This economic inequality may present some moral challenges for sound regulatory decision-making [@Ferguson2010]. Cases where capture has been proposed to influence decision making on enviromental sustainability inlude the implementations of federal regulations such as the Endangered Species Act [@Botello-Samson2010a] and Surface Mining Act [@Botello-Samson2010] in the United States and off-shore drilling in Israel [@Portman2014] and the US [in Alaska and the Mexican Gulf @Unger2008; @Shapiro2012]. Further the regulation of Genetically Modified Organisms in the United States [@Hiatt2010; @Hosmer2013] is often contrasted with the public scepticism reflected in regulatory hesitance of GMO's and biotecnology in the EU [@Ostrovsky2007], which may partially be related to a great risk of capture in the US. A recent cross-national study found that "regulatory regimes have similar developmental patterns over time, although the time spent at each stage in the process can vary significantly according to unique domestic factor" [@Newman2014]. *Implications for sustainability / socio-ecological models?*
 
 * **Media control** The degree to which sustainability transitions have public support may depend on the degree to which the public is informed about the grand challenges of sustainability. An interesting question for sustainability science in the context of national inequality can look into the influence of the economic concentration of multimedia ownership structures and the degree to which communities locally and nationally are aware about specific and general sustainability grand challenges. (**PERFORM LITERATURE SEARCH**) The results of this line of research will in turn influence the models that sustainability science will propose for viable sustainable transitions.
@@ -277,7 +282,7 @@ anthropogenic contributions to global warming and resultant action".
     * *Some short-term improvements combined with persistent long-term challenges* [@Boykoff2009] "there is empirical evidence to suggest that there have been short-term improvements in media representations of environmental issues, such as more accurate coverage of anthropogenic climate change. However, over the long-term scale, many institutional challenges persist for enhanced media reporting on the environment."
     
 
-* **Concentration**
+* **Concentration and media**
 
     * Germano shows through mathematical modelling that ownership concentration influences the tendency of media to underreport or censor issues that may influence there advertisers negatively. "Given that over half the revenues of global newspaper publishing come from advertising (80% in the US and 57% in OECD countries, OECD, 2010), we study how media firms internalize the effect of their own coverage on advertisers' sales and hence on their own advertising revenues. We show, within a framework of non-localized, Hotelling-type competition among arbitrary numbers of media firms and outlets, that (i) ***topics sensitive to advertisers can be underreported by all outlets in the market, (ii) underreporting tends to increase with the concentration of ownership, and (iii) adding outlets, while keeping the number of owners fixed, can further increase the bias**. We argue that self-censorship can potentially cover a wide range of topics and generate empirically large externalities" [@Germano2013]
 
@@ -289,8 +294,6 @@ anthropogenic contributions to global warming and resultant action".
     
     * [@Nash2006] in a review of pacific media coverage on environmental sustainability in relation to ownership structure fould little effect. Instead environment reporting had a "motherhood" status, which also however ruled out making any assumptions about the quality of reporting.
 
-    
-
     * Swedish case studies: "corporate voices make substantial use of environmental and ecological arguments in their strategic communication, but they provide little useful information about the company's impact and do not usually foster forms of dialogic stakeholder engagement" [@Lischinsky2014]. [@Tjernstrom2007] investigated a case study of political intention to decrease ownership of TV media with the opposite outcome for Swedish TV4
 
     * Fortune 100 companies need to manage the information sources that there employees use to get information about their sustainability. Note: Negative implications of employer control of employee knowledge, framed as a management issue. [@Craig2013]
@@ -299,22 +302,27 @@ anthropogenic contributions to global warming and resultant action".
     
     * *Number of media vs. number of source media* [@Winseck2008] The State of Media Ownership and Media Markets: Competition or Concentration and Why Should We Care? "This article presents a global overview of the state of communications media ownership and markets. The primary issue at stake is whether or not markets and ownership are becoming more or less concentrated. After reviewing contrasting views on this issue, I suggest that the question turns on whether or not we consider 'numerical diversity' (the number of channels available in any given area) versus 'source diversity' (a measure of the number of media owners in any given area). Drawing on recent data I suggest that while there is undoubtably greater 'numerical diversity', we are seeing - within countries, regionally and globally - greater concentration at the level of 'source diversity'. While new media, especially the Internet, open up unprecedented opportunities for people to access and distribute information, the emergence of a powerful nexus between both 'old' and 'new' media means that the character of media ownership and markets still matters greatly. This nexus of ownership and market power spans different segments of the media and is qualitatively different from previous times. These factors have an important influence on the evolution of media technologies and markets, the work of media professionals and the character of information and media content"
 
+    * *Research agenda:*
+        * Media ownership structures - is disinformation and public awareness about sustainability issues smaller in nations with higher concentration of wealth in media (or is it ownership structure?) 
+            * Australia - media owned by coal ownership
+            * Employment in PR industry versus journalism
+            * Role of large media corportations in demochratic sustainable transitions
+            * Communication of information about non-empowering information/news
 
 * **General importance for sustainability science** Such questions are of clear interested to sustainabliity science and research on global sustainablity. For example, what are the implications for the likelihood of sustainability transitions? If decision makers make choice in the interest of their financiers instead of in the interest of their electorate, may this either increase or decrease the likelihood and speed of sustainablity transitions wanted by the electorate? Relevant cross-country questions for sustainability science ask whether vested interests have a larger influence on the trajectory of publicly supported pathways for sustainability transitions in more unequal nations or whether these phenomena are rare unique cases or nearly universal. These recent research advances offer important specific questions for sustainability science to integrate with and more generally identifies economics research on the concentration wealth and the research on political economy as priorities for integration. *The worst case scenario for sustainability science is if inferred conclusions and proposed models are naive to the importance of these areas of economics in law, public administration, political science and communication.*
 
 
 
 
-
-
-
-
-* **Implications for society, well-being, health and environment** The final line of research highlighted here relating to national inequality relates to the social and environmental impacts of differences in equality. Highlight here recent findings on whether more equal societies have better public health, are more happy, and better environmental protection. This relates back to the mechanisms of concentration of wealth, one person one vote, regulatory capture and media ownership structures.
-
-* Health impacts of inequality from national to local level
+#### Health impacts of inequality from national to local level
+    
     * **NATIONAL**
     
-    * **Regulatory capture and health** - case - the tobacco industry in middle and low income countries [@Gilmore2015]
+    * **Internal conflict - poverty and income inequality**
+        
+        * Poverty, i.e. global inequality is a better predictor of internal conflict and insurgency than domestic inequality. [@Fearon2003] "after controlling for per capita income, more ethnically or religiously diverse countries have been no more likely to experience significant civil violence in this period. We argue for understanding civil war in this period in terms of insurgency or rural guerrilla warfare, a particular form of military practice that can be harnessed to diverse political agendas. The factors that explain which countries have been at risk for civil war are not their ethnic or religious characteristics but rather the conditions that favor insurgency. These include poverty-which marks financially and bureaucratically weak states and also favors rebel recruitment-political instability, rough terrain, and large populations."
+
+* **Regulatory capture and health** - case - the tobacco industry in middle and low income countries [@Gilmore2015]
     
     * *Influence of regulatory capture in trade agreements and implications for health inequality* If states do not find ways to increase their capacities then PTAs are likely to become much greater drivers of health inequities [@Walls2015].
     
@@ -348,60 +356,52 @@ anthropogenic contributions to global warming and resultant action".
         * 6. Challenges to conducting this research include the fact that inequality changes slowly over time so that longitudinal effects are hard to estimate and the fact that nonlinear effects and effect modifiers appear to play a part.
         * 7. Although the evidence remains somewhat mixed and more research is needed, there are intriguing indications that reducing social inequality may not only help those who are most exposed to health-damaging pollutants but may also improve environmental conditions for all.
 
-    
-    
-
-
-* *Research agenda:*
-    * Media ownership structures - is disinformation and public awareness about sustainability issues smaller in nations with higher concentration of wealth in media (or is it ownership structure?) 
-        * Australia - media owned by coal ownership
-        * Employment in PR industry versus journalism
-        * Role of large media corportations in demochratic sustainable transitions
-        * Communication of information about non-empowering information/news
-        
-    * Societal health and happinness - government investments smaller public health investments?
-    * Research question - to what degree are sustainability dynamics in nations with high concentration of wealth different nations with less concentration of wealth?
-        
-    * "Rising wealth concentration contributed to the crisis because the increasing asset demand from the rich played a key role in the rise of the structured credit market and enabled poor and middle-income households to accumulate increasing amounts of debt. To tame the inherent instability of the current mode of capitalism it is necessary to reduce inequality."  - Sabalini 2014/2015
-
-    * Also cite contrary view from Chicago School - the economic elite wants democracy and would strike a deal if they had the chance, because dictators tries to wipe out the economic elite Capital - in the Twenty-First Century - In the Rest of the World - Michael Albertus - University of Chicago.
-
-
-        
-
-* **Internal conflict - poverty and income inequality**
-    * Poverty, i.e. global inequality is a better predictor of internal conflict and insurgency than domestic inequality. [@Fearon2003] "after controlling for per capita income, more ethnically or religiously diverse countries have been no more likely to experience significant civil violence in this period. We argue for understanding civil war in this period in terms of insurgency or rural guerrilla warfare, a particular form of military practice that can be harnessed to diverse political agendas. The factors that explain which countries have been at risk for civil war are not their ethnic or religious characteristics but rather the conditions that favor insurgency. These include poverty-which marks financially and bureaucratically weak states and also favors rebel recruitment-political instability, rough terrain, and large populations."
-
-
-
-#### Local dynamics and impacts of inequality
-    
 * Local hotspots of economic inequality is correlated with loss of biodiversity [@Mikkelson2007; @Holland2009] and poverty hotspots exhibit poorer environmental quality and hence opportunities for improving public health [@Cushing2015]
 
 * Economic inequality leads to mental stresses and loss of social capital whihc results in largely unsustainable economic growth based on short-sighted compensatory consumer behavior [@Bartolini2014].
 
-* Income inequality and health - [@Pickett2015]
+* **Epidemological evidence for income inequality and public health** - [@Pickett2015]
 
     * There is a very large literature examining income inequality in relation to health. Early reviews came to different interpretations of the evidence, though a large majority of studies reported that health tended to be worse in more unequal societies. More recent studies, not included in those reviews, provide substantial new evidence.
+    
     * Key points
+    
     * Evidence that income inequality is associated with worse health is reviewed.
+    
     * It meets established epidemiological and other scientific criteria for causality.
+    
     * The causal processes may extend to violence and other problems with social gradients.
+    
     * Reducing income inequality will improve population health and wellbeing.
 
-    * *References*
-        * The Haves, the Have-Nots, and the Health of Everyone: The Relationship Between Social Inequality and Environmental Quality  Annual Review of Public Health, 2014
-            * SUMMARY POINTS
-            * 1. Evidence supporting the equality/sustainability hypothesis suggests that social inequality is bad for the environment, which may in turn explain why societies with more inequality appear to be less healthy.
-            * 2. Social inequality may degrade the environment through asymmetries in political power that affect who experiences the benefits and harms of pollution.
-            * 3. Social inequality may also worsen environmental quality by increasing the environmental intensity of a society's consumption or decreasing social cohesion and the willingness to cooperate to protect common resources.
-            * 4. Evidence of a negative association between social inequality and environmental quality appears strongest for localized air pollutants and markers of access to safe water and sanitation, and weaker for more dispersed pollutants, such as CO2, and other measures of water quality.
-            * 5. The evidence linking inequality with worse environmental quality is more consistent in within-country studies from the United States than in between-country studies, perhaps because the former benefit from a greater consistency in data and the fact that the larger political and development contexts are held fixed.
+* **Income inequality and mental health**
 
+    * *The evolution of mental health in Spain during the economic crisis.* [@Bartoli2014]
+    
+    * *Income inequality and mental health--empirical evidence from Australia.* [@Bechtel2012]
+        
+        * *We find that mental health is only adversely affected by the presence of relative deprivation to a very small degree. In addition we do not find support for the Income Inequality Hypothesis*
+        
+    * Poverty, inequality and a political economy of mental health [@Burns2015]
+            
+            * In particular, neoliberal (market-oriented) political doctrines lead to both increased income inequality and reduced social cohesion. In conclusion, understanding the relationships between politics, poverty, inequality and mental health outcomes requires us to develop a robust, evidence-based ‘political economy of mental health.’
+        
+    * "Social determinants of mental health" [@WorldHealthOrganization2014]
+        
+            * Mental health and many common mental disorders are shaped to a great extent by the social, economic, and physical enviro nments in which people live.
+            
+            * Social inequalities are associated with increased risk of many common mental disorders.
+            
+            * scientific consensus is considerable that giving every child the best possible start will generate the greatest societal and mental health benefits.
+            
+            * Action needs to be universal: across the whole of society, and proportionate to need in order to level the social gradient in health outcomes.
+            
+    * **Stress and Health: Major Findings and Policy Implications** [@Thoits2010] Third, minority group members are additionally harmed by discrimination stress. Fourth, stressors proliferate over the life course and across generations, widening health gaps between advantaged and disadvantaged group members. Fifth, the impacts of stressors on health and well-being are reduced when persons have high levels of mastery, self-esteem, and/or social support. With respect to policy, to help individuals cope with adversity, tried and true coping and support interventions should be more widely disseminated and employed. To address health inequalities, the structural conditions that put people at risk of stressors should be a focus of programs and policies at macro and meso levels of intervention. Programs and policies also should target children who are at lifetime risk of ill health and distress due to exposure to poverty and stressful family circumstances.
+    
+    * **Mention ongoing research on the different effects of relative poverty (national inequality) vs absolute poverty (global inequality)** Evidence is reported for both cases, but not all studies find a result of relative inequality (threshold function?).
+    
+    * **Also still research on order of causality**
 
-        * Cost-effectivness of conservation actions (e.g. Jonathan Hoekstra, PNAS piece, 2012)
-  
-        * A review of financial instruments to pay for predator conservation and encourage human-carnivore coexistence
 
     * **Notes to integrate**
     
@@ -416,7 +416,8 @@ anthropogenic contributions to global warming and resultant action".
             * Thorstein Veblen
         
             * Veblen goods
-
+    
+    
 
 
 <br><br>
@@ -459,14 +460,6 @@ individual agens | remittances | |illegal migrants & "evaders of the state"|
 
 ### Finance in politics and key financial players
 
-<br><br>
-
-#### Role of finance in preventing democracy and implications sustainable transitions - is only the case in more unequal nations?
-    
-*A study from 2014 have documented how the role of campaign financing in US politics may lead to in-validation of long held theories of political science, such as the median voter theorem [@Gilens2014]. Similar ongoing studies are documenting how the probability of getting elected is correlated with the amount of campaing funds raised [**Cite Tom Ferguson research**]. The regulated earns more than the regulator and this financial inequality may present some moral challenges for sound decision-making in regulators [@Ferguson2010].
-    
-*Such questions are of clear interested to sustainabliity science and research on global sustainablity. For example, what are the implications for the likelihood of sustainability transitions? If decision makers make choice in the interest of their financiers instead of in the interest of their electorate, may this either increase or decrease the likelihood and speed of sustainablity transitions wanted by the electorate?
-    
 <br><br>
 
 #### Impact of ownership structures and financial corporations on global sustainability (key players)
@@ -518,6 +511,11 @@ individual agens | remittances | |illegal migrants & "evaders of the state"|
         * Somalia - cautionary tale of socio-ecological drivers of piracy in a economically and democratically collapsed state
       
         * Greece
+        
+            * "Rising wealth concentration contributed to the crisis because the increasing asset demand from the rich played a key role in the rise of the structured credit market and enabled poor and middle-income households to accumulate increasing amounts of debt. To tame the inherent instability of the current mode of capitalism it is necessary to reduce inequality."  - Sabalini 2014/2015
+
+
+
 
 
 
@@ -530,11 +528,54 @@ individual agens | remittances | |illegal migrants & "evaders of the state"|
 
 #### Social and enviromental impact of financial transactions
         
+* **Institutionalized**
+
 * With increasing complexity of financial markets, impacts of capital flows are in a manner similar to impacts of production and consumption in globalized supply chains becoming harder to track. Are international financial transactions playing important roles in determining social and environmental outcomes in regions where they flow from, through and end-up. Are these outcomes positive or negative for global sustainablity?
+
+* **Foreign economic impact of three types of financial transactions** 1) Aid, 2) Direct investment, 3) Remittances - From 1970 to 2011 [@Anwar2015] suggests that aid has the least detectable effect on per capita income in developing countires and may have a negative effect (depending on the efficiency of domestic government spending), while foreign direct investment and remittances tend to have a positive effect. *Research question for sustainability science* - What is the socio-enviornmental effect of these three types of financial transactions.
+
+
+* **Uninstitutionalized**
+
+* **Remittances: Transnational money transfers between migrants** "The universal phenomenon of people moving across borders contributes to the growing complexity of the globalized world. The universal phenomenon of people moving across borders contributes to the growing complexity of the globalized world" [@Orozco2013g].
+
+    * **Size of remittance flow estimates**
     
+        * "This model estimates that $10 to $35billion was transferred through hawala per annum over those 20 years. Another method for gauging the amount of money flowing through hawala networks is to look at the value of goods misinvoiced in international exports. Edsel L. Beja Jr. [14] examines available data that reveals large trade misinvoicing between China and its trade partners. The analysis finds a net trade misinvoicing of US$ 287.6 billion between 2000 and 2005, while - **the full magnitude of unrecorded trade is estimated at US$1.4 trillion. Other estimates concerning Somali hawala place the figure at between $750 million and $1 billion US annually [11], accounting for 11 to 18% of GDP.**" [@Li2012]
+        
+        * "5% of “hot money” flowing through underground banks, equal to about USD$2 billion" [@Li2012]
+
+
+
+
+    * **Core activity of migrants** "There are five key ways transnational engagement manifests itself in migrants’ day-to-day activity. I call these the 5 Ts of transna- tional engagement: transportation, tourism, telecommunications, transfer of money and capital (including remittances, investments, and community donations), and nostalgic trade. These activities enable migrants to stay connected with their homelands" [@Orozco2013g]. *Research question for sustainabilty science: What are the socio-environmental implications?*
+
+    * **Research questions**
+    
+        * Does migrants money transfers stabilize or destabilize the global, outgoing and recipient economies? [@Li2012]
+        
+            * "the US Federal Reserve will continue to follow a policy of quantitative easing, and some of these excess dollars will flow into China and other emerging markets through alternative remittance channels. Excess liquidity may become “hot money” that disrupts the capital market and intensifies macroeconomic instability"
+            
+            * *Economic instability pressure in China from remitance inflow* "The massive inflows of crossborder capital have had many detrimental effects in China, imposing inflation pressures, asset price bubbles, and increased pressures on monetary policy operations and foreign exchange reserve managementThe massive inflows of crossborder capital have had many detrimental effects in China, imposing inflation pressures, asset price bubbles, and increased pressures on monetary policy operations and foreign exchange reserve management" [@Li2012]. **Specifically large inflow after 2008 and 2009 as a result of quantitative financial easing in USA, Europe and Japana in response to the financial crises. From -30000 m USD in 2003 to +60000 m USD in 2009. A good case examples of global teleconnectedness not only of legal and formal financial flows, but also informal flows.
+
+    
+    * *Migrant Remittance Flows : Findings From a Global Survey of Central Banks* [@Irving2010a;@Irving2010b;@Irving2010c]
+        
+        * **challenges of monitoring**
+        
+            * "Migrant remittance inflows are better monitored than migrant remittance outflows and  recording of inflows has occurred for a longer time.1"" [@Irving2010b]
+            
+            * "banks in European Union (EU) member countries ( 16 of 35 source country respondents) are not obliged to report cross border transactions below €12,500—a threshold far higher than the amounts typically sent by migrants." [@Irving2010b]
+            
+            
+ 
+
+
 <br><br>
 
 #### Social and enviornmental impact of illicit financial transactions
+
+* **Size of the informal/black/illicit economy**
 
 * While captial flows of the financial market may prove an important factor influencing the likelihood of sustainable transitions, much of international trade happens outside the market. For example, the international market for wildlife medicine largely occur through illicit financial transactions. Such markets and transactions may in some cases have more immediately obvious impact on socio-environemntal sustainablity. For example, the negative impact of such trading on threatened species, sometimes appearing on the brnk of extinction, is well-documented through declines in e.g. elephants and rhinos in Africa. Tragically, from trophy hunting it has been shown that increasing rarity of hunted species may only increase the exclusiveness, price and demand for their derived products - potentially leading to a self-reinforcing feedback loop toward further decline [@Palazy2011; @Palazy2012]. In other cases, the effect of illicit international capital flows are much less well documented. **give examples** Thus, whether licit or illicit, untangling the teleconnected socio-environmental effects of international capital flows should be of priority to sustainability science.
     

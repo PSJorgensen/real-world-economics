@@ -23,7 +23,7 @@
         locally
         -   Consequences of global inequality dynamics
         -   National dynamics and impacts of inequality
-        -   Local dynamics and impacts of inequality
+        -   Health impacts of inequality from national to local level
 -   AREAS THAT NEED ATTENTION
     -   A framework for structuring research questions on the global
         dynamics of the formal and informal economy
@@ -480,6 +480,15 @@ mental well-being of the individual.
     in particular with regard to the role of democracy in models of how
     to achieve transitions to for global sustainability*.
 
+    -   *Notes to integrate*
+
+        -   *Contrary view of large concentration of weatlh* Contrary
+            view from Chicago School - the economic elite wants
+            democracy and would strike a deal if they had the chance,
+            because dictators tries to wipe out the economic elite
+            Capital - in the Twenty-First Century - In the Rest of the
+            World - Michael Albertus - University of Chicago.
+
 -   **Regulatory capture** In public administration, "regulatory
     capture" describes the situation where regulatory institutions act
     in favor of the entities they are supposed to regulate instead of
@@ -601,7 +610,7 @@ mental well-being of the individual.
         long-term scale, many institutional challenges persist for
         enhanced media reporting on the environment."
 
--   **Concentration**
+-   **Concentration and media**
 
     -   Germano shows through mathematical modelling that ownership
         concentration influences the tendency of media to underreport or
@@ -705,6 +714,18 @@ mental well-being of the individual.
         the work of media professionals and the character of information
         and media content"
 
+    -   *Research agenda:*
+        -   Media ownership structures - is disinformation and public
+            awareness about sustainability issues smaller in nations
+            with higher concentration of wealth in media (or is it
+            ownership structure?)
+            -   Australia - media owned by coal ownership
+            -   Employment in PR industry versus journalism
+            -   Role of large media corportations in demochratic
+                sustainable transitions
+            -   Communication of information about non-empowering
+                information/news
+
 -   **General importance for sustainability science** Such questions are
     of clear interested to sustainabliity science and research on global
     sustainablity. For example, what are the implications for the
@@ -725,20 +746,16 @@ mental well-being of the individual.
     models are naive to the importance of these areas of economics in
     law, public administration, political science and communication.*
 
--   **Implications for society, well-being, health and environment** The
-    final line of research highlighted here relating to national
-    inequality relates to the social and environmental impacts of
-    differences in equality. Highlight here recent findings on whether
-    more equal societies have better public health, are more happy, and
-    better environmental protection. This relates back to the mechanisms
-    of concentration of wealth, one person one vote, regulatory capture
-    and media ownership structures.
+#### Health impacts of inequality from national to local level
 
--   Health impacts of inequality from national to local level
-    -   **NATIONAL**
+    * **NATIONAL**
 
-    -   **Regulatory capture and health** - case - the tobacco industry
-        in middle and low income countries (Gilmore et al. 2015)
+    * **Internal conflict - poverty and income inequality**
+        
+        * Poverty, i.e. global inequality is a better predictor of internal conflict and insurgency than domestic inequality. [@Fearon2003] "after controlling for per capita income, more ethnically or religiously diverse countries have been no more likely to experience significant civil violence in this period. We argue for understanding civil war in this period in terms of insurgency or rural guerrilla warfare, a particular form of military practice that can be harnessed to diverse political agendas. The factors that explain which countries have been at risk for civil war are not their ethnic or religious characteristics but rather the conditions that favor insurgency. These include poverty-which marks financially and bureaucratically weak states and also favors rebel recruitment-political instability, rough terrain, and large populations."
+
+-   **Regulatory capture and health** - case - the tobacco industry in
+    middle and low income countries (Gilmore et al. 2015)
 
     -   *Influence of regulatory capture in trade agreements and
         implications for health inequality* If states do not find ways
@@ -854,56 +871,6 @@ mental well-being of the individual.
                 who are most exposed to health-damaging pollutants but
                 may also improve environmental conditions for all.
 
--   *Research agenda:*
-    -   Media ownership structures - is disinformation and public
-        awareness about sustainability issues smaller in nations with
-        higher concentration of wealth in media (or is it ownership
-        structure?)
-        -   Australia - media owned by coal ownership
-        -   Employment in PR industry versus journalism
-        -   Role of large media corportations in demochratic sustainable
-            transitions
-        -   Communication of information about non-empowering
-            information/news
-    -   Societal health and happinness - government investments smaller
-        public health investments?
-    -   Research question - to what degree are sustainability dynamics
-        in nations with high concentration of wealth different nations
-        with less concentration of wealth?
-
-    -   "Rising wealth concentration contributed to the crisis because
-        the increasing asset demand from the rich played a key role in
-        the rise of the structured credit market and enabled poor and
-        middle-income households to accumulate increasing amounts of
-        debt. To tame the inherent instability of the current mode of
-        capitalism it is necessary to reduce inequality." - Sabalini
-        2014/2015
-
-    -   Also cite contrary view from Chicago School - the economic elite
-        wants democracy and would strike a deal if they had the chance,
-        because dictators tries to wipe out the economic elite Capital -
-        in the Twenty-First Century - In the Rest of the World - Michael
-        Albertus - University of Chicago.
-
--   **Internal conflict - poverty and income inequality**
-    -   Poverty, i.e. global inequality is a better predictor of
-        internal conflict and insurgency than domestic inequality.
-        (Fearon and Laitin 2003) "after controlling for per capita
-        income, more ethnically or religiously diverse countries have
-        been no more likely to experience significant civil violence in
-        this period. We argue for understanding civil war in this period
-        in terms of insurgency or rural guerrilla warfare, a particular
-        form of military practice that can be harnessed to diverse
-        political agendas. The factors that explain which countries have
-        been at risk for civil war are not their ethnic or religious
-        characteristics but rather the conditions that favor insurgency.
-        These include poverty-which marks financially and
-        bureaucratically weak states and also favors rebel
-        recruitment-political instability, rough terrain, and large
-        populations."
-
-#### Local dynamics and impacts of inequality
-
 -   Local hotspots of economic inequality is correlated with loss of
     biodiversity (Mikkelson, Gonzalez, and Peterson 2007; Holland,
     Peterson, and Gonzalez 2009) and poverty hotspots exhibit poorer
@@ -914,7 +881,8 @@ mental well-being of the individual.
     capital whihc results in largely unsustainable economic growth based
     on short-sighted compensatory consumer behavior (Bartolini 2014).
 
--   Income inequality and health - (Pickett and Wilkinson 2015)
+-   **Epidemological evidence for income inequality and public
+    health** - (Pickett and Wilkinson 2015)
 
     -   There is a very large literature examining income inequality in
         relation to health. Early reviews came to different
@@ -922,53 +890,73 @@ mental well-being of the individual.
         studies reported that health tended to be worse in more unequal
         societies. More recent studies, not included in those reviews,
         provide substantial new evidence.
+
     -   Key points
+
     -   Evidence that income inequality is associated with worse health
         is reviewed.
+
     -   It meets established epidemiological and other scientific
         criteria for causality.
+
     -   The causal processes may extend to violence and other problems
         with social gradients.
+
     -   Reducing income inequality will improve population health and
         wellbeing.
 
-    -   *References*
-        -   The Haves, the Have-Nots, and the Health of Everyone: The
-            Relationship Between Social Inequality and Environmental
-            Quality Annual Review of Public Health, 2014
-            -   SUMMARY POINTS
-            -   1.  Evidence supporting the equality/sustainability
-                    hypothesis suggests that social inequality is bad
-                    for the environment, which may in turn explain why
-                    societies with more inequality appear to be less
-                    healthy.
-            -   1.  Social inequality may degrade the environment
-                    through asymmetries in political power that affect
-                    who experiences the benefits and harms of pollution.
-            -   1.  Social inequality may also worsen environmental
-                    quality by increasing the environmental intensity of
-                    a society's consumption or decreasing social
-                    cohesion and the willingness to cooperate to protect
-                    common resources.
-            -   1.  Evidence of a negative association between social
-                    inequality and environmental quality appears
-                    strongest for localized air pollutants and markers
-                    of access to safe water and sanitation, and weaker
-                    for more dispersed pollutants, such as CO2, and
-                    other measures of water quality.
-            -   1.  The evidence linking inequality with worse
-                    environmental quality is more consistent in
-                    within-country studies from the United States than
-                    in between-country studies, perhaps because the
-                    former benefit from a greater consistency in data
-                    and the fact that the larger political and
-                    development contexts are held fixed.
+-   **Income inequality and mental health**
 
-        -   Cost-effectivness of conservation actions (e.g. Jonathan
-            Hoekstra, PNAS piece, 2012)
+    -   *The evolution of mental health in Spain during the economic
+        crisis.* (Bartoll et al. 2014)
 
-        -   A review of financial instruments to pay for predator
-            conservation and encourage human-carnivore coexistence
+    -   *Income inequality and mental health--empirical evidence from
+        Australia.* (Bechtel, Lordan, and Rao)
+
+        -   *We find that mental health is only adversely affected by
+            the presence of relative deprivation to a very small degree.
+            In addition we do not find support for the Income Inequality
+            Hypothesis*
+    -   Poverty, inequality and a political economy of mental health
+        (Burns 2015)
+
+            * In particular, neoliberal (market-oriented) political doctrines lead to both increased income inequality and reduced social cohesion. In conclusion, understanding the relationships between politics, poverty, inequality and mental health outcomes requires us to develop a robust, evidence-based â€˜political economy of mental health.â€™
+
+    -   "Social determinants of mental health" (World Health
+        Organization and Calouste Gulbenkian Foundation 2014)
+
+            * Mental health and many common mental disorders are shaped to a great extent by the social, economic, and physical enviro nments in which people live.
+
+            * Social inequalities are associated with increased risk of many common mental disorders.
+
+            * scientific consensus is considerable that giving every child the best possible start will generate the greatest societal and mental health benefits.
+
+            * Action needs to be universal: across the whole of society, and proportionate to need in order to level the social gradient in health outcomes.
+
+    -   **Stress and Health: Major Findings and Policy Implications**
+        (Thoits 2010) Third, minority group members are additionally
+        harmed by discrimination stress. Fourth, stressors proliferate
+        over the life course and across generations, widening health
+        gaps between advantaged and disadvantaged group members. Fifth,
+        the impacts of stressors on health and well-being are reduced
+        when persons have high levels of mastery, self-esteem, and/or
+        social support. With respect to policy, to help individuals cope
+        with adversity, tried and true coping and support interventions
+        should be more widely disseminated and employed. To address
+        health inequalities, the structural conditions that put people
+        at risk of stressors should be a focus of programs and policies
+        at macro and meso levels of intervention. Programs and policies
+        also should target children who are at lifetime risk of ill
+        health and distress due to exposure to poverty and stressful
+        family circumstances.
+
+    -   **Mention ongoing research on the different effects of relative
+        poverty (national inequality) vs absolute poverty (global
+        inequality)** Evidence is reported for both cases, but not all
+        studies find a result of relative inequality (threshold
+        function?).
+
+    -   **Also still research on order of causality**
 
     -   **Notes to integrate**
 
@@ -1048,28 +1036,6 @@ various spatial scales.**
 <br><br>
 
 ### Finance in politics and key financial players
-
-<br><br>
-
-#### Role of finance in preventing democracy and implications sustainable transitions - is only the case in more unequal nations?
-
-\*A study from 2014 have documented how the role of campaign financing
-in US politics may lead to in-validation of long held theories of
-political science, such as the median voter theorem (Gilens and Page
-2014). Similar ongoing studies are documenting how the probability of
-getting elected is correlated with the amount of campaing funds raised
-[**Cite Tom Ferguson research**]. The regulated earns more than the
-regulator and this financial inequality may present some moral
-challenges for sound decision-making in regulators (Ferguson and Johnson
-2010).
-
-\*Such questions are of clear interested to sustainabliity science and
-research on global sustainablity. For example, what are the implications
-for the likelihood of sustainability transitions? If decision makers
-make choice in the interest of their financiers instead of in the
-interest of their electorate, may this either increase or decrease the
-likelihood and speed of sustainablity transitions wanted by the
-electorate?
 
 <br><br>
 
@@ -1175,6 +1141,15 @@ electorate?
 
         -   Greece
 
+            -   "Rising wealth concentration contributed to the crisis
+                because the increasing asset demand from the rich played
+                a key role in the rise of the structured credit market
+                and enabled poor and middle-income households to
+                accumulate increasing amounts of debt. To tame the
+                inherent instability of the current mode of capitalism
+                it is necessary to reduce inequality." - Sabalini
+                2014/2015
+
 <br><br>
 
 ### International financial transactions and flows
@@ -1182,6 +1157,8 @@ electorate?
 <br><br>
 
 #### Social and enviromental impact of financial transactions
+
+-   **Institutionalized**
 
 -   With increasing complexity of financial markets, impacts of capital
     flows are in a manner similar to impacts of production and
@@ -1191,9 +1168,101 @@ electorate?
     flow from, through and end-up. Are these outcomes positive or
     negative for global sustainablity?
 
+-   **Foreign economic impact of three types of financial transactions**
+    1) Aid, 2) Direct investment, 3) Remittances - From 1970 to 2011
+    (Anwar and Cooray 2015) suggests that aid has the least detectable
+    effect on per capita income in developing countires and may have a
+    negative effect (depending on the efficiency of domestic government
+    spending), while foreign direct investment and remittances tend to
+    have a positive effect. *Research question for sustainability
+    science* - What is the socio-enviornmental effect of these three
+    types of financial transactions.
+
+-   **Uninstitutionalized**
+
+-   **Remittances: Transnational money transfers between migrants** "The
+    universal phenomenon of people moving across borders contributes to
+    the growing complexity of the globalized world. The universal
+    phenomenon of people moving across borders contributes to the
+    growing complexity of the globalized world" (Orozco 2013).
+
+    -   **Size of remittance flow estimates**
+
+        -   "This model estimates that $10 to
+            35*b**i**l**l**i**o**n**w**a**s**t**r**a**n**s**f**e**r**r**e**d**t**h**r**o**u**g**h**h**a**w**a**l**a**p**e**r**a**n**n**u**m**o**v**e**r**t**h**o**s**e*20*y**e**a**r**s*.*A**n**o**t**h**e**r**m**e**t**h**o**d**f**o**r**g**a**u**g**i**n**g**t**h**e**a**m**o**u**n**t**o**f**m**o**n**e**y**f**l**o**w**i**n**g**t**h**r**o**u**g**h**h**a**w**a**l**a**n**e**t**w**o**r**k**s**i**s**t**o**l**o**o**k**a**t**t**h**e**v**a**l**u**e**o**f**g**o**o**d**s**m**i**s**i**n**v**o**i**c**e**d**i**n**i**n**t**e**r**n**a**t**i**o**n**a**l**e**x**p**o**r**t**s*.*E**d**s**e**l**L*.*B**e**j**a**J**r*.[14]*e**x**a**m**i**n**e**s**a**v**a**i**l**a**b**l**e**d**a**t**a**t**h**a**t**r**e**v**e**a**l**s**l**a**r**g**e**t**r**a**d**e**m**i**s**i**n**v**o**i**c**i**n**g**b**e**t**w**e**e**n**C**h**i**n**a**a**n**d**i**t**s**t**r**a**d**e**p**a**r**t**n**e**r**s*.*T**h**e**a**n**a**l**y**s**i**s**f**i**n**d**s**a**n**e**t**t**r**a**d**e**m**i**s**i**n**v**o**i**c**i**n**g**o**f**U**S*
+            287.6 billion between 2000 and 2005, while - **the full
+            magnitude of unrecorded trade is estimated at US$1.4
+            trillion. Other estimates concerning Somali hawala place the
+            figure at between $750 million and $1 billion US annually
+            [11], accounting for 11 to 18% of GDP.**" (Li, Liu, and Ge
+            2012)
+
+        -   "5% of â€œhot moneyâ€ flowing through underground banks,
+            equal to about USD$2 billion" (Li, Liu, and Ge 2012)
+
+    -   **Core activity of migrants** "There are five key ways
+        transnational engagement manifests itself in migrantsâ€™
+        day-to-day activity. I call these the 5 Ts of transna- tional
+        engagement: transportation, tourism, telecommunications,
+        transfer of money and capital (including remittances,
+        investments, and community donations), and nostalgic trade.
+        These activities enable migrants to stay connected with their
+        homelands" (Orozco 2013). *Research question for sustainabilty
+        science: What are the socio-environmental implications?*
+
+    -   **Research questions**
+
+        -   Does migrants money transfers stabilize or destabilize the
+            global, outgoing and recipient economies? (Li, Liu, and Ge
+            2012)
+
+            -   "the US Federal Reserve will continue to follow a policy
+                of quantitative easing, and some of these excess dollars
+                will flow into China and other emerging markets through
+                alternative remittance channels. Excess liquidity may
+                become â€œhot moneyâ€ that disrupts the capital market
+                and intensifies macroeconomic instability"
+
+            -   *Economic instability pressure in China from remitance
+                inflow* "The massive inflows of crossborder capital have
+                had many detrimental effects in China, imposing
+                inflation pressures, asset price bubbles, and increased
+                pressures on monetary policy operations and foreign
+                exchange reserve managementThe massive inflows of
+                crossborder capital have had many detrimental effects in
+                China, imposing inflation pressures, asset price
+                bubbles, and increased pressures on monetary policy
+                operations and foreign exchange reserve management" (Li,
+                Liu, and Ge 2012). \*\*Specifically large inflow after
+                2008 and 2009 as a result of quantitative financial
+                easing in USA, Europe and Japana in response to the
+                financial crises. From -30000 m USD in 2003 to +60000 m
+                USD in 2009. A good case examples of global
+                teleconnectedness not only of legal and formal financial
+                flows, but also informal flows.
+
+    -   *Migrant Remittance Flows : Findings From a Global Survey of
+        Central Banks* (Irving, Mohapatra, and Ratha 2010a; Irving,
+        Mohapatra, and Ratha 2010b; Irving, Mohapatra, and Ratha 2010c)
+
+        -   **challenges of monitoring**
+
+            -   "Migrant remittance inflows are better monitored than
+                migrant remittance outflows and recording of inflows has
+                occurred for a longer time.1"" (Irving, Mohapatra, and
+                Ratha 2010b)
+
+            -   "banks in European Union (EU) member countries ( 16 of
+                35 source country respondents) are not obliged to report
+                cross border transactions below â‚¬12,500â€”a threshold
+                far higher than the amounts typically sent by migrants."
+                (Irving, Mohapatra, and Ratha 2010b)
+
 <br><br>
 
 #### Social and enviornmental impact of illicit financial transactions
+
+-   **Size of the informal/black/illicit economy**
 
 -   While captial flows of the financial market may prove an important
     factor influencing the likelihood of sustainable transitions, much
@@ -1659,9 +1728,21 @@ Sheldenkar, Ruoling Chen, Charles D a Wolfe, and Christopher McKevitt.
 (4): 1186–91.
 doi:[10.1161/STROKEAHA.111.639732](http://dx.doi.org/10.1161/STROKEAHA.111.639732).
 
+Anwar, Sajid, and Arusha Cooray. 2015. “Financial flows and per capita
+income in developing countries.” *International Review of Economics and
+Finance* 35: 304–14.
+
 Bartolini, Stefano. 2014. “Building sustainability through greater
 happiness.”
 doi:[10.1177/1035304614559436](http://dx.doi.org/10.1177/1035304614559436).
+
+Bartoll, Xavier, Laia Palència, Davide Malmusi, Marc Suhrcke, and Carme
+Borrell. 2014. “The evolution of mental health in Spain during the
+economic crisis.” *European Journal of Public Health* 24 (3): 415–18.
+doi:[10.1093/eurpub/ckt208](http://dx.doi.org/10.1093/eurpub/ckt208).
+
+Bechtel, L, G Lordan, and DS Rao. “Income inequality and mental
+health–empirical evidence from Australia.”
 
 Bettencourt, Luís M A, and Jasleen Kaur. 2011. “Evolution and structure
 of sustainability science.” *Proceedings of the National Academy of
@@ -1734,6 +1815,10 @@ Ana D. Davidson, Trevor S. Fristoe, Marcus J. Hamilton, et al. 2012.
 Biology* 10 (6). Public Library of Science: e1001345.
 doi:[10.1371/journal.pbio.1001345](http://dx.doi.org/10.1371/journal.pbio.1001345).
 
+Burns, J. K. 2015. “Poverty, inequality and a political economy of
+mental health.” *Epidemiology and Psychiatric Sciences* 24 (02): 107–13.
+doi:[10.1017/S2045796015000086](http://dx.doi.org/10.1017/S2045796015000086).
+
 Burnside, William R, James H Brown, Oskar Burger, Marcus J Hamilton,
 Melanie Moses, and Luis M a Bettencourt. 2012. “Human macroecology:
 linking pattern and process in big-picture human ecology.” *Biological
@@ -1801,9 +1886,6 @@ Conceptual Framework — connecting nature and people.” *Current Opinion
 in Environmental Sustainability* 14 (June): 1–16.
 doi:[10.1016/j.cosust.2014.11.002](http://dx.doi.org/10.1016/j.cosust.2014.11.002).
 
-Fearon, James D, and David D Laitin. 2003. “Ethnicity, Insurgency, and
-Civil War.” *American Political Science Review* 97 (1): 75–90.
-
 Ferguson, Thomas, and Robert Johnson. 2010. “When Wolves Cry’Wolf’:
 Systemic Financial Crisis and the Myth of the Danaid Jar.” *Institute
 for New Economic Thinking …*, 1–36.
@@ -1863,6 +1945,16 @@ Hyden, Goran. 2007. “Governance and poverty reduction in Africa.”
 America* 104 (43): 16751–56.
 doi:[10.1073/pnas.0700696104](http://dx.doi.org/10.1073/pnas.0700696104).
 
+Irving, Jacqueline, Sanket Mohapatra, and Dilip Ratha. 2010a.
+“Introduction and Main Findings?” In *Migrant Remittance Flows :
+Findings from a Global Survey of Central Banks*, 1–4.
+
+———. 2010b. “Findings from the Survey Data.” In *Migrant Remittance
+Flows : Findings from a Global Survey of Central Banks*.
+
+———. 2010c. “Policy Implications.” In *Migrant Remittance Flows :
+Findings from a Global Survey of Central Banks*, 21–23.
+
 Kates, Robert W, and Partha Dasgupta. 2007. “African poverty: a grand
 challenge for sustainability science.” *Proceedings of the National
 Academy of Sciences of the United States of America* 104 (43): 16747–50.
@@ -1897,6 +1989,11 @@ Lenzen, Manfred, Daniel Moran, Keiichiro Kanemoto, and Arne Geschke.
 High Country and Sector Resolution.” *Economic Systems Research* 25 (1):
 20–49.
 doi:[10.1080/09535314.2013.769938](http://dx.doi.org/10.1080/09535314.2013.769938).
+
+Li, Jianjun, Yinglin Liu, and Shuang Ge. 2012. “China’s alternative
+remittance system: Channels and size of ‘hot money’ flows.” *Crime, Law
+and Social Change* 57 (3): 221–37.
+doi:[10.1007/s10611-011-9350-1](http://dx.doi.org/10.1007/s10611-011-9350-1).
 
 Lischinsky, Alon, and Annika Egan Sjölander. 2014. “Talking Green in the
 Public Sphere.” *Nordicom Review* 35: 125–39.
@@ -1954,6 +2051,9 @@ doi:[10.1111/j.1523-1739.2008.00922.x](http://dx.doi.org/10.1111/j.1523-1739.200
 ———. 2010. “Ecosystem services: From eye-opening metaphor to complexity
 blinder.” *Ecological Economics* 69 (6): 1219–27.
 doi:[10.1016/j.ecolecon.2009.11.009](http://dx.doi.org/10.1016/j.ecolecon.2009.11.009).
+
+Orozco, Manuel. 2013. “The 5 Ts of Transnationalism.” In *Migrant
+Remittances and Developoment in the Global Economy*, 175–202.
 
 Ostrovsky, Aaron A. 2007. “Up Against a Wall : Europe ’ s Options for
 Regulating Biotechnology through Regulatory Anarchy” 13 (1): 110–34.
@@ -2031,6 +2131,10 @@ Tallis, Heather, Peter Kareiva, Michelle Marvier, and Amy Chang. 2008.
 and economic development.” *Proceedings of the National Academy of
 Sciences* 105 (28): 9457–64.
 
+Thoits, Peggy a. 2010. “Stress and health: major findings and policy
+implications.” *Journal of Health and Social Behavior* 51 Suppl: S41–53.
+doi:[10.1177/0022146510383499](http://dx.doi.org/10.1177/0022146510383499).
+
 Tjernström, Sune. 2007. “Ownership Concentration in the TV Industry.”
 *Nordicom Review* 28 (1): 77–93.
 
@@ -2065,6 +2169,9 @@ doi:[10.1111/j.1751-9020.2007.00061.x](http://dx.doi.org/10.1111/j.1751-9020.200
 
 World Economic Forum. 2014. *Global Risks Report Eighth Edition*.
 <http://reports.weforum.org/global-risks-2013/>.
+
+World Health Organization, and Calouste Gulbenkian Foundation. 2014.
+*Social determinants of mental health*.
 
 Zinn, Matthew D. 2002. “Policing Environmental Regulatory Enforcement:
 Cooperation, Capture, and Citizen Suits.” *STANFORD ENVIRONMENTAL LAW
