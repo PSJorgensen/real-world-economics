@@ -1,20 +1,20 @@
 ---
 title: "Real-world-economics-outline"
 category: real-world-economics
-date: "Friday, May 01, 2015"
+date: "Tuesday, May 05, 2015"
 output:
-  html_document:
+  pdf_document:
+    latex_engine: xelatex
     number_sections: yes
-    theme: default
     toc: yes
     toc_depth: 3
   md_document:
     dev: png
     toc: yes
     toc_depth: 3
-  pdf_document:
-    latex_engine: xelatex
+  html_document:
     number_sections: yes
+    theme: default
     toc: yes
     toc_depth: 3
   word_document:
@@ -191,7 +191,7 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
 
 * Early assesssments of long-standing economic hypotheses such as the Environmental Kuznets Curve and the paradigm of relative and absolute decoupling have been compromised by not acccounting for resources used in foreign contributes in the production of commodities consumed domestically. Still challenged a need to interpolate large amounts of missing data, the model provides a significant advancement in order for sustainability scientists to assess the degree to which relative and absolute decoupling is being reach in the globalized economy Wiedmann 2012, whether an Environmental Kuznets Curce really does exist,  assess the domestic economic, environmental and health impact of pollution attributed to commodities that are being consumed in foreign countires [@Marques2012], and similar how global trade drives biodiversity threats in the developing countries [@Lenzen2012]. One of the latest applications of this methodological advance will be a dataset on the value added to national economies by trade to be released by the United Nations Conference on Trade and Development (http://unctad.org/). The dataset provides a new opportunity to assess and evaluate **...XXX**. These assessments have fundamental value for sustainability science as they answer basic questions about future paths for human development and the sustainability of current economic paradigms.
 
-    * *References*
+    * *References and notes to integrate*
         * [@Lambin2011] Globalized trade have increased pressure to convert forest to cropland. Some countries have managed to circumvent this pressure and increased forest area and agricultural production simulatneously.
         
         * Leontief, W.; Ford, D. Environmental repercussions and the economic structure: An input-output approach. Rev. Econ. Stat. 1970, 52 (3), 262???271
@@ -203,6 +203,12 @@ In 2015 all OECD countries will adopt mandated green accounting systems (**REF**
         * Local impacts of trade and financial markets: Economic change effects on land use change (", a recent doubling in commodity prices has created incentives for landowners to convert grassland to corn and soybean cropping") [Wright and Wimberley, PNAS 2013] and (Lybert et al. 2011 PNAS - booming markets for Moroccan argan benefits some rural househols but threatens endemic forests)
 
         * Trade and emissions [e.g. China's international trade and air pollution in the United States, Lin et al. 2014 PNAS] and Lenzen and Wiedmann studies. [i.e. consumption based accounting of official trade statistics]
+        
+        * Globalization of the economy - increasing teleconnection of environmental impact to local markets given trade (and transportation)
+        
+        * E.g. Berkes 2006 - Globalization, Roving bandits and Marine Resources [@Berkes2006] - emergence of sea urchin fisheries as local fisheries declining.
+            
+        * Expansion of live reef fish trading a resource mainly intended for high-end luxurious restaurants [@Scales2006].
 
 <br><br>  
 
@@ -384,17 +390,17 @@ anthropogenic contributions to global warming and resultant action".
         
     * Poverty, inequality and a political economy of mental health [@Burns2015]
             
-            * In particular, neoliberal (market-oriented) political doctrines lead to both increased income inequality and reduced social cohesion. In conclusion, understanding the relationships between politics, poverty, inequality and mental health outcomes requires us to develop a robust, evidence-based ‘political economy of mental health.’
+        * In particular, neoliberal (market-oriented) political doctrines lead to both increased income inequality and reduced social cohesion. In conclusion, understanding the relationships between politics, poverty, inequality and mental health outcomes requires us to develop a robust, evidence-based ‘political economy of mental health.’
         
     * "Social determinants of mental health" [@WorldHealthOrganization2014]
         
-            * Mental health and many common mental disorders are shaped to a great extent by the social, economic, and physical enviro nments in which people live.
+        * Mental health and many common mental disorders are shaped to a great extent by the social, economic, and physical environments in which people live.
             
-            * Social inequalities are associated with increased risk of many common mental disorders.
+        * Social inequalities are associated with increased risk of many common mental disorders.
             
-            * scientific consensus is considerable that giving every child the best possible start will generate the greatest societal and mental health benefits.
+        * scientific consensus is considerable that giving every child the best possible start will generate the greatest societal and mental health benefits.
             
-            * Action needs to be universal: across the whole of society, and proportionate to need in order to level the social gradient in health outcomes.
+        * Action needs to be universal: across the whole of society, and proportionate to need in order to level the social gradient in health outcomes.
             
     * **Stress and Health: Major Findings and Policy Implications** [@Thoits2010] Third, minority group members are additionally harmed by discrimination stress. Fourth, stressors proliferate over the life course and across generations, widening health gaps between advantaged and disadvantaged group members. Fifth, the impacts of stressors on health and well-being are reduced when persons have high levels of mastery, self-esteem, and/or social support. With respect to policy, to help individuals cope with adversity, tried and true coping and support interventions should be more widely disseminated and employed. To address health inequalities, the structural conditions that put people at risk of stressors should be a focus of programs and policies at macro and meso levels of intervention. Programs and policies also should target children who are at lifetime risk of ill health and distress due to exposure to poverty and stressful family circumstances.
     
@@ -476,6 +482,7 @@ individual agens | remittances | |illegal migrants & "evaders of the state"|
 * The great recession of 2008 and the prolonged recession in Europe have been two of the most influential events on western hemisphere policy in the 21st century. Both recessions were partially caused by the influence of increasingly complex financial system on commodity prices such as housing prices and even national savings (Greece) [find articles on investment in the national savings of Greece, Italy and Spain **REFS**]. The impact of the following economic downturn on important environmental policies such as energy investments can be seen e.g. in many nations decision to explore options for liquified shale oil and natural gas and lowered ambitions in national and supra-national plans of transitioning to renewable energy sources [**REF**].
 
 * Increasing investment in food commodities from index investors in 2007 may have exacerbaed the spikes in food prices in 2008 and 2011 and consequently had a role in the social unrest that these price rises helped unleash (**Christopher Gilbert GEDB seminar 150424 - Index investor activity increased before price spikes**).
+
         
 * The integration of financial market dynamics and complexity with sustainability science seems an important agenda to ensure a more resilient and holistic response to such events.
         
@@ -488,21 +495,31 @@ individual agens | remittances | |illegal migrants & "evaders of the state"|
     * How do other actors respond to financial crisis. Do they e.g. learn to anticipate negative impacts from prolonge recessions caused by financial market complexity?
 
 
-* **notes for integration**
 
-    * Market dynamics
+#### Foreign direct investments and market dynamics
 
-        * Socio-ecological consequences of financial and market dynamics
+* One result of the change in global economic dynamics in 2007 and 2008, specifically the increase in food prices from 2007 to 2011, was an increase in foreign dircet investment in land areas and their natural resources such as water, also known as land and water grabbing [@Arezki2013]. These investments are have significant implications for nation with sales sometimes amounting to more than 100 % of a countries cultivated area, such as in the case of Liberia, and buys amounting to more than  100 times the production capacity of very small nations such as Singapore [@Rulli2012]. [@Weinzettel2013] have shown that more affluent countries invested more in foreign land relative to the land they had available for production and as such seemed economically privileged to choose to place the ecological impact of food production. While these investements have been encouraged in reports by institutions such as the World Bank (**REF**), the chief critique of foreign-direct investment in land is that it may encourage farming practices that provide less benefits for domestic poverty alleviation andn the increased exposure of sellers to the effects of foreign financial shocks [@DeSchutter2011].
 
-            * The principal agent problem
+
+
+#### Sovereign defaults, stock market crashes, xxx - (social) and enviornmental implications
+
+* Market dynamics
+
+    * Socio-ecological consequences of financial and market dynamics
+
+        * The principal agent problem
     
-            * What are employees evaluated for and what is the goal of the institution
+        * What are employees evaluated for and what is the goal of the institution
         
-    * National bankruptcies - socio-ecological consequences of economic shocks
 
-        * Asian financial crisis
-      
-        * Latin American crises - 
+* List of sovereign defaults
+    
+    * http://en.wikipedia.org/wiki/Sovereign_default#List_of_sovereign_debt_defaults_or_debt_restructuring
+    
+    * http://en.wikipedia.org/wiki/List_of_sovereign_debt_crises
+
+        * **Latin American crises** 
       
             * Argentina - rangelands
           
@@ -510,10 +527,65 @@ individual agens | remittances | |illegal migrants & "evaders of the state"|
 
         * Somalia - cautionary tale of socio-ecological drivers of piracy in a economically and democratically collapsed state
       
+        * Collapse of Soviet Union was associated with:
+        
+            * regime shifts in key marine systems of the Black Sea, the Baltic Sea and the XXX [@Osterblom2015]
+            
+            * collapse of protected area systems and a free market economy which escalated the decline in carnivore and ungulate mammals [@DiMarco2014]
+            
+            * "the collapse of the Soviet Union resulted in the simultaneous collapse of protected area systems, with- drawal of subsidies, and an abrupt transition to a free- market economy. Many species in the former Soviet Union, such as the saiga antelope (Saiga tatarica), de- clined substantially due to such changes (Milner-Gulland et al. 2001). We observed that several species living in that region were already declining in the 1970s, yet a dra- matic decline in their conservation status was observed from the 1990s. The net loss in RLI value from 1975 to 1985 was 0.05, but became 0.15 from 1996 to 2008 (Fig. 5c)."
+        
+        * Europe sovereign debt crisis
+        
+            * (Combination with austerity?) led to "democracies without choice" with potentially destabilizing effects [@Bosco2012]. E.g. increasing number of abstention votes.
+            
+            * "In particular, growing dependence on external lenders results in a situation where, as Krastev noted for the Balkans, 'governments get elected by making love to the electorate, but they are married to the international donors'. The result is the development of 'democracy without choices' in which citizens can change governments far more easily than they can change policies (Krastev 2002, p. 51). The likely outcome is a build-up of popular frustration with the democratic process which can only be dangerous for the future of South European democracy."
+            
+            * Toppled four democractically elected governments in core European south in a matter of five months (three within 18 days) [@Bosco2012]
+            
+            * Democracies in southern European countries not tied to the Euro faired better, while the recession in Euro countries of the south had economic spillover effects into the political realm [@Bosco2012].
+            
+            * "In contrast, in the five countries affected by the eurozone sovereign debt crisis, there was a clear spillover of crisis from the economy to politics."
+        
         * Greece
         
             * "Rising wealth concentration contributed to the crisis because the increasing asset demand from the rich played a key role in the rise of the structured credit market and enabled poor and middle-income households to accumulate increasing amounts of debt. To tame the inherent instability of the current mode of capitalism it is necessary to reduce inequality."  - Sabalini 2014/2015
+              
+        * Spain
+        
+            * **Environmental impact** The privatization of the basic natural resource composed by the water system of the Metropolitan Area of Barcelona can be viewed in the context of spending required by EU water and environmental directives to improve quality of water ways and water bodies (i.e. *ecological modernization*); the consequent debt incurred in the Barcelona water agency by this spending; and the unwillingness of the international market to provide a loan to Spanish national or regional governments. [@March2013]
+                
+            * "All in all this debt-induced austerity shifts the relationship between elected and nonelected actors, and reconfigures in fundamental ways the relation between state and capital in the provision of a basic resources such as water."
+        
+    * **Health effects of global financial crisis 2008-present**
+    
+    * *Mental health* [@Wahlbeck2012], reports: Increasing suicides and suicide attempts in Ireland and England, and Greece, respectively.
+        
+        * The simple mechanish: "There is evidence that debts, financial difficulties and housing payment problems lead to mental health problems (17-19). The more debts people  have, the higher the risk of many common mental disorders (20,21)."
+        
+        * WHO reports that crisis mental-health impacts can be decreased by targeted government interventions
+        
+    * *Health and indebtedness* Indebtedness has serious health consequences [@Turunen2014]
+    
+        * "The results from our sample of 33 peer-reviewed studies demonstrate serious health effects related to indebtedness. Individuals with unmet loan payments had suicidal ideation and suffered from depression more often than those without such financial problems. Unpaid financial obligations were also related to poorer subjective health and health-related behaviour. Debt counselling and other programmes to mitigate debt-related stress are needed to alleviate the adverse effects of indebtedness on health."
+    
+    * *Health inequalities* Exacerbated health inequalities due to the European financial crisis
+    
+        * "Evidence indicates that the Eurozone crisis disproportionately affected vulnerable populations in society and caused sharp increases of suicides and deaths due to mental and behavioral disorders especially among those who lost their jobs, houses and economic activities because of the crisis. Although little research has, so far, studied the effects of the crisis on health inequities, evidence showed that the 2009 economic downturn increased the number of people living in poverty and widened income inequality especially in European countries severely hit by the debt crisis. Data, however, also suggest favorable health trends and a reduction of traffic deaths fatalities in the general population during the economic recession. Moreover, egalitarian policies protecting the most disadvantaged populations with strong social protections proved to be effective in decoupling the link between job losses and suicides." [@DeVogli2014]
 
+
+    
+
+* Lists of stock market crashes and corporate crises and scandals
+
+    * http://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets
+
+        * Asian financial crisis - international liberalization of domestic markets without regulation led to bubble and crisis [@Wade1998]
+        
+            * "interests driving capital account liberalization without a framework of regulation, the single most irresponsible act of public authorities in the whole crisis. US and UK financial firms, allied with their treasuries and with the IMF, the WTO, and the OECD, saw themselves at a chronic disadvantage in the Asian system of long-term relationships and patient capital. This alliance, supported by segments of Asian political and financial elites, achieved dramatic domestic financial sector liberalization and capital account opening in Asia over the 1990s, setting up the conditions for crisis."
+    
+    * http://en.wikipedia.org/wiki/List_of_corporate_collapses_and_scandals
+      
 
 
 
@@ -543,7 +615,7 @@ individual agens | remittances | |illegal migrants & "evaders of the state"|
     
         * "This model estimates that $10 to $35billion was transferred through hawala per annum over those 20 years. Another method for gauging the amount of money flowing through hawala networks is to look at the value of goods misinvoiced in international exports. Edsel L. Beja Jr. [14] examines available data that reveals large trade misinvoicing between China and its trade partners. The analysis finds a net trade misinvoicing of US$ 287.6 billion between 2000 and 2005, while - **the full magnitude of unrecorded trade is estimated at US$1.4 trillion. Other estimates concerning Somali hawala place the figure at between $750 million and $1 billion US annually [11], accounting for 11 to 18% of GDP.**" [@Li2012]
         
-        * "5% of “hot money” flowing through underground banks, equal to about USD$2 billion" [@Li2012]
+        * "5% of money�� flowing through underground banks, equal to about USD$2 billion" [@Li2012]
 
 
 

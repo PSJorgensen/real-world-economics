@@ -347,7 +347,7 @@ environmental problems*" amplified.
     about future paths for human development and the sustainability of
     current economic paradigms.
 
-    -   *References*
+    -   *References and notes to integrate*
         -   (Lambin and Meyfroidt 2011) Globalized trade have increased
             pressure to convert forest to cropland. Some countries have
             managed to circumvent this pressure and increased forest
@@ -376,6 +376,18 @@ environmental problems*" amplified.
             air pollution in the United States, Lin et al. 2014 PNAS]
             and Lenzen and Wiedmann studies. [i.e. consumption based
             accounting of official trade statistics]
+
+        -   Globalization of the economy - increasing teleconnection of
+            environmental impact to local markets given trade (and
+            transportation)
+
+            -   E.g. Berkes 2006 - Globalization, Roving bandits and
+                Marine Resources (Berkes et al. 2006) - emergence of sea
+                urchin fisheries as local fisheries declining.
+
+            -   Expansion of live reef fish trading a resource mainly
+                intended for high-end luxurious restaurants (Scales et
+                al. 2006).
 
 <br><br>
 
@@ -1113,22 +1125,45 @@ various spatial scales.**
         learn to anticipate negative impacts from prolonge recessions
         caused by financial market complexity?
 
--   **notes for integration**
+#### Foreign direct investments and market dynamics
 
-    -   Market dynamics
+-   One result of the change in global economic dynamics in 2007 and
+    2008, specifically the increase in food prices from 2007 to 2011,
+    was an increase in foreign dircet investment in land areas and their
+    natural resources such as water, also known as land and water
+    grabbing (Arezki, Deininger, and Selod 2013). These investments are
+    have significant implications for nation with sales sometimes
+    amounting to more than 100 % of a countries cultivated area, such as
+    in the case of Liberia, and buys amounting to more than 100 times
+    the production capacity of very small nations such as Singapore
+    (Rulli, Saviori, and Odorico 2012). (Weinzettel et al. 2013) have
+    shown that more affluent countries invested more in foreign land
+    relative to the land they had available for production and as such
+    seemed economically privileged to choose to place the ecological
+    impact of food production. While these investements have been
+    encouraged in reports by institutions such as the World Bank
+    (**REF**), the chief critique of foreign-direct investment in land
+    is that it may encourage farming practices that provide less
+    benefits for domestic poverty alleviation andn the increased
+    exposure of sellers to the effects of foreign financial shocks
+    (<span>De Schutter</span> 2011).
 
-        -   Socio-ecological consequences of financial and market
-            dynamics
+#### Sovereign defaults, stock market crashes, xxx - (social) and enviornmental implications
 
-            -   The principal agent problem
+-   Market dynamics
 
-            -   What are employees evaluated for and what is the goal of
-                the institution
+    -   Socio-ecological consequences of financial and market dynamics
 
-    -   National bankruptcies - socio-ecological consequences of
-        economic shocks
+        -   The principal agent problem
 
-        -   Asian financial crisis
+        -   What are employees evaluated for and what is the goal of the
+            institution
+
+-   List of sovereign defaults
+
+    -   <http://en.wikipedia.org/wiki/Sovereign_default#List_of_sovereign_debt_defaults_or_debt_restructuring>
+
+    -   <http://en.wikipedia.org/wiki/List_of_sovereign_debt_crises>
 
         -   Latin American crises -
 
@@ -1138,6 +1173,61 @@ various spatial scales.**
 
         -   Somalia - cautionary tale of socio-ecological drivers of
             piracy in a economically and democratically collapsed state
+
+        -   Collapse of Soviet Union was associated with:
+
+            -   regime shifts in key marine systems of the Black Sea,
+                the Baltic Sea and the XXX (Österblom and Folke 2015)
+
+            -   collapse of protected area systems and a free market
+                economy which escalated the decline in carnivore and
+                ungulate mammals (<span>Di Marco</span> et al. 2014)
+
+                -   "the collapse of the Soviet Union resulted in the
+                    simultaneous collapse of protected area systems,
+                    with- drawal of subsidies, and an abrupt transition
+                    to a free- market economy. Many species in the
+                    former Soviet Union, such as the saiga antelope
+                    (Saiga tatarica), de- clined substantially due to
+                    such changes (Milner-Gulland et al. 2001). We
+                    observed that several species living in that region
+                    were already declining in the 1970s, yet a dra-
+                    matic decline in their conservation status was
+                    observed from the 1990s. The net loss in RLI value
+                    from 1975 to 1985 was 0.05, but became 0.15 from
+                    1996 to 2008 (Fig. 5c)."
+
+        -   Europe sovereign debt crisis
+
+            -   (Combination with austerity?) led to "democracies
+                without choice" with potentially destabilizing effects
+                (Bosco and Verney 2012). E.g. increasing number of
+                abstention votes.
+
+                -   "In particular, growing dependence on external
+                    lenders results in a situation where, as Krastev
+                    noted for the Balkans, 'governments get elected by
+                    making love to the electorate, but they are married
+                    to the international donors'. The result is the
+                    development of 'democracy without choices' in which
+                    citizens can change governments far more easily than
+                    they can change policies (Krastev 2002, p. 51). The
+                    likely outcome is a build-up of popular frustration
+                    with the democratic process which can only be
+                    dangerous for the future of South European
+                    democracy."
+            -   Toppled four democractically elected governments in core
+                European south in a matter of five months (three within
+                18 days) (Bosco and Verney 2012)
+
+            -   Democracies in southern European countries not tied to
+                the Euro faired better, while the recession in Euro
+                countries of the south had economic spillover effects
+                into the political realm (Bosco and Verney 2012).
+
+                -   "In contrast, in the five countries affected by the
+                    eurozone sovereign debt crisis, there was a clear
+                    spillover of crisis from the economy to politics."
 
         -   Greece
 
@@ -1149,6 +1239,95 @@ various spatial scales.**
                 inherent instability of the current mode of capitalism
                 it is necessary to reduce inequality." - Sabalini
                 2014/2015
+        -   Spain
+
+            -   **Environmental impact** The privatization of the basic
+                natural resource composed by the water system of the
+                Metropolitan Area of Barcelona can be viewed in the
+                context of spending required by EU water and
+                environmental directives to improve quality of water
+                ways and water bodies (i.e. *ecological modernization*);
+                the consequent debt incurred in the Barcelona water
+                agency by this spending; and the unwillingness of the
+                international market to provide a loan to Spanish
+                national or regional governments. (March and Saurí 2013)
+
+                -   "All in all this debt-induced austerity shifts the
+                    relationship between elected and nonelected actors,
+                    and reconfigures in fundamental ways the relation
+                    between state and capital in the provision of a
+                    basic resources such as water."
+
+    -   **Health effects of global financial crisis 2008-present**
+
+    -   *Mental health* (Wahlbeck and McDaid 2012), reports: Increasing
+        suicides and suicide attempts in Ireland and England, and
+        Greece, respectively.
+
+        -   The simple mechanish: "There is evidence that debts,
+            financial difficulties and housing payment problems lead to
+            mental health problems (17-19). The more debts people have,
+            the higher the risk of many common mental disorders
+            (20,21)."
+
+        -   WHO reports that crisis mental-health impacts can be
+            decreased by targeted government interventions
+
+    -   *Health and indebtedness* Indebtedness has serious health
+        consequences (Turunen and Hiilamo 2014)
+
+        -   "The results from our sample of 33 peer-reviewed studies
+            demonstrate serious health effects related to indebtedness.
+            Individuals with unmet loan payments had suicidal ideation
+            and suffered from depression more often than those without
+            such financial problems. Unpaid financial obligations were
+            also related to poorer subjective health and health-related
+            behaviour. Debt counselling and other programmes to mitigate
+            debt-related stress are needed to alleviate the adverse
+            effects of indebtedness on health."
+    -   *Health inequalities* Exacerbated health inequalities due to the
+        European financial crisis
+
+        -   "Evidence indicates that the Eurozone crisis
+            disproportionately affected vulnerable populations in
+            society and caused sharp increases of suicides and deaths
+            due to mental and behavioral disorders especially among
+            those who lost their jobs, houses and economic activities
+            because of the crisis. Although little research has, so far,
+            studied the effects of the crisis on health inequities,
+            evidence showed that the 2009 economic downturn increased
+            the number of people living in poverty and widened income
+            inequality especially in European countries severely hit by
+            the debt crisis. Data, however, also suggest favorable
+            health trends and a reduction of traffic deaths fatalities
+            in the general population during the economic recession.
+            Moreover, egalitarian policies protecting the most
+            disadvantaged populations with strong social protections
+            proved to be effective in decoupling the link between job
+            losses and suicides." (<span>De Vogli</span> 2014)
+
+-   Lists of stock market crashes and corporate crises and scandals
+
+    -   <http://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets>
+
+        -   Asian financial crisis - international liberalization of
+            domestic markets without regulation led to bubble and crisis
+            (Wade 1998)
+
+            -   "interests driving capital account liberalization
+                without a framework of regulation, the single most
+                irresponsible act of public authorities in the whole
+                crisis. US and UK financial firms, allied with their
+                treasuries and with the IMF, the WTO, and the OECD, saw
+                themselves at a chronic disadvantage in the Asian system
+                of long-term relationships and patient capital. This
+                alliance, supported by segments of Asian political and
+                financial elites, achieved dramatic domestic financial
+                sector liberalization and capital account opening in
+                Asia over the 1990s, setting up the conditions for
+                crisis."
+
+    -   <http://en.wikipedia.org/wiki/List_of_corporate_collapses_and_scandals>
 
 <br><br>
 
@@ -1197,8 +1376,8 @@ various spatial scales.**
             [11], accounting for 11 to 18% of GDP.**" (Li, Liu, and Ge
             2012)
 
-        -   "5% of â€œhot moneyâ€ flowing through underground banks,
-            equal to about USD$2 billion" (Li, Liu, and Ge 2012)
+        -   "5% of money€ flowing through underground banks, equal to
+            about USD$2 billion" (Li, Liu, and Ge 2012)
 
     -   **Core activity of migrants** "There are five key ways
         transnational engagement manifests itself in migrantsâ€™
@@ -1732,6 +1911,10 @@ Anwar, Sajid, and Arusha Cooray. 2015. “Financial flows and per capita
 income in developing countries.” *International Review of Economics and
 Finance* 35: 304–14.
 
+Arezki, R., K. Deininger, and H. Selod. 2013. “What Drives the Global
+‘Land Rush’?” *The World Bank Economic Review*, 1–27.
+doi:[10.1093/wber/lht034](http://dx.doi.org/10.1093/wber/lht034).
+
 Bartolini, Stefano. 2014. “Building sustainability through greater
 happiness.”
 doi:[10.1177/1035304614559436](http://dx.doi.org/10.1177/1035304614559436).
@@ -1743,6 +1926,10 @@ doi:[10.1093/eurpub/ckt208](http://dx.doi.org/10.1093/eurpub/ckt208).
 
 Bechtel, L, G Lordan, and DS Rao. “Income inequality and mental
 health–empirical evidence from Australia.”
+
+Berkes, F, T P Hughes, R S Steneck, J A Wilson, D R Bellwood, B Crona, C
+Folke, et al. 2006. “Globalization, Roving Bandits, and Marine
+Resources.” *Science (New York, N.Y.)* 311 (March 17): 1557–58.
 
 Bettencourt, Luís M A, and Jasleen Kaur. 2011. “Evolution and structure
 of sustainability science.” *Proceedings of the National Academy of
@@ -1763,6 +1950,11 @@ Blaxekjær, Lau Øfjord, and Tobias Dan Nielsen. 2014. “Mapping the
 narrative positions of new political groups under the UNFCCC.” *Climate
 Policy* 0 (0): 1–16.
 doi:[10.1080/14693062.2014.965656](http://dx.doi.org/10.1080/14693062.2014.965656).
+
+Bosco, Anna, and Susannah Verney. 2012. “Electoral Epidemic: The
+Political Cost of Economic Crisis in Southern Europe, 2010-11.” *South
+European Society and Politics* 17 (02): 129–54.
+doi:[10.1080/13608746.2012.747272](http://dx.doi.org/10.1080/13608746.2012.747272).
 
 Botello-Samson, Darren. 2010a. “The Endangered Species Act.” In
 *Regulatory Takings and the Environment : The Impact of Property Rights
@@ -1879,6 +2071,23 @@ Daily, Gretchen C, and Pamela a Matson. 2008. “Ecosystem services: from
 theory to implementation.” *Proceedings of the National Academy of
 Sciences of the United States of America* 105 (28): 9455–56.
 doi:[10.1073/pnas.0804960105](http://dx.doi.org/10.1073/pnas.0804960105).
+
+<span>De Schutter</span>, Olivier. 2011. “How not to think of
+land-grabbing: three critiques of large-scale investments in farmland.”
+*Journal of Peasant Studies* 38 (2): 249–79.
+doi:[10.1080/03066150.2011.559008](http://dx.doi.org/10.1080/03066150.2011.559008).
+
+<span>De Vogli</span>, Roberto. 2014. “The financial crisis, health and
+health inequities in Europe: the need for regulations, redistribution
+and social protection.” *International Journal for Equity in Health* 13
+(1): 58.
+doi:[10.1186/s12939-014-0058-6](http://dx.doi.org/10.1186/s12939-014-0058-6).
+
+<span>Di Marco</span>, M., L. Boitani, D. Mallon, M. Hoffmann, A.
+Iacucci, E. Meijaard, P. Visconti, J. Schipper, and C. Rondinini. 2014.
+“A Retrospective evaluation of the global decline of carnivores and
+ungulates.” *Conservation Biology* 28 (4): 1109–18.
+doi:[10.1111/cobi.12249](http://dx.doi.org/10.1111/cobi.12249).
 
 Díaz, Sandra, Sebsebe Demissew, Julia Carabias, Carlos Joly, Mark
 Lonsdale, Neville Ash, Anne Larigauderie, et al. 2015. “The IPBES
@@ -2013,6 +2222,11 @@ interventions generate inequalities? Evidence from systematic reviews.”
 *Journal of Epidemiology & Community Health*, 190–93.
 doi:[10.1136/jech-2012-201257](http://dx.doi.org/10.1136/jech-2012-201257).
 
+March, Hug, and David Saurí. 2013. “The unintended consequences of
+ecological modernization: Debt-induced reconfiguration of the water
+cycle in Barcelona.” *Environment and Planning A* 45 (9): 2064–83.
+doi:[10.1068/a45380](http://dx.doi.org/10.1068/a45380).
+
 Marmot, Smith Stansfeld Patel North Head White Brunner Feeney, and
 Anonymous. 1991. “Health inequalities among British civil servants: the
 Whitehall II study.” *The Lancet* 337 (8754): 1387.
@@ -2062,6 +2276,10 @@ Ott, Herve. 2012. “Fertilizer markets and its interplay with commodity
 and food prices,” no. JRC73043.
 doi:[10.2791/82136](http://dx.doi.org/10.2791/82136).
 
+Österblom, Henrik, and Carl Folke. 2015. “Globalization , marine regime
+shifts and the Soviet Union.” *Philosophical Transactions of the Royal
+Society B-Biological Sciences*.
+
 Palazy, L., C. Bonenfant, J. M. Gaillard, and F. Courchamp. 2012.
 “Rarity, trophy hunting and ungulates.” *Animal Conservation* 15 (1):
 4–11.
@@ -2108,11 +2326,21 @@ Roberts, J Timmons. 2001. “Global Inequality and Climate Change.”
 *Society & Natural Resources* 14 (6): 501–9.
 doi:[10.1080/08941920118490](http://dx.doi.org/10.1080/08941920118490).
 
+Rulli, Maria Cristina, Antonio Saviori, and Paolo D Odorico. 2012.
+“Global land and water grabbing.” *Proceedings of the National Academy
+of Sciences* 110 (3): 892–97.
+doi:[10.1073/pnas.1213163110/-/DCSupplemental.www.pnas.org/cgi/doi/10.1073/pnas.1213163110](http://dx.doi.org/10.1073/pnas.1213163110/-/DCSupplemental.www.pnas.org/cgi/doi/10.1073/pnas.1213163110).
+
 Sampei, Yuki, and Midori Aoyagi-Usui. 2009. “Mass-media coverage, its
 influence on public awareness of climate-change issues, and implications
 for Japan’s national campaign to reduce greenhouse gas emissions.”
 *Global Environmental Change* 19 (2): 203–12.
 doi:[10.1016/j.gloenvcha.2008.10.005](http://dx.doi.org/10.1016/j.gloenvcha.2008.10.005).
+
+Scales, Helen, Andrew Ballmford, Min Liu, Yvonne Sadovy, and Andrea
+Manica. 2006. “Keeping bandits at bay.” *Science (New York, N.Y.)* 313
+(4 August 2006): 612–13.
+doi:[10.1126/science.313.5787.612b](http://dx.doi.org/10.1126/science.313.5787.612b).
 
 Shapiro, Sidney A. 2012. “The Complexity of Regulatory Capture:
 Diagnosis, Causality, and Remediation.” *Roger Willliams University Law
@@ -2138,6 +2366,10 @@ doi:[10.1177/0022146510383499](http://dx.doi.org/10.1177/0022146510383499).
 Tjernström, Sune. 2007. “Ownership Concentration in the TV Industry.”
 *Nordicom Review* 28 (1): 77–93.
 
+Turunen, Elina, and Heikki Hiilamo. 2014. “Health effects of
+indebtedness: a systematic review.” *BMC Public Health* 14 (1): 489.
+doi:[10.1186/1471-2458-14-489](http://dx.doi.org/10.1186/1471-2458-14-489).
+
 Unger, Jacob D. 2008. “REGULATING THE ARCTIC GOLD RUSH : RECOMMENDED
 REGULATORY REFORMS TO PROTECT ALASKA ’ S ARCTIC ENVIRONMENT FROM
 OFFSHORE OIL DRILLING POLLUTION.” *Alaska Law Review* 31 (2014): 263–94.
@@ -2151,10 +2383,23 @@ Vizcarrondo, Tom. 2013. “Measuring concentration of media ownership:
 1976–2009.” *International Journal on Media Management* 15 (3): 177–95.
 doi:[10.1080/14241277.2013.782499](http://dx.doi.org/10.1080/14241277.2013.782499).
 
+Wade, Robert. 1998. “The Asian Debt and Development Crisis of 1997 - ?:
+Causes and Consequences.” *World Development* 26 (8): 1535–53.
+
+Wahlbeck, Kristian, and David McDaid. 2012. “Actions to alleviate the
+mental health impact of the economic crisis.” *World Psychiatry* 11 (3):
+139–45.
+[http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3449359\\&tool=pmcentrez\\&rendertype=abstract](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3449359\&tool=pmcentrez\&rendertype=abstract).
+
 Walls, Helen L, Richard D Smith, and Peter Drahos. 2015. “Improving
 regulatory capacity to manage risks associated with trade agreements.”
 *Globalization and Health* 11 (1): 1–5.
 doi:[10.1186/s12992-015-0099-7](http://dx.doi.org/10.1186/s12992-015-0099-7).
+
+Weinzettel, Jan, Edgar G. Hertwich, Glen P. Peters, Kjartan Steen-Olsen,
+and Alessandro Galli. 2013. “Affluence drives the global displacement of
+land use.” *Global Environmental Change* 23 (2): 433–38.
+doi:[10.1016/j.gloenvcha.2012.12.010](http://dx.doi.org/10.1016/j.gloenvcha.2012.12.010).
 
 Wiedmann, Thomas O, Heinz Schandl, Manfred Lenzen, Daniel Moran, Sangwon
 Suh, James West, and Keiichiro Kanemoto. 2013. “The material footprint
