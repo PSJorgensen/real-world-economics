@@ -1,3 +1,4 @@
+-   ABSTRACT
 -   INTRO
     -   Importance of economic dynamics for the earth system and global
         sustainability
@@ -19,18 +20,19 @@
         -   Greener economic accounting for natural capital
         -   Global trade and the telecoupling of socio-environmental
             dynamics
+-   RECENT AND FURTHER NEEDS RELATING TO INEQUALITY
     -   Implications of economic inequality globally, nationally and
         locally
         -   Consequences of global inequality dynamics
         -   National dynamics and impacts of inequality
         -   Health impacts of inequality from national to local level
--   AREAS THAT NEED ATTENTION
+-   AREAS IN NEED OF ATTENTION
     -   A framework for structuring research questions on the global
         dynamics of the formal and informal economy
     -   Finance in politics and key financial players
     -   The global impact of investments and market dynamics
     -   International financial transactions and flows
-    -   Financial innovation for sustainabiltiy
+    -   Financial innovation and sustainabiltiy
 -   FUTURE PERSPECTIVES AND CONCLUSION
 -   Supporting notes
     -   Notes on integration
@@ -45,6 +47,40 @@
 ------------------------------------------------------------------------
 
 <br><br>
+
+ABSTRACT
+========
+
+-   Previous research has asked "what is sustainability science?". Here
+    we ask this question in relation to economics and finance where
+    sustainability science has had a driving role in addressing some
+    important questions, while it has been slower to pick up on others.
+    We argue for a sustainability science that builds on its success to
+    integrate and address a broader set of novel findings and questions
+    relating to economics and finance.
+
+-   We highlight recent advances from areas where sustainability science
+    has had a driving role in generating progress such as in accounting
+    for natural capital, socio-environmental impacts of global trade and
+    some partial advances in inequality research.
+
+-   We build on these advances to highlight prospects for further
+    integration of topics in economics and finance, where recent
+    findings may help pave the way for uptake by sustainability
+    scientists. These topics iclude further aspects of inequality, key
+    actors in the global markets; socio-environmental implications of
+    financial market dynamics including licit and illicit financial
+    flows; and evaluating financial innovation as a dual strategy for
+    increasing sustainability outcomes and avoiding regulation.
+
+-   General characteristics of these areas include sometimes
+    uncomfortable, but very important research questions about the role
+    of power, corruption, financial capital and large private actors.
+
+-   Integrating with these topics will bring sustainabililty science
+    closer to realizing its multidsciplinary vision and improve the
+    relevance of research findings on global dynamics and sustainable
+    development including societal transformations for sustainability.
 
 INTRO
 =====
@@ -381,15 +417,26 @@ environmental problems*" amplified.
             environmental impact to local markets given trade (and
             transportation)
 
-            -   E.g. Berkes 2006 - Globalization, Roving bandits and
-                Marine Resources (Berkes et al. 2006) - emergence of sea
-                urchin fisheries as local fisheries declining.
+        -   E.g. Berkes 2006 - Globalization, Roving bandits and Marine
+            Resources (Berkes et al. 2006) - emergence of sea urchin
+            fisheries as local fisheries declining.
 
-            -   Expansion of live reef fish trading a resource mainly
-                intended for high-end luxurious restaurants (Scales et
-                al. 2006).
+        -   Expansion of live reef fish trading a resource mainly
+            intended for high-end luxurious restaurants (Scales et al.
+            2006).
 
 <br><br>
+
+<br><br>
+
+<br><br>
+
+------------------------------------------------------------------------
+
+<br><br>
+
+RECENT AND FURTHER NEEDS RELATING TO INEQUALITY
+===============================================
 
 Implications of economic inequality globally, nationally and locally
 --------------------------------------------------------------------
@@ -932,18 +979,29 @@ mental well-being of the individual.
     -   Poverty, inequality and a political economy of mental health
         (Burns 2015)
 
-            * In particular, neoliberal (market-oriented) political doctrines lead to both increased income inequality and reduced social cohesion. In conclusion, understanding the relationships between politics, poverty, inequality and mental health outcomes requires us to develop a robust, evidence-based â€˜political economy of mental health.â€™
-
+        -   In particular, neoliberal (market-oriented) political
+            doctrines lead to both increased income inequality and
+            reduced social cohesion. In conclusion, understanding the
+            relationships between politics, poverty, inequality and
+            mental health outcomes requires us to develop a robust,
+            evidence-based â€˜political economy of mental health.â€™
     -   "Social determinants of mental health" (World Health
         Organization and Calouste Gulbenkian Foundation 2014)
 
-            * Mental health and many common mental disorders are shaped to a great extent by the social, economic, and physical enviro nments in which people live.
+        -   Mental health and many common mental disorders are shaped to
+            a great extent by the social, economic, and physical
+            environments in which people live.
 
-            * Social inequalities are associated with increased risk of many common mental disorders.
+        -   Social inequalities are associated with increased risk of
+            many common mental disorders.
 
-            * scientific consensus is considerable that giving every child the best possible start will generate the greatest societal and mental health benefits.
+        -   scientific consensus is considerable that giving every child
+            the best possible start will generate the greatest societal
+            and mental health benefits.
 
-            * Action needs to be universal: across the whole of society, and proportionate to need in order to level the social gradient in health outcomes.
+        -   Action needs to be universal: across the whole of society,
+            and proportionate to need in order to level the social
+            gradient in health outcomes.
 
     -   **Stress and Health: Major Findings and Policy Implications**
         (Thoits 2010) Third, minority group members are additionally
@@ -996,8 +1054,8 @@ mental well-being of the individual.
 
 <br><br>
 
-AREAS THAT NEED ATTENTION
-=========================
+AREAS IN NEED OF ATTENTION
+==========================
 
 <br><br>
 
@@ -1102,7 +1160,7 @@ various spatial scales.**
     renewable energy sources [**REF**].
 
 -   Increasing investment in food commodities from index investors in
-    2007 may have exacerbaed the spikes in food prices in 2008 and 2011
+    2007 may have exacerbated the spikes in food prices in 2008 and 2011
     and consequently had a role in the social unrest that these price
     rises helped unleash (**Christopher Gilbert GEDB seminar 150424 -
     Index investor activity increased before price spikes**).
@@ -1114,18 +1172,18 @@ various spatial scales.**
 -   Examples of remaining research questions with regard to the
     financial crisis are:
 
-    -   What have socio-environmental impacts been of the fincial crisis
-        on other continents?
+    -   What have socio-environmental impacts been of the financial
+        crisis on other continents?
 
     -   Can key trends in environmental and social degradation or
         improvement be traced to events relating to the financial
         crisis.
 
     -   How do other actors respond to financial crisis. Do they e.g.
-        learn to anticipate negative impacts from prolonge recessions
+        learn to anticipate negative impacts from prolonged recessions
         caused by financial market complexity?
 
-#### Foreign direct investments and market dynamics
+#### Foreign direct investments in land and market dynamics
 
 -   One result of the change in global economic dynamics in 2007 and
     2008, specifically the increase in food prices from 2007 to 2011,
@@ -1144,9 +1202,9 @@ various spatial scales.**
     encouraged in reports by institutions such as the World Bank
     (**REF**), the chief critique of foreign-direct investment in land
     is that it may encourage farming practices that provide less
-    benefits for domestic poverty alleviation andn the increased
-    exposure of sellers to the effects of foreign financial shocks
-    (<span>De Schutter</span> 2011).
+    benefits for domestic poverty alleviation and the increased exposure
+    of sellers to the effects of foreign financial shocks (<span>De
+    Schutter</span> 2011).
 
 #### Sovereign defaults, stock market crashes, xxx - (social) and enviornmental implications
 
@@ -1165,7 +1223,7 @@ various spatial scales.**
 
     -   <http://en.wikipedia.org/wiki/List_of_sovereign_debt_crises>
 
-        -   Latin American crises -
+        -   **Latin American crises**
 
             -   Argentina - rangelands
 
@@ -1183,19 +1241,18 @@ various spatial scales.**
                 economy which escalated the decline in carnivore and
                 ungulate mammals (<span>Di Marco</span> et al. 2014)
 
-                -   "the collapse of the Soviet Union resulted in the
-                    simultaneous collapse of protected area systems,
-                    with- drawal of subsidies, and an abrupt transition
-                    to a free- market economy. Many species in the
-                    former Soviet Union, such as the saiga antelope
-                    (Saiga tatarica), de- clined substantially due to
-                    such changes (Milner-Gulland et al. 2001). We
-                    observed that several species living in that region
-                    were already declining in the 1970s, yet a dra-
-                    matic decline in their conservation status was
-                    observed from the 1990s. The net loss in RLI value
-                    from 1975 to 1985 was 0.05, but became 0.15 from
-                    1996 to 2008 (Fig. 5c)."
+            -   "the collapse of the Soviet Union resulted in the
+                simultaneous collapse of protected area systems, with-
+                drawal of subsidies, and an abrupt transition to a free-
+                market economy. Many species in the former Soviet Union,
+                such as the saiga antelope (Saiga tatarica), de- clined
+                substantially due to such changes (Milner-Gulland et al.
+                2001). We observed that several species living in that
+                region were already declining in the 1970s, yet a dra-
+                matic decline in their conservation status was observed
+                from the 1990s. The net loss in RLI value from 1975 to
+                1985 was 0.05, but became 0.15 from 1996 to 2008 (Fig.
+                5c)."
 
         -   Europe sovereign debt crisis
 
@@ -1204,30 +1261,30 @@ various spatial scales.**
                 (Bosco and Verney 2012). E.g. increasing number of
                 abstention votes.
 
-                -   "In particular, growing dependence on external
-                    lenders results in a situation where, as Krastev
-                    noted for the Balkans, 'governments get elected by
-                    making love to the electorate, but they are married
-                    to the international donors'. The result is the
-                    development of 'democracy without choices' in which
-                    citizens can change governments far more easily than
-                    they can change policies (Krastev 2002, p. 51). The
-                    likely outcome is a build-up of popular frustration
-                    with the democratic process which can only be
-                    dangerous for the future of South European
-                    democracy."
-            -   Toppled four democractically elected governments in core
+            -   "In particular, growing dependence on external lenders
+                results in a situation where, as Krastev noted for the
+                Balkans, 'governments get elected by making love to the
+                electorate, but they are married to the international
+                donors'. The result is the development of 'democracy
+                without choices' in which citizens can change
+                governments far more easily than they can change
+                policies (Krastev 2002, p. 51). The likely outcome is a
+                build-up of popular frustration with the democratic
+                process which can only be dangerous for the future of
+                South European democracy."
+
+            -   Toppled four democratically elected governments in core
                 European south in a matter of five months (three within
                 18 days) (Bosco and Verney 2012)
 
             -   Democracies in southern European countries not tied to
-                the Euro faired better, while the recession in Euro
+                the Euro fared better, while the recession in Euro
                 countries of the south had economic spillover effects
                 into the political realm (Bosco and Verney 2012).
 
-                -   "In contrast, in the five countries affected by the
-                    eurozone sovereign debt crisis, there was a clear
-                    spillover of crisis from the economy to politics."
+            -   "In contrast, in the five countries affected by the
+                eurozone sovereign debt crisis, there was a clear
+                spillover of crisis from the economy to politics."
 
         -   Greece
 
@@ -1252,11 +1309,11 @@ various spatial scales.**
                 international market to provide a loan to Spanish
                 national or regional governments. (March and Saurí 2013)
 
-                -   "All in all this debt-induced austerity shifts the
-                    relationship between elected and nonelected actors,
-                    and reconfigures in fundamental ways the relation
-                    between state and capital in the provision of a
-                    basic resources such as water."
+            -   "All in all this debt-induced austerity shifts the
+                relationship between elected and non-elected actors, and
+                reconfigures in fundamental ways the relation between
+                state and capital in the provision of a basic resources
+                such as water."
 
     -   **Health effects of global financial crisis 2008-present**
 
@@ -1264,7 +1321,7 @@ various spatial scales.**
         suicides and suicide attempts in Ireland and England, and
         Greece, respectively.
 
-        -   The simple mechanish: "There is evidence that debts,
+        -   The simple mechanism: "There is evidence that debts,
             financial difficulties and housing payment problems lead to
             mental health problems (17-19). The more debts people have,
             the higher the risk of many common mental disorders
@@ -1345,7 +1402,7 @@ various spatial scales.**
     Are international financial transactions playing important roles in
     determining social and environmental outcomes in regions where they
     flow from, through and end-up. Are these outcomes positive or
-    negative for global sustainablity?
+    negative for global sustainability?
 
 -   **Foreign economic impact of three types of financial transactions**
     1) Aid, 2) Direct investment, 3) Remittances - From 1970 to 2011
@@ -1354,7 +1411,7 @@ various spatial scales.**
     negative effect (depending on the efficiency of domestic government
     spending), while foreign direct investment and remittances tend to
     have a positive effect. *Research question for sustainability
-    science* - What is the socio-enviornmental effect of these three
+    science* - What is the socio-environmental effect of these three
     types of financial transactions.
 
 -   **Uninstitutionalized**
@@ -1399,7 +1456,7 @@ various spatial scales.**
                 of quantitative easing, and some of these excess dollars
                 will flow into China and other emerging markets through
                 alternative remittance channels. Excess liquidity may
-                become â€œhot moneyâ€ that disrupts the capital market
+                become â€œhot money€ that disrupts the capital market
                 and intensifies macroeconomic instability"
 
             -   *Economic instability pressure in China from remitance
@@ -1414,7 +1471,7 @@ various spatial scales.**
                 operations and foreign exchange reserve management" (Li,
                 Liu, and Ge 2012). \*\*Specifically large inflow after
                 2008 and 2009 as a result of quantitative financial
-                easing in USA, Europe and Japana in response to the
+                easing in USA, Europe and Japan in response to the
                 financial crises. From -30000 m USD in 2003 to +60000 m
                 USD in 2009. A good case examples of global
                 teleconnectedness not only of legal and formal financial
@@ -1488,7 +1545,7 @@ various spatial scales.**
 
         -   "Narko states" - e.g. Colombia, Mexico
 
-            -   Effects on land use change dynamiscs
+            -   Effects on land use change dynamics
 
             -   E.g. Colombia, spraying fields will generate new areas
                 with deforestation for coca plantations.
@@ -1509,8 +1566,8 @@ various spatial scales.**
 
             -   *new economic ventures started up by immigrants*
 
-            -   immigrants in canadian households earning more than
-                native-born canadians
+            -   immigrants in Canadian households earning more than
+                native-born Canadians
 
             -   interlinked-chains of skilled migrants between coupled
                 bilateral systems (source-sink dynamics)
@@ -1544,7 +1601,7 @@ various spatial scales.**
 
 <br><br>
 
--   **Online resources on fincial flows for integration**
+-   **Online resources on financial flows for integration**
 
     -   <http://www.afdb.org/en/blogs/integrating-africa/post/african-regional-integration-and-the-fight-against-illicit-financial-flows-12898/>
 
@@ -1576,22 +1633,66 @@ various spatial scales.**
 
 <br><br>
 
-### Financial innovation for sustainabiltiy
+### Financial innovation and sustainabiltiy
+
+<br><br>
+
+-   **Financial innovation under global change** Global socio-economic
+    and environmental change puts a constant pressure on public and
+    private companies to innovate their model of operation. Beyond
+    companies have to make sure they appeal to the changing norms and
+    composition of society and secondly, to adapt to changing
+    environmental conditions as a result of global enviornmental
+    changes.
+
+-   Innovation of financial instruments can be used both to achieve
+    goals of the actors at the expense of others, to achieve joint goals
+    of stakeholders and actors, or for a primarily altruistic purpose
+    (*link to relevant sustainability science literature*).
+
+-   *General research question:*
+
+    -   What comes first in guiding innovative financial behaviours -
+        the social and environmental consideration - or considerations
+        about short or long-term financial revenue?
+
+        -   Does it matter for the sustainability outcome?
+    -   *Examples of environmental change driving corporate investment
+        behavior*
+
+        -   *The Texas drought* caused GAP to cut its profit forecasts
+            by 22%
+
+        -   Increasing raw material prices for cotton made *H&M* change
+            its cotton source (??? correct note ???)
+
+        -   Markets for compensation - biodiversity off-setting (*The
+            Biodiversity Consultancy*)
+
+        -   *Clean Waer Act* - requires wetland mitigation - total
+            market value on the order of billions of US dollars
+
+        -   *Unilever* certified tea - increased sales w/ 12 %
+
+        -   \*Alfa Laval\*\* - "new technology beefs up share price"
+
+        -   Paper with KPMG "Identifying natural capital risk and
+            maternality" directed at CFOs
 
 <br><br>
 
 #### Innovation of investments for sustainability
 
--   Non-governmental financial investments are playing an increasing
-    role in addressing concerns related to social and environmental
-    sustainaiblity, in the developing as well as the developed world
-    [**REF**]. Philanthropy has played a role in ensuring environmental,
-    social and economic sustainability for centuries. Associated with
-    the increase in the role of private investments has been an
-    increasing diversification of types of investments for
-    sustainability [**REF**]. From the well-known micro-financing
-    strategies [**REF**] to green bond markets and other types of
-    investment for impact [**REF**].
+-   **Role of private and corporate capital** Non-governmental financial
+    investments are playing an increasing role in addressing concerns
+    related to social and environmental sustainaiblity, in the
+    developing as well as the developed world [**REF**]. Philanthropy
+    has played a role in ensuring environmental, social and economic
+    sustainability for centuries. Associated with the increase in the
+    role of private investments has been an increasing diversification
+    of types of investments for sustainability [**REF**]. From the
+    well-known micro-financing strategies [**REF**] to green bond
+    markets and other types of investment for impact [**REF**].
 
 -   Sustainability science needs to embrace these recent developments by
     asking a number of research and solution-oriented questions: (1) How
@@ -1600,6 +1701,240 @@ various spatial scales.**
     governnmental investments?; (2) Which types of private financial
     investments are most effective in various geographical areas and in
     solving different sustainability-challenges.
+
+-   **The positive potential for socio-environmental responsible
+    investments**
+
+    -   *Research question* Elucidate the degree to which responsible
+        investment programmes improve prospects for local and global
+        sustainability.
+
+    -   *Cases*
+
+    -   PRI - Principles for Responsible Investment (45 trillion signed
+        up to principles)
+
+    -   2011 Engagement with retailers around sustainable seafod
+
+    -   2013 Engagement with retailers around palm oil production
+
+    -   Deutsche Bank was helping China Tuna with an IPO to raise USD
+        150 mil
+
+    -   The IPO was based on
+
+        -   incorrect info to investors
+
+        -   ecosystem limits disregarded
+
+    -   Divestment in socio-environmentally unsustainable stocks
+
+        -   Fossil fuels
+    -   **Positive instruments of change**
+
+        -   Informal instruments - such as checks and balances by NGO's
+            and consumer awareness groups - VS - legal and publicly
+            regulated agents and istruments
+
+        -   Does Shadow pricing by corporations incluence investment and
+            business model behaviour?
+
+        -   **Context of investment**
+
+        -   *Regulatory standards* - "Lack of reporting standards pose a
+            significant barrier to gerater incorporation of natural
+            capital - call for sector based reporting standards
+
+        -   *Consumer awareness tools*
+
+        -   *Voluntary corporate disclosure*
+
+            -   Carbon Disclosure Project
+
+            -   <http://en.wikipedia.org/wiki/Carbon_Disclosure_Project>
+
+        -   *Project finance criteria*
+
+            -   International Finance Corporation (private sector arm of
+                World Bank Group)
+
+            -   As of 2012 IFc requires projects to maintain ecosystem
+                services benefits and to identify those services that
+                the project is directly dependent upon.
+
+            -   78 banks with 70% of global project finance to emerging
+                markets follow the IFC pPerformance Standards
+
+            -   Clashes of interest between - shareholder interests
+                (short-term) - company (longer-term) - lenders such as
+                banks (???)
+
+            -   Natural capital as last step consideration *versus*
+                natural capital as a strategic driver
+
+            -   Also clashes in interests between short-term and
+                longer-term investors
+
+        -   *Financial accounts*
+
+            -   Valuing negative (and positive) externalities - shadow
+                pricing - to ultimately incorporate in business balance
+                sheets.
+
+            -   Case example - PUMA
+
+        -   **Coalitions and declarations of financial institutions**
+
+            -   *Natural capital declaration*
+
+            -   40+ financial institutions collaborate to - increase
+                awareness - develop methodologies - build consensus for
+                private sector accounting and integrated reporting
+
+        -   **Corporate assessments**
+
+            -   Natural capital coalition
+        -   **Corportate reporting & disclosure**
+
+    -   **Types of investments**
+
+        -   *Impact investment*
+
+            -   Investment to try and have a positive impact
+
+            -   Often local initiatives
+
+            -   *Oryx ipact investments* as an example
+
+        -   *Eco-friendly loans*
+
+        -   Insurance
+
+            -   Climate change may results in higher home issurances
+        -   Green bonds (as a new market)
+
+            -   To what extent are "green bonds" something new (a new
+                standard) and to what extent is it a new terminology.
+
+            -   Unilever green bonds - assessments - DNV (VERITAS) and
+                MCI (kicked it out of green index)
+
+            -   Everybody sees opportutnities in green bonds - everybody
+                wants to make sure they are actually green - investor
+                has no chance - legislation is lacking behind.
+
+            -   SEB has reached out to SEI to make sure green bonds are
+                green
+
+            -   Mr Green Bond @ SEB
+
+            -   In 2013 the total cumulative issurance rose to 19 bill
+                USD
+
+            -   In 2014 SEB issed green bonds at a total value of 3.8
+                bill USD
+
+            -   Case ørebro municipality, stockholm län, gothenburg city
+
+            -   The green bond market has not increased the size of the
+                environmental projects
+
+            -   Instead, the green bond market bundles together all the
+                green projects inorder to diversify the portfolio of
+                lenders
+
+            -   *Key features*
+
+            -   Transparency
+
+            -   Reporting
+
+            -   Third party verification
+
+            -   Green bonds also usually has a slightly lower interest
+                rate
+
+            -   *Government bonds implicated*
+
+            -   E-risk report by the Global Footprint Network
+
+            -   Ecological footprint balance affects import-export
+                balance and the abiility to generate income to pay
+                interests
+
+            -   Financing direct positive impact
+
+    -   **Financial agents of change**
+
+        -   *Research questions* What is the sustainability potential
+            and impact of different types of owners and agents.
+
+        -   *Cases*
+
+        -   **How can FIs contribute**
+
+            -   A long list (get slide)
+        -   Venture capitalists
+
+        -   MDB - Multilateral development banks - case of IFC
+
+            -   Performance standards - has had huge impact huge impact
+                on how projects are financed.
+
+            -   Standards updated January 2012
+
+            -   Equator principle bank finance
+
+            -   Trained by IFC after update
+
+            -   70 %
+
+            -   Because of the update, things changed.
+
+            -   Bulk of work - finance for large-scale infrastructure
+                projects - find percentage of spending going to
+                infrastructure vs sustainable development projects -
+                find on websites. Incorporate considerations of the
+                natural environment earlier on, not as a last check.
+
+            -   WAVES project - helps countries account for natural
+                capital. Should facilitate better decisions in foreign
+                direct investments.
+
+            -   Should influence "Country assistant strategies" which is
+                the first stage of the planning cycle of the World Bank.
+
+            -   Does WAVES influence CAS
+
+        -   Partnerships between non-profits and FI's
+
+            -   Natural Capital Declaration - three year old initiative
+
+            -   Not financed by the FI's themselves.
+
+            -   Now signatories have to pay fee
+
+        -   SEC - Securities and Exchange Commission
+
+        -   Stock Exchanges - different rules and regulations - are
+            there first mover examples
+
+        -   MSEI - Index provider - do lot of interesting things
+            internally when it comes to sustainability.
+
+        -   Universal owners
+
+            -   very big institutional investors - national banks,
+                national pension funds etc. etc.
+
+            -   How can *universal owners respond* - universal owners
+                have interest in whole system rather than short-term
+                performance of individual market actors. (Achim Steiner,
+                UNEP Executive Director)
+
+            -   Logic: Universal owners should avoid systemic risk.
+
+        -   Global clusters of innovation
 
 -   **notes for integration**
 
@@ -1753,8 +2088,8 @@ Perspective \* From green accounting to national accounts revisions
 
 #### Title:
 
-*Blind spots: Gaps and recent progress in linking real world economics
-and sustainability science*
+-   Blind spots: Gaps and recent progress in linking real world
+    economics and sustainability science\*
 
 <br><br>
 
@@ -1838,7 +2173,8 @@ countries in affecting foundational aspects of a sustainable future?
 
 <br><br>
 
-**Sustainable income distributions (an area of recent progress?)**
+**Socio-environmentally sustainable income distributions (an area of
+recent progress?)**
 
 *Research question:*
 

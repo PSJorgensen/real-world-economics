@@ -1,0 +1,1972 @@
+---
+title: "Real-world-economics-draft"
+category: real-world-economics
+date: "Tuesday, May 26, 2015"
+output:
+  html_document:
+    number_sections: yes
+    theme: default
+    toc: yes
+    toc_depth: 3
+  md_document:
+    dev: png
+    toc: yes
+    toc_depth: 3
+  pdf_document:
+    latex_engine: xelatex
+    number_sections: yes
+    toc: yes
+    toc_depth: 3
+  word_document:
+    reference_docx: template.docx
+layout: post
+tagline: Outlining an ms
+tags:
+- outline
+- real world economics
+- economics
+- sustainability
+- sustainability science
+bibliography: PostDocKVA2.bib
+---
+{% include JB/setup %}
+
+
+
+
+
+# MS outline
+
+## Introduction argument
+
+1. Sustainability science is evolving and must integrate advances from the interdisciplinary as well as the disciplinary realm
+
+2. Globalization and financialization of the global economy means sustainability science cannot ignore, but must fully integrate with real world economic phenomena of the anthropocene. These phenomena are likely to play an increasing role in linking socio-ecological systems across the globe and the likelihood of communities to undertake a sustainability transformation. Integrating with these topics will bring sustainabililty science closer to realizing its multidsciplinary vision and improve the relevance of research findings for understanding global dynamics and sustainable development including societal transformations for sustainability.
+    
+3. Based on an overview of important economic phenomena of the anthropocene and their socio-ecological relevance, we' provide a simple conceptual framework to understand the socio-ecological dynamics in the financialized global economy. This framework is illustrated with examples of areas that need rapid integration in order to inform the global sustainability transition.
+
+-------
+
+## Aims
+
+- The manuscript aims to advance the study of the sustainability transition of the global socio-ecological system through integration of economic phenomena of the anthropocene (so called "real world economics")
+
+- The manuscript will highlight examples from generally overlooked economic phenomena in need of integration (so called blind spots) and search for three characteristics within them:
+
+    - the degree of relevance of blind spots for the sustainability transition illustrated by their socio-environmental consequences.
+
+    - examples of successful integration from within this generally overlooked phenomena into sustainability science (so called bright spots of integration)
+
+    - opportunities for integrating advances (especially empirical) from the more disciplinary research fields into sustainability science (so called disciplinary bright spots, whether socio-environmental or not yet environmental)
+    
+- Finally, the manuscript will based on the identified areas and highlighted examples end by giving suggestions for how to advance integration of blind spots into sustainability science in the future, e.g. through increased outreach to disciplinary communities.
+
+-------
+
+## Type of manuscript
+
+- Perspective and opinion manuscript (e.g. ~ 2000-4000 words).
+
+- Based on selective review of chosen topics in sustainability science journals and the disciplinary literature.
+
+- Combining overview of advances by empirical case studies and introduction of a conceptual framework for integration in sustainability science.
+
+- Example target journals:
+    1. PNAS
+        - Perspective (varies in length e.g. between 1600-7000 words)
+        - Contact editor with proposal
+    2. Global environmental change (IF 6, no specific types of manuscripts)
+    3. Sustainability science (IF 3.37, types: article, review, overview)
+    4. Ecology and society (IF 2.669)
+    5. Anthropocene or anthropocene review
+    6. Frontiers in ecology and environment (too ecological?)
+    7. Bioscience (too ecological?)
+
+
+
+-------
+
+## Three suggested general blind spots and arguments for inclusion
+
+- Unaccounted economic flows
+
+    - While trade is now routinely seen as an economic activity that telecouples distant socio-environmental systems other, often unaccounted for, economic flows may be just as important telecouping agents - e.g. migrant remittances, illicit drugs, arms and wildlife trade.
+
+- Financial dynamics and innovation
+
+    - Financialization of global society is the most recent stage of the globalization process. It means that finance takes up a larger proportion of many national economies. Financial dynamics impacts socio-ecological dynamics far apart. At the same time what is the potential for innovation of financial instruments for sustainability.
+
+- Democracy and inequality in the green transition
+
+    - Inequality is back at levels of the beginning of the 20th century and has seen increased attention from disciplinary research since the great recession in 2008. Sustainability science could benefit by building on this increased focus from a wide variety of disciplinary research fields.
+
+----------
+
+## Suggested focal areas within the general blind spots
+
+- Socio-environmental effects (such as telecoupling) from unaccounted economic flows
+    - Cases:
+    - Migration and remittance flows
+        - Remittances and institutional innovation and online banking, e.g. micro loans
+    - Drug, arms and illegal wildlife trade
+
+
+- Socio-environmental effects of financial investor behavior and financial innovation
+
+    - Financial dynamics:
+        - Cases:
+        - Role of index investors in the food price spike in 2008/2009, 2011/2012 and contribution to the Arab uprisings
+            - Empirical econometric evidence suggesting investors contributed to driving price increases
+        - Socio-environmental effects of "keystone"" economic actors in the global network of coorporations
+            - Marine keystone actors
+            - Determinants of fertilizer prizes and environmental consequences
+        - Socio-environmental effects of sovereign defaults
+            - Still have to find cases
+
+
+    - Financial innovation as a doubled edged sword - regulatory escape or innovating for sustainability
+        - Suggested cases:
+        - Small scale financial instruments (micro-finance) - e.g. farmer insurance of crops
+        - Effect of small scale regulatory changes - e.g. World Bank reformed guidelines
+        - New instruments with missing standards - e.g. Green Bonds market
+
+
+- The green democractic transition - effects of inequality and concentration of wealth in the anthropocene
+    - Cases:
+    - Global context: Stalled global environmental negotiations and inequality - e.g. climate negotiations
+    - National:
+        - Voting behaviour of elected representatives in economies with high inequality
+        - Regulators dilemma and environmental regulation & enforcement - e.g. offshore drilling, wildlife protection act and others
+        - Media ownership and coverage of the sustainability transition - are populations more aware about the transition in countries with more diverse media ownership?
+    - Local: Inequality and mental health and well-being
+        - Can poor mental health and well-being in e.g. competitive enviornments undermine a green transition? Is it a precondition for the green transition?
+        - Cases: Whitehall I and II studies, public health and inequality research, biodiversity decline and inequality research 
+        
+
+
+----------
+
+
+## Suggested co-authors (alphabetically) and suggested areas of attention
+
+- Anne-Sophie (ties to economics)
+- Daniel (especially migration and land systems)
+- Garry (inqueality, good/bad anthropocene context)
+- Peter (macro-socio-ecological perspective on all examples, coordinating the write up)
+
+Also (if interested):
+
+- Calle (keystone financial actors)
+- Gretchen (natural capital and financial innovation)
+- Victor and Cecilia (financial innovation)
+
+
+
+
+<br><br>
+
+----
+
+----
+
+----
+
+<br><br>
+
+
+
+# ms overview
+
+- Title: Speeding up the sustainability transition through integration real world economic dynamics in socio-ecology/sustainability science
+
+- Main sections:
+
+- Intro
+    - Privatizing the benefits and socializing the losses
+
+- Real world economic actors framework
+
+- Priority areas for integration
+
+    - Global economic flows and agents and socio-ecological dynamics
+        - Global reach and implications of "keystone"" economic actors
+            - Cases:
+            - Global network of coorporations
+            - Marine keystone actors
+            - Fertilizer prizes
+        - Speculation and consequences of erratic market dynamics
+            - Cases:
+            - Speculation and food prices spike in 2008/2009, 2011/2012
+        - Illicit economic flows and socio-ecological systems effects
+            - Cases: (Size and consequences of)
+            - Drug trade
+            - Migrant remittances
+                - Remittances and institutional innovation and online banking
+                    - Micro loans
+            - Illegal wildlife trade
+
+    - Ignoring concentration of wealth and inequality in the sustainability transition
+        - Democracy and inequality
+        - Global inequality
+            - Case: Climate negotiations
+        - Concentration of ownership
+            - Cases:
+            - Voting behaviour in economies with high inequality
+            - Regulators dilemma and the local and regional transition
+            - Media ownership and coverage of the sustainability transition
+        - Inequality and mental health and well-being
+
+    - Financial innovation as a doubled edged sword
+        - Regulatory escape or innovating for sustainability
+            - Cases:
+            - World Bank reformed guidelines
+            - Green Bonds
+            - Small scale farmer insurance of crops
+
+- Ms format and target journals:
+    - Format: Perspective or overview article combining advances by empirical case studies and introduction of conceptual framework.
+    - Target journals:
+    1. PNAS
+        - Perspective (varies in length e.g. between 1600-7000 words)
+        - Contact editor with proposal
+    2. Global environmental change (IF 6, no specific types of manuscripts)
+    3. Sustainability science (IF 3.37, types: article, review, overview)
+    4. Ecology and society (IF 2.669)
+    
+    5. Frontiers in ecology and environment (too ecological?)
+    6. Bioscience (too ecological?)
+
+
+
+<br><br>
+
+----
+
+<br><br>
+
+
+
+# TITLE
+
+Speeding up the sustainability transition through integration real world economic dynamics in socio-ecology/sustainability science
+
+# 0. ABSTRACT
+
+
+
+*notes*
+
+* Previous research has asked "what is sustainability science?". Here we ask this question in relation to economics and finance where sustainability science has had a driving role in addressing some important questions, while it has been slower to pick up on others. We argue for a sustainability science that builds on its success to integrate and address a broader set of novel findings and questions relating to economics and finance. 
+
+* We highlight recent advances from areas where sustainability science has had a driving role in generating progress such as in accounting for natural capital, socio-environmental impacts of global trade and some partial advances in inequality research.
+
+* We build on these advances to highlight prospects for further integration of topics in economics and finance, where recent findings may help pave the way for uptake by sustainability scientists. These topics iclude further aspects of inequality, key actors in the global markets; socio-environmental implications of financial market dynamics including licit and illicit financial flows; and evaluating financial innovation as a dual strategy for increasing sustainability outcomes and avoiding regulation.
+
+* General characteristics of these areas include sometimes uncomfortable, but very important research questions about the role of power, corruption, financial capital and large private actors.
+
+* Integrating with these topics will bring sustainabililty science closer to realizing its multidsciplinary vision and improve the relevance of research findings on global dynamics and sustainable development including societal transformations for sustainability.
+
+
+# 1. INTRODUCTION
+
+1. Sustainability science is evolving and must integrate advances from the interdisciplinary as well as the disciplinary realm
+
+2. Globalization and financialization of the economy (Epstein ch. 1, [@Clapp2015]) means sustainability science cannot ignore real world economics
+    
+    - Continuing stages and trends of globalization from the 20th century - increasingly strong interconnections
+    - Financial dynamics should explain a larger proportion of global sustainability dynamics
+    - Financialization and financing for development
+    
+3. Areas of sustainability science has advanced economics science, including integration of natural and social capital in decision making and macroecocnomic indicators.
+
+4. Some progress being made in addressing these questions in sustainability science, but they can be sped up 
+
+5. We provide a simple conceptual framework to understand the socio-ecological dynamics in the financialized global economy. This framework is illustrated with examples of areas that need rapid integration in order to inform the global sustainability transition.
+
+
+
+<br><br>
+<br><br>
+<br><br>
+
+*notes*
+
+
+
+***Importance of economic dynamics for the earth system and global sustainability***
+  
+* Human economic activitiy has a deciding role for the future of our planet. Yet some may argue that economics out of the three pillars of sustainability development - the social, the economic and the environmental - is the pillar least integrated in current approach to sustainability science.
+    
+* The human economy is a driving factor of biodiversity loss and climate change. At the same time, global economic inequalities themselves can be viewed as one of the greatet barriers for addressing global environmental and socio-economic challenges.
+    
+* At the same time Growth in human population and the economy are two trends that epitomizes the current environmental challenges of biodiversity loss and climate change and improvementes in living standards in many countries that have undergone economic growth in the 20th and 21st century. Associated with these trends is the dilemmas of global equity on a finite planet, including the question of whether countries with large economic prosperity need to consume less to allow the developing countries to achieve similar living standards.
+  
+* In this context, understanding how the economy is linksed to the environment and to social aspects of society is of foundational importance for the science of global sustainability.
+    
+* It is therefore concerning that scientific fields of the three pillars of sustainability are still only connected to a very limited extent. In particular, the field of economics and finance remains the pillar most poorly addressed by sustainability science [**REF**]. This is of great concern for the prospects of sustainable development guided by sound advice from the scientific community.
+    
+* To address the need to integrate economics and finance better with sustainability science, in this Sustainability Science perspective we highlight two areas of importance:
+    
+    1) recent advances in integrating economics into sustainability-oriented sciences.
+        
+    2) major gaps for integrating economic into sustainability-oriented sciences.
+
+
+<br><br>
+
+
+***A brief history of sustainability science - what concepts has been important for SS***
+
+* Sustainability science emerged as a unified discipline in the beginning of the 21st century [@Bettencourt2011]. Before and after its unification, contributions to sustainability science has mainly come from three broad fields, the social sciences, engineering and the biological sciences  [@Bettencourt2011].
+    
+* Contributions from these fields have mainly come from a small number of disciplinary clusters. For example, contributions from engineering has mainly come from systems and complex engineering and research. Contributions from the biological sciences have mainly come from the field of ecology with contributions to bidodiversity and ecosystem services. Similarly in the social sciences, contributions have not been evenly distributed across the field.
+    
+* *Maybe describe more here some of the important concepts of sustainability science - but may be too redundant for the type of article.*
+    
+* The contribution of the social sciences has remained fairly constant over time, but increased slightly since the unification in 2003 [@Bettencourt2011]. 
+
+* *Key papers*
+        * Future challenges, Charles Perrings PNAS 2007
+            * "Although both economics and ecology are still full of examples of disciplinary myopia, the integration of the disciplines through such ventures has generated more flexible and adaptive solution to both the management and the science of common-pool environmenta resources (12, 13). "
+        * Evolution of sustainability science
+        * Beyond panaceas
+        * Science Magazine, Introduction, Sustainability Science paper, Kates and ...
+        * William C. Clark and Nancy M. Dickson - Sustainability science: The emerging research program -PNAS 2003 
+
+
+
+<br><br>
+
+
+***History of economics and sustainability science - what generally characterizes the research questions that have been taken up?***
+
+* Sustainability science has been succesful in addressing a number of economic issues. These include the interactions between the natural resource base and human income, such as Sub-saharan African exceptionalism in world poverty and the role of deprived natural resources, ethnic diversity, inequality and institutions in keeping many people caught in a "poverty trap" [@Kates2007]. Another area of economics that have been advanced by sustainability science is the operationalization of ecosystem services (or natural capital) valuation [@Daily2008], both through national statistical accounting schemes [@Maler2008}, now mandated by the OECD under the termninology of green accounts, and, through on-the-ground ecosystem service based governance through actions spanning from the community level [@Cowling2008] to the national level [@Liu2008].
+    
+* The above two examples serve to illustrate that sustainability science' occupation with economics has mainly followed **two** pathways. (1) The role of disparity and central mode of human income and its interactions with the environmental system and the social effects it brings with though complex feedback loops. (2) Valuation of earths natural capital and operationalizing local and national governance schemes of these assets.
+    
+    
+
+<br><br>
+
+
+
+***History of economic and sustainability science - what generally characterizes some of the research questions that hasn't been taken up?***
+
+* Other economics-related research questions have barely been addressed by sustainability science (*at least when judging by the content published in the xxx number of articles under the sustainability science label in PNAS). Some of the most notable areas of omission appears to be the role of international licit and illicit financial capital flows and trade for sustainable development, and the role of financing and key-financial players in ensuring democractic or other political sustainablity transitions.
+    
+* Is this because sustainability science is naive to the role of money in decision making?
+    * We can not rule out this explanation, however sustainability science has dealt with issues of corruption in e.g. developing countries.
+
+* Is this because these branches of research are less well developed in economics and finance?
+    * Doesn't seem likely since sustainability science has taken on other areas of research that have only recently emerged or been limited to small communities.
+
+
+
+
+<br><br>
+
+***Recent history of decreasing diveristy of economics and relations to other disciplines in terms of sustainability related questions***
+
+* The fields of economics and finance research have changed over time. In particular, recent contributions document how the economical sciences during the 20th century underwent a continuing decrease in the diversity of research questions and methods being used [@Colander2005].
+    
+* *What about the recent history of finance research? Find some references to document this.*
+    
+* Recently, and partially fuelled by the financial crises of the 21st century. There has been a concerted effort to re-energize the field of economics with a return to a more diverse set of approaches and questions. It remains to be shown, however, if the recent changing dynamics of economics research will also lead to an uptake of sustainability related questions.
+
+* In recent decades many of the economical questions most pertinent for global sustainability have been addressed in communities that are only tangentially connected to the core fo economics research and in some cases arguably more closely connected to sustainability science. These include, the investigation of the material foundation and material limits to economic growth [club of rome ref, @Brown2014; @Burger2012; @Burnside2012], the valuation of natural capital [Costanza and Daily refs], the global structure of the economy  [@Lenzen2012], the impact of economic activies, such as trade, on the environment and vice versa [natural resources refs],**xxx**, **xxx**, **xxx**.
+    
+* In the meantime, sustainability science must actively seek to integrate with those communities that address questions of economics and finance most pertinent to global sustainability.
+
+* *Mention somewhere that the economical sciences have gone through a phase of decreasing diversity. A diversity that is now returning following the prolonged financial crises of the United States and Europe. Sustainability science can play an important role in maintaining this diversity by more fully integrating with some of the emerging branches of research.
+    
+
+***History of the ecosystem services and natural capital concept***
+
+* The ecosystem services and natural capital concepts evolved out of other related concepts in the 1980's linked to the "land economy" and were mainstreamed in particular through the Millennium Ecosystem Assessment published in 2005 [@MillenniumEcosystemAssessment2005]. From a historical perspective [@GomezBaggethun2010] "the trend towards monetization and commodification of ecosystem services is partly the result of a slow move from the original economic conception of nature's benefits as use values in Classical economics to their conceptualization in terms of exchange values in Neoclassical economics". This trend has led to debate over whether the use of the concept in its current form would stall aims of conservationists [@Norgaard2010; @Norgaard2008]. The contrary argument sees the benefit of co-existence and exchange between a diversity of concepts and approaches, including both traditional biodiversity conservationist and newer ecosystem service or natural capital based apparoaches [@Tallis2008; @Reyers2012; @Reyers2012a].  The main feature of the inclusivity argument is that the diversity of concepts are needed to interact with as many stakeholders as possible for the parrallel pursuit of conservation and enviornmentally sustainable economic development [@Tallis2014].
+
+Gomez-Baggethun [@GomezBaggethun2010] in his review concludes that the focus on monetary valuation and payment schemes related to the ecosystem services and natural capital communities  has indeed contributed to attract political support for conservation. At the same time "*a growing number of ecosystem services may have been commidified and the Neoclassical economics paradigm and the market logic to tackle environmental problems*" amplified.
+
+* Payments for ecosystem services [e.g. Kelsey Jack et al. 2008 PNAS]
+
+
+***Global economic dynamics in natural capital and ecosystem services***
+
+* In 2014 [@Costanza2014152] estimated the annual monetary loss of ecosystem services from land use change between 1997 and 2011 to range between 4.3 to 20.2 trillion USD.
+
+
+
+
+***Recent impact of the ecosystem services and natural capital concept***
+
+* A lot of progress has been made since the inception of ecosystem services valuation in the *XXXX*. Notable progress, includes the inception of the Intergovenrnmental Platform on Biodiversity and Ecosystem Services [@Diaz2015]. Political attention to global sustainability and the unsustainable dynamics of current measurements of economic growth has facilitated international research progress on integrated measures of growth, such as the Genuine Progress Indicator [@Costanza2014]. Such integrated indicators of social, environmental and economic progress are now being suggested as indicators for the UN Sustainable Development Goals [@Costanza2014].
+In 2015 all OECD countries will adopt mandated green accounting systems (**REF**). The InVest tool developed to incorporate natural capital into decisions, is now *GIVE EXAMPLES OF NOTABLE USE*.
+
+
+
+<br><br>
+
+***Global trade and the telecoupling of socio-environmental dynamics***
+
+* Leontief 1970 envisioned national accounting as a way of measuring the impact of economic activities and human consumption on the environment. With recent progress in accounting for resource use in globalized production and consumption chains using global multi-regional input-output models (MRIOs) to link together resource extraction, import, consumption and exports in national accounts [@Lenzen2012a, @Lenzen2013, @Lenzen2014]. Early phases of that vision is now being implemented in a number of ways. By associating the MRIO with enviromental and social variables (so-called satellite variables), environmentally and socially extended MRIOs are produced that allow to assess the environmental and social interlinked impacts of global ecnomomic activity [e.g. @Wiedmann2013, @Lenzen2012; @Marques2012].
+
+* Early assesssments of long-standing economic hypotheses such as the Environmental Kuznets Curve and the paradigm of relative and absolute decoupling have been compromised by not acccounting for resources used in foreign contributes in the production of commodities consumed domestically. Still challenged a need to interpolate large amounts of missing data, the model provides a significant advancement in order for sustainability scientists to assess the degree to which relative and absolute decoupling is being reach in the globalized economy Wiedmann 2012, whether an Environmental Kuznets Curce really does exist,  assess the domestic economic, environmental and health impact of pollution attributed to commodities that are being consumed in foreign countires [@Marques2012], and similar how global trade drives biodiversity threats in the developing countries [@Lenzen2012]. One of the latest applications of this methodological advance will be a dataset on the value added to national economies by trade to be released by the United Nations Conference on Trade and Development (http://unctad.org/). The dataset provides a new opportunity to assess and evaluate **...XXX**. These assessments have fundamental value for sustainability science as they answer basic questions about future paths for human development and the sustainability of current economic paradigms.
+
+    * *References and notes to integrate*
+        * [@Lambin2011] Globalized trade have increased pressure to convert forest to cropland. Some countries have managed to circumvent this pressure and increased forest area and agricultural production simulatneously.
+        
+        * Leontief, W.; Ford, D. Environmental repercussions and the economic structure: An input-output approach. Rev. Econ. Stat. 1970, 52 (3), 262???271
+
+        * Leontief, W. An information system for policy decisions in a modern economy. In Input-Output Economics; Oxford University Press: New York, 1986; pp 418???428.
+
+        * Leontief, W. Structure of the world economy. Am. Econ. Rev. 1974, LXIV (6), 823???834.
+
+        * Local impacts of trade and financial markets: Economic change effects on land use change (", a recent doubling in commodity prices has created incentives for landowners to convert grassland to corn and soybean cropping") [Wright and Wimberley, PNAS 2013] and (Lybert et al. 2011 PNAS - booming markets for Moroccan argan benefits some rural househols but threatens endemic forests)
+
+        * Trade and emissions [e.g. China's international trade and air pollution in the United States, Lin et al. 2014 PNAS] and Lenzen and Wiedmann studies. [i.e. consumption based accounting of official trade statistics]
+        
+        * Globalization of the economy - increasing teleconnection of environmental impact to local markets given trade (and transportation)
+        
+        * E.g. Berkes 2006 - Globalization, Roving bandits and Marine Resources [@Berkes2006] - emergence of sea urchin fisheries as local fisheries declining.
+            
+        * Expansion of live reef fish trading a resource mainly intended for high-end luxurious restaurants [@Scales2006].
+
+<br><br>  
+
+<br><br>
+
+<br><br>
+
+
+<br><br>
+<br><br>
+<br><br>
+
+# 2. AGENTS AND PHENOMENA FRAMEWORK
+
+1. Overlooked phenomena - everywhere and somewhere(???)
+
+- role of capital
+- is sustainability science overly shy of conflict?
+- is sustainability shying awayb from every day discussions aboud, ownership strucutre, concentration of wealth and inequality?
+- some of the phenomena of the real world economy are being addressed more often in the developing countries than the developed countries
+- while statistics support that overt corruption is more common in less-developed countries a comprehensive and value netural approach by sustainability science would inlude these phenomena also for developed countries
+- this is made ever more important by the fact that new sustainable development goals will apply to both developed and developing countries
+
+
+* Table 2 - economic actors framework
+
+phenomenon | example | illicit |
+-------|-------|-------|
+inequality |  |  |
+concentration of wealth |  |  |
+corruption |  |  |
+regulator's dilemma |  |  |
+regulatory capture |  |  |
+financial instruments |  |  |
+financial markets |  |  |
+absence in global dynamics |  |  |
+
+
+2. Overlooked flows and agents
+
+* Table 2 - economic flows and agents
+
+**Economic actors, flows and phenomena linked to the formal and informal economies at various spatial scales.**
+
+actors | licit | illicit |
+-------|-------|-------|
+finance | investments by banks  and in bonds | money laundering |
+global actors | direct land investment (land grabs) |drugs / arms / mafias / ??range?? |
+individual agens | remittances | illegal migrants & "evaders of the state"|
+
+
+
+
+# 3. PRIORITY AREAS FOR INTEGRATION
+
+## 3.1 Global economic flows and agents and socio-ecological dynamics
+
+### 3.1.1 Finance, speculation and socio-ecological consequences of global market dynamics
+    
+
+#### 1.0 Speculation and food prices spike in 2008/2009, 2011/2012
+
+
+* *notes*
+
+    * The great recession of 2008 and the prolonged recession in Europe have been two of the most influential events on western hemisphere policy in the 21st century. Both recessions were partially caused by the influence of increasingly complex financial system on commodity prices such as housing prices and even national savings (Greece) [find articles on investment in the national savings of Greece, Italy and Spain **REFS**]. The impact of the following economic downturn on important environmental policies such as energy investments can be seen e.g. in many nations decision to explore options for liquified shale oil and natural gas and lowered ambitions in national and supra-national plans of transitioning to renewable energy sources [**REF**].
+
+    * Increasing investment in food commodities from index investors in 2007 may have exacerbated the spikes in food prices in 2008 and 2011 and consequently had a role in the social unrest that these price rises helped unleash (**Christopher Gilbert GEDB seminar 150424 - Index investor activity increased before price spikes**).
+
+        
+    * The integration of financial market dynamics and complexity with sustainability science is an important agenda to ensure a more resilient and holistic response to such events.
+        
+    * Examples of remaining research questions with regard to the financial crisis are:
+        * What have socio-environmental impacts been of the food price increase on other continents?
+        * Can key trends in environmental and social degradation or improvement be traced to events relating to the financial crisis.
+        * How do other actors respond to financial crisis. Do they e.g. learn to anticipate negative impacts from prolonged recessions caused by financial market complexity?
+
+<br><br>
+
+#### 1.1 Foreign direct investment and socio-ecological dynamics
+
+<br><br>
+
+* *notes*
+
+    * One result of the change in global economic dynamics in 2007 and 2008, specifically the increase in food prices from 2007 to 2011, was an increase in foreign dircet investment in land areas and their natural resources such as water, also known as land and water grabbing [@Arezki2013]. These investments are have significant implications for nation with sales sometimes amounting to more than 100 % of a countries cultivated area, such as in the case of Liberia, and buys amounting to more than  100 times the production capacity of very small nations such as Singapore [@Rulli2012]. [@Weinzettel2013] have shown that more affluent countries invested more in foreign land relative to the land they had available for production and as such seemed economically privileged to choose to place the ecological impact of food production. While these investements have been encouraged in reports by institutions such as the World Bank (**REF**), the chief critique of foreign-direct investment in land is that it may encourage farming practices that provide less benefits for domestic poverty alleviation and the increased exposure of sellers to the effects of foreign financial shocks [@DeSchutter2011].
+
+<br><br>
+
+#### 2.0 Socio-ecological consequences of national bankruptcies (sovereign defaults)
+
+
+* *notes*
+
+* Market dynamics
+
+    * Socio-ecological consequences of financial and market dynamics
+
+        * The principal agent problem
+    
+        * What are employees evaluated for and what is the goal of the institution
+        
+
+* List of sovereign defaults
+    
+    * http://en.wikipedia.org/wiki/Sovereign_default#List_of_sovereign_debt_defaults_or_debt_restructuring
+    
+    * http://en.wikipedia.org/wiki/List_of_sovereign_debt_crises
+
+        * **Latin American crises** 
+      
+            * Argentina - rangelands
+          
+            * Brazil - forest dynamics
+
+        * Somalia - cautionary tale of socio-ecological drivers of piracy in a economically and democratically collapsed state
+      
+        * Collapse of Soviet Union was associated with:
+        
+            * regime shifts in key marine systems of the Black Sea, the Baltic Sea and the XXX [@Osterblom2015]
+            
+            * collapse of protected area systems and a free market economy which escalated the decline in carnivore and ungulate mammals [@DiMarco2014]
+            
+            * "the collapse of the Soviet Union resulted in the simultaneous collapse of protected area systems, with- drawal of subsidies, and an abrupt transition to a free- market economy. Many species in the former Soviet Union, such as the saiga antelope (Saiga tatarica), de- clined substantially due to such changes (Milner-Gulland et al. 2001). We observed that several species living in that region were already declining in the 1970s, yet a dra- matic decline in their conservation status was observed from the 1990s. The net loss in RLI value from 1975 to 1985 was 0.05, but became 0.15 from 1996 to 2008 (Fig. 5c)."
+        
+        * Europe sovereign debt crisis
+        
+            * (Combination with austerity?) led to "democracies without choice" with potentially destabilizing effects [@Bosco2012]. E.g. increasing number of abstention votes.
+            
+            * "In particular, growing dependence on external lenders results in a situation where, as Krastev noted for the Balkans, 'governments get elected by making love to the electorate, but they are married to the international donors'. The result is the development of 'democracy without choices' in which citizens can change governments far more easily than they can change policies (Krastev 2002, p. 51). The likely outcome is a build-up of popular frustration with the democratic process which can only be dangerous for the future of South European democracy."
+            
+            * Toppled four democratically elected governments in core European south in a matter of five months (three within 18 days) [@Bosco2012]
+            
+            * Democracies in southern European countries not tied to the Euro fared better, while the recession in Euro countries of the south had economic spillover effects into the political realm [@Bosco2012].
+            
+            * "In contrast, in the five countries affected by the eurozone sovereign debt crisis, there was a clear spillover of crisis from the economy to politics."
+        
+        * Greece
+        
+            * "Rising wealth concentration contributed to the crisis because the increasing asset demand from the rich played a key role in the rise of the structured credit market and enabled poor and middle-income households to accumulate increasing amounts of debt. To tame the inherent instability of the current mode of capitalism it is necessary to reduce inequality."  - Sabalini 2014/2015
+              
+        * Spain
+        
+            * **Environmental impact** The privatization of the basic natural resource composed by the water system of the Metropolitan Area of Barcelona can be viewed in the context of spending required by EU water and environmental directives to improve quality of water ways and water bodies (i.e. *ecological modernization*); the consequent debt incurred in the Barcelona water agency by this spending; and the unwillingness of the international market to provide a loan to Spanish national or regional governments. [@March2013]
+                
+            * "All in all this debt-induced austerity shifts the relationship between elected and non-elected actors, and reconfigures in fundamental ways the relation between state and capital in the provision of a basic resources such as water."
+        
+    * **Health effects of global financial crisis 2008-present**
+    
+    * *Mental health* [@Wahlbeck2012], reports: Increasing suicides and suicide attempts in Ireland and England, and Greece, respectively.
+        
+        * The simple mechanism: "There is evidence that debts, financial difficulties and housing payment problems lead to mental health problems (17-19). The more debts people  have, the higher the risk of many common mental disorders (20,21)."
+        
+        * WHO reports that crisis mental-health impacts can be decreased by targeted government interventions
+        
+    * *Health and indebtedness* Indebtedness has serious health consequences [@Turunen2014]
+    
+        * "The results from our sample of 33 peer-reviewed studies demonstrate serious health effects related to indebtedness. Individuals with unmet loan payments had suicidal ideation and suffered from depression more often than those without such financial problems. Unpaid financial obligations were also related to poorer subjective health and health-related behaviour. Debt counselling and other programmes to mitigate debt-related stress are needed to alleviate the adverse effects of indebtedness on health."
+    
+    * *Health inequalities* Exacerbated health inequalities due to the European financial crisis
+    
+        * "Evidence indicates that the Eurozone crisis disproportionately affected vulnerable populations in society and caused sharp increases of suicides and deaths due to mental and behavioral disorders especially among those who lost their jobs, houses and economic activities because of the crisis. Although little research has, so far, studied the effects of the crisis on health inequities, evidence showed that the 2009 economic downturn increased the number of people living in poverty and widened income inequality especially in European countries severely hit by the debt crisis. Data, however, also suggest favorable health trends and a reduction of traffic deaths fatalities in the general population during the economic recession. Moreover, egalitarian policies protecting the most disadvantaged populations with strong social protections proved to be effective in decoupling the link between job losses and suicides." [@DeVogli2014]
+
+
+* Lists of stock market crashes and corporate crises and scandals
+
+    * http://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets
+
+        * Asian financial crisis - international liberalization of domestic markets without regulation led to bubble and crisis [@Wade1998]
+        
+            * "interests driving capital account liberalization without a framework of regulation, the single most irresponsible act of public authorities in the whole crisis. US and UK financial firms, allied with their treasuries and with the IMF, the WTO, and the OECD, saw themselves at a chronic disadvantage in the Asian system of long-term relationships and patient capital. This alliance, supported by segments of Asian political and financial elites, achieved dramatic domestic financial sector liberalization and capital account opening in Asia over the 1990s, setting up the conditions for crisis."
+    
+    * http://en.wikipedia.org/wiki/List_of_corporate_collapses_and_scandals
+
+<br><br>
+
+### 3.1.2 Global reach and implications of "keystone"" economic actors
+    - Cases:
+    - Global network of coorporations
+    - Marine keystone actors
+    - Fertilizer prizes
+
+<br><br>
+
+* *notes*
+
+* *Impact of ownership structures and financial corporations on global sustainability (key players)*
+    
+* A recent study have documented that a small number of financial institutions play an important role in linking the global economy together [@Vitali2013]. What are the implications for global sustainability of such hyper connectivity?. Can the concepts of key-stone species, for example, be transferred to financial capital holders, and does this concept also apply to the socio-environmental effects of actions taking by the financial actors. Ongoing research are just starting to investigate such questions in the marine realm [*get Calle, JB and other SRC folks to fill in here*]. Similar research could be taken on in the agricultural and silvicultural realms with regard to land-use change etc.
+
+* **Fertilizer prices** is one case where prices may be controlled by a cartel-like ownership structure and could be a terrestrial model for the key-financial actors model (**Christopher Gilbert GEDB seminar 150424**). **[@Ott2012]** "Torero (2011) examines the market structure and shows that the fertilizer industry is a global one with a high level of concentration." **[@Hernandez2011]: "The results of the study indicate that the fertilizer industry is a global market with high levels of concentration and increasing trade. The top five countries control more than 50 percent of the world's production capacity for all major fertilizer products. There is also a high level of concentration at the country level among the major producing countries, except for China. The high and increasing levels of trade in the industry are evident from the higher dependence of several regions on imported fertilizer." "*It appears that despite the high levels of concentration in the industry, prices are even higher in further concentrated markets due to the apparent greater market power enjoyed by a couple of firms*."
+
+<br><br>
+
+
+### 3.1.3 Socio-ecological effects of unaccounted flows
+    - Cases: (Size and consequences of)
+    - Drug trade
+    - Migrant remittances
+    - Illegal wildlife trade
+
+
+
+
+<br><br>
+
+*notes*
+
+
+* ***Social and enviromental impact of financial transactions***
+        
+* **Institutionalized**
+
+* With increasing complexity of financial markets, impacts of capital flows are in a manner similar to impacts of production and consumption in globalized supply chains becoming harder to track. Are international financial transactions playing important roles in determining social and environmental outcomes in regions where they flow from, through and end-up. Are these outcomes positive or negative for global sustainability?
+
+* **Foreign economic impact of three types of financial transactions** 1) Aid, 2) Direct investment, 3) Remittances - From 1970 to 2011 [@Anwar2015] suggests that aid has the least detectable effect on per capita income in developing countires and may have a negative effect (depending on the efficiency of domestic government spending), while foreign direct investment and remittances tend to have a positive effect. *Research question for sustainability science* - What is the socio-environmental effect of these three types of financial transactions.
+
+
+* **Uninstitutionalized**
+
+* **Remittances: Transnational money transfers between migrants** "The universal phenomenon of people moving across borders contributes to the growing complexity of the globalized world. The universal phenomenon of people moving across borders contributes to the growing complexity of the globalized world" [@Orozco2013g].
+
+    * **Size of remittance flow estimates**
+    
+        * "This model estimates that $10 to $35billion was transferred through hawala per annum over those 20 years. Another method for gauging the amount of money flowing through hawala networks is to look at the value of goods misinvoiced in international exports. Edsel L. Beja Jr. [14] examines available data that reveals large trade misinvoicing between China and its trade partners. The analysis finds a net trade misinvoicing of US$ 287.6 billion between 2000 and 2005, while - **the full magnitude of unrecorded trade is estimated at US$1.4 trillion. Other estimates concerning Somali hawala place the figure at between $750 million and $1 billion US annually [11], accounting for 11 to 18% of GDP.**" [@Li2012]
+        
+        * "5% of moneyÄù flowing through underground banks, equal to about USD$2 billion" [@Li2012]
+
+
+
+
+    * **Core activity of migrants** "There are five key ways transnational engagement manifests itself in migrants‚Äô day-to-day activity. I call these the 5 Ts of transna- tional engagement: transportation, tourism, telecommunications, transfer of money and capital (including remittances, investments, and community donations), and nostalgic trade. These activities enable migrants to stay connected with their homelands" [@Orozco2013g]. *Research question for sustainabilty science: What are the socio-environmental implications?*
+
+    * **Research questions**
+    
+        * Does migrants money transfers stabilize or destabilize the global, outgoing and recipient economies? [@Li2012]
+        
+            * "the US Federal Reserve will continue to follow a policy of quantitative easing, and some of these excess dollars will flow into China and other emerging markets through alternative remittance channels. Excess liquidity may become ‚Äúhot moneyÄù that disrupts the capital market and intensifies macroeconomic instability"
+            
+            * *Economic instability pressure in China from remitance inflow* "The massive inflows of crossborder capital have had many detrimental effects in China, imposing inflation pressures, asset price bubbles, and increased pressures on monetary policy operations and foreign exchange reserve managementThe massive inflows of crossborder capital have had many detrimental effects in China, imposing inflation pressures, asset price bubbles, and increased pressures on monetary policy operations and foreign exchange reserve management" [@Li2012]. **Specifically large inflow after 2008 and 2009 as a result of quantitative financial easing in USA, Europe and Japan in response to the financial crises. From -30000 m USD in 2003 to +60000 m USD in 2009. A good case examples of global teleconnectedness not only of legal and formal financial flows, but also informal flows.
+
+    
+    * *Migrant Remittance Flows : Findings From a Global Survey of Central Banks* [@Irving2010a;@Irving2010b;@Irving2010c]
+        
+        * **challenges of monitoring**
+        
+            * "Migrant remittance inflows are better monitored than migrant remittance outflows and  recording of inflows has occurred for a longer time.1"" [@Irving2010b]
+            
+            * "banks in European Union (EU) member countries ( 16 of 35 source country respondents) are not obliged to report cross border transactions below ‚Ç¨12,500‚Äîa threshold far higher than the amounts typically sent by migrants." [@Irving2010b]
+            
+            
+ 
+
+
+<br><br>
+
+* ***Social and enviornmental impact of illicit financial transactions***
+
+* **Size of the informal/black/illicit economy**
+
+* While captial flows of the financial market may prove an important factor influencing the likelihood of sustainable transitions, much of international trade happens outside the market. For example, the international market for wildlife medicine largely occur through illicit financial transactions. Such markets and transactions may in some cases have more immediately obvious impact on socio-environemntal sustainablity. For example, the negative impact of such trading on threatened species, sometimes appearing on the brnk of extinction, is well-documented through declines in e.g. elephants and rhinos in Africa. Tragically, from trophy hunting it has been shown that increasing rarity of hunted species may only increase the exclusiveness, price and demand for their derived products - potentially leading to a self-reinforcing feedback loop toward further decline [@Palazy2011; @Palazy2012]. In other cases, the effect of illicit international capital flows are much less well documented. **give examples** Thus, whether licit or illicit, untangling the teleconnected socio-environmental effects of international capital flows should be of priority to sustainability science.
+    
+
+
+<br><br>
+
+
+* **Notes for integration**
+    
+    * **Estimate size of flows**
+    
+    * **Find good cases**
+    
+        * Illicit flows from China (to Garry's hometown)
+        
+            * Partially off the books businesses moving capital out of country to obscure tracking.
+            
+            * Main investors in China are global tax havens.
+        
+    
+    * [Global Financial Integrity](http://www.gfintegrity.org/)
+    
+        * [Global Illicit Financial Flows Reports](http://www.gfintegrity.org/reports/)
+    
+    * *drugs*
+    
+        * Cocaine production World Bank report - What Do We Know
+    
+        * "Narko states" - e.g. Colombia, Mexico
+        
+            * Effects on land use change dynamics
+            
+            * E.g. Colombia, spraying fields will generate new areas with deforestation for coca plantations.
+
+    * *human trafficking* (probably treat separate from drugs)
+    
+        * immigration as a problem and a solution (not sure this fits under the header of trafficking - maybe need separate chapter on economic consequences of migration (human flows))
+        
+            * new people in countries as source of conflict
+            
+            * *ethnic diversity as a source of conflict or a sign of different cultures*
+                
+            * new people in countries as a source of innovation (*REFS from economic geography*)
+            
+            * *new economic ventures started up by immigrants*
+                
+            * immigrants in Canadian households earning more than native-born Canadians
+                
+            * interlinked-chains of skilled migrants between coupled bilateral systems (source-sink dynamics)
+                
+
+    * *family financial networks*
+
+        * Hawala
+
+        * Informal Transfer Systems - IMF report on Hawala
+    
+        * framed under a teleccoupled financial 
+
+        * **References**
+
+            * ***Do international migration and remittances reduce poverty in developing countries***
+
+            * Remittances, financial development and growth - **Highly cited paper**
+
+            * Evaluating the Economic Impact of International Remittances on Developing Countries
+
+        * possible structuring
+
+            * global markets and on the ground effects - financial flows
+    
+            * local networks and the global impact and context - most illicit flows
+
+
+<br><br>
+
+
+* **Online resources on financial flows for integration**
+        
+    * http://www.afdb.org/en/blogs/integrating-africa/post/african-regional-integration-and-the-fight-against-illicit-financial-flows-12898/
+
+    * http://www.gfintegrity.org/storage/gfip/documents/reports/gfi_africareport_web.pdf
+
+    * http://www.unodc.org/documents/data-and-analysis/Studies/Illicit_financial_flows_2011_web.pdf
+
+    * https://openknowledge.worldbank.org/bitstream/handle/10986/6719/wps4618.pdf?sequence=1
+
+    * http://www.gfintegrity.org/reports/
+
+    * http://www.gfintegrity.org/
+
+    * https://books.google.se/books?hl=en&lr=&id=CCwqWOvf9dQC&oi=fnd&pg=PR5&dq=human+trafficking+illicit+financial+flows&ots=Vm5pNT9V_4&sig=0uoR07JZjcDnayaBLfpoZ1PL9EM&redir_esc=y#v=onepage&q=human%20trafficking%20illicit%20financial%20flows&f=false
+
+    * http://www.econstor.eu/bitstream/10419/52839/1/376632771.pdf
+
+    * http://natlex.ilo.ch/wcmsp5/groups/public/---ed_norm/---declaration/documents/publication/wcms_081931.pdf
+
+    * http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2528587
+
+    * http://www.jstor.org/discover/10.2307/1123280?uid=3738984&uid=2&uid=4&sid=21106131267781
+
+    * http://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1928&context=faculty_publications
+
+    * http://faculty.haas.berkeley.edu/Dalbo/Regulatory_Capture_Published.pdf
+
+              
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+------
+
+## 3.2 Finance in the transition process
+
+- Intro: Global inequality
+    - Case: Climate negotiations
+
+- Concentration of wealth and ownership structure and transition decisions and behaviour
+    - Cases:
+    - Voting behaviour in economies with high inequality
+    - Regulators dilemma and the local and regional transition
+    - Media ownership and coverage of the sustainability transition
+    - Inequality and mental health and well-being
+
+
+<br><br>
+
+<br><br>
+
+
+*notes*
+
+***Implications of economic inequality globally, nationally and locally***
+
+Economic inequality has steadily risen to the top of politicial agenda fuelled by financial crises in North America and Euroope. Most recently it was nominated by the World Economic Forum as one of the greatest challenges of the century [@WorldEconomicForum2014]. During the past decade(s) inequality research has helped show how social and environmental sustainability is tightly linked to this phenomenon from the global level of earth system governance down to the level of the mental well-being of the individual.
+
+
+***Consequences of global inequality dynamics***
+  
+* The world is heterogenous in terms of its natural resources, biophysical conditions as well as history of human colonization and colonial history. From those first principles global inequality in terms of economic wealth, is in and by itself not surprising. 
+
+* The history of how global inequality has come to be is too rich a literature to cover in any detail here. However, the implications for global sustainability should be obvious to anyone who have followed global negotiations on any enviromental, social or economic topic.
+
+* The effort to combat climate change serves as an important lesson for all, including sustainability science, on how important historical inequalities are to take into account in any attempt of global stewardship.
+
+* Thus, historically unequal contributions to global climate change together with global economic inequality largely explains the deadlock in climate change negotiations and the global south's insistence on their rights to develop [@Timmons2001; @Blaxekjaer2014], known in UN-jargon as "common, but differentiated responsibility".
+    
+
+* A special issue on the African poverty trap in PNAS [@Kates2007] highlighted the complex interplay between ethnic diversity, natural resource endowments and the global trade system in keeping some countries seeminly trapped in poverty [@Collier2007]. Such research highlights the potential need for special regulatory interventions in the global economy [@Hyden2007] to re-level the global economic playing field. In the end, such interventions, may be crucial to speed up progress in tackling global threats such as climate change.
+
+
+
+* **Notes to integrate**
+
+    * Global inequality - Historical political ecology - is colonial history a blind spot in sustainability science?
+
+        * Henrik on Soviet Union and regime shifts
+    
+        * Mark Davis - late Victorian-holocausts
+    
+            * El-Nino, famines, and the making of the third world
+        
+        * India: Climate shocks used to be normal in India - colonialism blocked institutional adaptation - Raj - modern society - 
+    
+        * Luis et al. - mass die-offs of native americans to European settlement - onset of the Anthropocene
+    
+        * Shock doctrine and the socio-ecological as well as macroeconomic consequences today - Naomi Klein
+
+
+        * Can also add regional examples of grid-lock such as inequality within the European Union and challenges for the sustainability transition. With large inequality the poorer nations will have an incentive to stall transition policies for which they would at a disadvantage. EMU crises and inequality paper [@Bitros2014].
+        
+        * Progress in reaching MDGs is less in lower-income countries in particular countries with high burdens of HIV and Non-communicable diseases [@Stuckler2010]
+
+***National dynamics and impacts of inequality***
+
+* Just as global outcomes are highly influenced by global inequality, research is increasingly demonstrating how economic, social and environmental outcomes within nations are influenced by how wealth is distributed in society. For example, sustainability science research has focused on the need for more tightly regulating wealth in Africa to bring the country out of poverty [@Kates2007]. **Median voter theorem** However, a study from 2014 [@Gilens2014] raises the question about the influence of concentration of wealth on democracy and potential sustainability transitions also in Western democracies. Thus, Gilens [@Gilens2014] showed that "economic elites and organized groups representing business interests have substantial independent impacts on US government policy while average citizens have little or no impact", the latter observation contrary to the prediction of the median voter theorem. *The degree to which these findings can be transferred to most developed nations or in some way can be explained by macroeconomic indicators such as the concentration of wealth will have important implications for sustainability science in particular with regard to the role of democracy in models of how to achieve transitions to for global sustainability*.
+
+    * *Notes to integrate*
+    
+        * *Contrary view of large concentration of weatlh* Contrary view from Chicago School - the economic elite wants democracy and would strike a deal if they had the chance, because dictators tries to wipe out the economic elite Capital - in the Twenty-First Century - In the Rest of the World - Michael Albertus - University of Chicago.
+
+
+* **Regulatory capture** In public administration, "regulatory capture" describes the situation where regulatory institutions act in favor of the entities they are supposed to regulate instead of the public interest they have been instituted to enact [@Zinn2002, @Livermore2012]. Although the origins of capture-like regulatory behavior can be hard to identify [@Shapiro2012], regulated entities often have more financial resources available than the regulator and the job security of the regulator might in the end depend on the economic activity of the regulated. This economic inequality may present some moral challenges for sound regulatory decision-making [@Ferguson2010]. Cases where capture has been proposed to influence decision making on enviromental sustainability inlude the implementations of federal regulations such as the Endangered Species Act [@Botello-Samson2010a] and Surface Mining Act [@Botello-Samson2010] in the United States and off-shore drilling in Israel [@Portman2014] and the US [in Alaska and the Mexican Gulf @Unger2008; @Shapiro2012]. Further the regulation of Genetically Modified Organisms in the United States [@Hiatt2010; @Hosmer2013] is often contrasted with the public scepticism reflected in regulatory hesitance of GMO's and biotecnology in the EU [@Ostrovsky2007], which may partially be related to a great risk of capture in the US. A recent cross-national study found that "regulatory regimes have similar developmental patterns over time, although the time spent at each stage in the process can vary significantly according to unique domestic factor" [@Newman2014]. *Implications for sustainability / socio-ecological models?*
+
+* **Media control** The degree to which sustainability transitions have public support may depend on the degree to which the public is informed about the grand challenges of sustainability. An interesting question for sustainability science in the context of national inequality can look into the influence of the economic concentration of multimedia ownership structures and the degree to which communities locally and nationally are aware about specific and general sustainability grand challenges. (**PERFORM LITERATURE SEARCH**) The results of this line of research will in turn influence the models that sustainability science will propose for viable sustainable transitions.
+
+* Media coverage influences public behavior and vice versa. If media coverage is influenced by the owner of a given media, high concentration of media ownership can lead to over or underreporting of a given issue, lack of diversity or disinformation (also from vested interest). For example, newspaper coverage of climate change in Japan from 1998 and 2007 correlated with increased public awareness [@Sampei2009] (Global Environmental Change study). *Mass media have been critical to highlight enviornmental concerns in the past* [@Boykoff2009].
+
+* **Two general issues seems to dominate in the research literature: (1) How organizations brand themselves through media. (2) Influence on public awareness and concern of media coverage.
+
+* **Quality of reporting**
+
+    * [@Boykoff2010] found a need to increase the diversity of media framings related to how to tackle climate change beyond "climate stabilization", but did not relate this lack of diversity back to ownership structure or concentration.
+    
+    * [@Boykoff2007] *On the role of journalistic norms in decreasing information content about antrhopogenic climate change in US mass media. "consistent adherence to interacting journalistic norms has contributed to impediments in the coverage of anthropogenic climate change science. Through analysis of US newspaper and television coverage of human contributions to climate change from 1988 through 2004, this paper finds that adherence to first-order journalistic norms - personalization, dramatization, and novelty - significantly influence the employment of second-order norms - authority-order and balance - and that this has led to informationally deficient mass-media coverage of this crucial issue. By critically scrutinizing US print and television media as a 'public arena,' we improve understanding of how journalistic activities have shaped interactions at the interface with climate science, policy and the public." **Question - are these journalistic norms tied to ownership structure?**
+    
+    * *Climate contrarians* [@Boykoff2013] in Celebrity Studies: illustrate the growth pathways of climate change contrarians in US media (i.e. decrease in quality) one of which is hypothesized to be relation to the carbon-based industry: "threefold analysis: of the motivations that prop up these contrarian stances, such as ideological or evidentiary disagreement to the orthodox views of science (also known as scientific consensus); **the drive to fulfil the perceived desires of special interests (for example, carbon-based industry)**; and the exhilaration from self-perceived academic martyrdom and the more general desire for notoriety. In these ways, celebrity is a vehicle for influence, and influence is vital to decision-making within the dynamic architectures of contemporary climate science, politics and policy"
+    
+    * *Balanced reporting on consensus issues* [@Boykoff2004] GEC "the prestige press's adherence to balance actually leads to biased coverage of both
+anthropogenic contributions to global warming and resultant action".
+    
+    * *Political economy* [@Boykoff2013a] Wired "This paper addresses contemporary political economics-from greater workloads and reductions in specialist science journalism to digital innovations and new media organizational forms-as they relate to media coverage of climate change."  *decline in climate change reportint* [@Boykoff2013a] Wired "In the face of many ongoing climate science and climate-related weather events to report on, we must look for explanations for this decline in the realm of political economy." On covering global environmental issues - [@Boykoff2009] "Meanwhile, political economic forces have contributed to tremendous pres- sures on and within the news industry, where these issues have become more, not less, chal- lenging to cover."
+    
+    * *Some short-term improvements combined with persistent long-term challenges* [@Boykoff2009] "there is empirical evidence to suggest that there have been short-term improvements in media representations of environmental issues, such as more accurate coverage of anthropogenic climate change. However, over the long-term scale, many institutional challenges persist for enhanced media reporting on the environment."
+    
+
+* **Concentration and media**
+
+    * Germano shows through mathematical modelling that ownership concentration influences the tendency of media to underreport or censor issues that may influence there advertisers negatively. "Given that over half the revenues of global newspaper publishing come from advertising (80% in the US and 57% in OECD countries, OECD, 2010), we study how media firms internalize the effect of their own coverage on advertisers' sales and hence on their own advertising revenues. We show, within a framework of non-localized, Hotelling-type competition among arbitrary numbers of media firms and outlets, that (i) ***topics sensitive to advertisers can be underreported by all outlets in the market, (ii) underreporting tends to increase with the concentration of ownership, and (iii) adding outlets, while keeping the number of owners fixed, can further increase the bias**. We argue that self-censorship can potentially cover a wide range of topics and generate empirically large externalities" [@Germano2013]
+
+    * While media over the long-term have undergone a process of ownership "unconcentration", media is currently undergoing a recent trend of increasing concentration [@Vizcarrondo2013].
+    
+    * [@George2007] A study of US newspaper coverage and reporter assignment in 1993, 1994 and 2004 found that the repositioning of products during mergers and resulting concentration of ownership led to increasing variety and differentiaion in coverage. The study did not address the variety and diversification in relation to topics of sustainability or topics of interest to the ownership. The onwer's need to differnetiate its increasing number of products may therefore be the largest counter acting force to decrease in diversity or bias in reporting during increasing concentration of media ownership.
+    
+    * *Increasing concentration of ownership in Pakistan despite political and regulatory intentions of the opposite* [@Rasul2013]. There is also a study on concentration from Latvia after becoming member of the EU which does not cite the results. Also increasing concentration in Taiwan [@Chen2002]
+    
+    * [@Nash2006] in a review of pacific media coverage on environmental sustainability in relation to ownership structure fould little effect. Instead environment reporting had a "motherhood" status, which also however ruled out making any assumptions about the quality of reporting.
+
+    * Swedish case studies: "corporate voices make substantial use of environmental and ecological arguments in their strategic communication, but they provide little useful information about the company's impact and do not usually foster forms of dialogic stakeholder engagement" [@Lischinsky2014]. [@Tjernstrom2007] investigated a case study of political intention to decrease ownership of TV media with the opposite outcome for Swedish TV4
+
+    * Fortune 100 companies need to manage the information sources that there employees use to get information about their sustainability. Note: Negative implications of employer control of employee knowledge, framed as a management issue. [@Craig2013]
+
+    * *Digitalization as a driver of concentration?* [@Compaine2010] "One of Noam's final and most useful insights, coming in Chapter 19, "The Findings and the Model," is that any trend to concentration is largely the result of declining prices for media consumers. This is primarily the outcome of the digital revolution. For example, the music industry has found it hard to maintain prices and the online newspaper business is still struggling with a model for user payment. Telephone calls can be made for close to nothing using Voice over IP services. Yet the high fixed cost and low marginal costs of most information products has been a strong incentive for players to meet the price deflation challenge first by reducing costs, by attempts at product differentiation, but eventually by seeking merger or acquisition by a competitor to be able to maintain some control over prices."
+    
+    * *Number of media vs. number of source media* [@Winseck2008] The State of Media Ownership and Media Markets: Competition or Concentration and Why Should We Care? "This article presents a global overview of the state of communications media ownership and markets. The primary issue at stake is whether or not markets and ownership are becoming more or less concentrated. After reviewing contrasting views on this issue, I suggest that the question turns on whether or not we consider 'numerical diversity' (the number of channels available in any given area) versus 'source diversity' (a measure of the number of media owners in any given area). Drawing on recent data I suggest that while there is undoubtably greater 'numerical diversity', we are seeing - within countries, regionally and globally - greater concentration at the level of 'source diversity'. While new media, especially the Internet, open up unprecedented opportunities for people to access and distribute information, the emergence of a powerful nexus between both 'old' and 'new' media means that the character of media ownership and markets still matters greatly. This nexus of ownership and market power spans different segments of the media and is qualitatively different from previous times. These factors have an important influence on the evolution of media technologies and markets, the work of media professionals and the character of information and media content"
+
+    * *Research agenda:*
+        * Media ownership structures - is disinformation and public awareness about sustainability issues smaller in nations with higher concentration of wealth in media (or is it ownership structure?) 
+            * Australia - media owned by coal ownership
+            * Employment in PR industry versus journalism
+            * Role of large media corportations in demochratic sustainable transitions
+            * Communication of information about non-empowering information/news
+
+* **General importance for sustainability science** Such questions are of clear interested to sustainabliity science and research on global sustainablity. For example, what are the implications for the likelihood of sustainability transitions? If decision makers make choice in the interest of their financiers instead of in the interest of their electorate, may this either increase or decrease the likelihood and speed of sustainablity transitions wanted by the electorate? Relevant cross-country questions for sustainability science ask whether vested interests have a larger influence on the trajectory of publicly supported pathways for sustainability transitions in more unequal nations or whether these phenomena are rare unique cases or nearly universal. These recent research advances offer important specific questions for sustainability science to integrate with and more generally identifies economics research on the concentration wealth and the research on political economy as priorities for integration. *The worst case scenario for sustainability science is if inferred conclusions and proposed models are naive to the importance of these areas of economics in law, public administration, political science and communication.*
+
+
+
+***Health impacts of inequality from national to local level***
+    
+    * **NATIONAL**
+    
+    * **Internal conflict - poverty and income inequality**
+        
+        * Poverty, i.e. global inequality is a better predictor of internal conflict and insurgency than domestic inequality. [@Fearon2003] "after controlling for per capita income, more ethnically or religiously diverse countries have been no more likely to experience significant civil violence in this period. We argue for understanding civil war in this period in terms of insurgency or rural guerrilla warfare, a particular form of military practice that can be harnessed to diverse political agendas. The factors that explain which countries have been at risk for civil war are not their ethnic or religious characteristics but rather the conditions that favor insurgency. These include poverty-which marks financially and bureaucratically weak states and also favors rebel recruitment-political instability, rough terrain, and large populations."
+
+* **Regulatory capture and health** - case - the tobacco industry in middle and low income countries [@Gilmore2015]
+    
+    * *Influence of regulatory capture in trade agreements and implications for health inequality* If states do not find ways to increase their capacities then PTAs are likely to become much greater drivers of health inequities [@Walls2015].
+    
+    * Persistent inverse relatin between socioeconomic status and mortality in the USA in 1960 and 1986 [@Pappas1993]. While the over all death rate decreased i nthe period, the inverse association with income increased.
+    
+    * [@Bhandari2015] Lower ratio of dentist per population in more unequal countries could be a sign of divestment in health car in unequal countries. "This study shows an inverse relationship between income inequalityand use of dental services. Of the two indicators of disinvestment in health careassessed, only dentist-to-population ratio was associated with income inequalityand use of dental services."
+    
+    * **Political will as a barrier to implementing generated knowledge** **Relate back to median voter theorem** Cite coming of age review.
+    
+    * **Which type of pubic health interventions generate inequalities - downstream (yes) - upstream (no)**  'downstream' preventive interventions are more likely to increase health inequalities than 'upstream' interventions. More consistent reporting of differential intervention effectiveness is required to help build the evidence base on IGIs [@Lorenc2012]
+    
+    * **Effective public health stroke interventions and socioeconomic status** "Those with a lower socioeconomic status have more severe deficits and are less likely to receive evidence-based stroke services, although the results are inconsistent. Poorer people within a population and poorer countries globally are most affected in terms of incidence and poor outcomes of stroke. Innovative prevention strategies targeting people in low socioeconomic groups are required along with effective measures to promote access to effective stroke interventions worldwide. (Stroke. 2012;43:1186-1191.)" [@Addo2012]
+    
+    * **Non-communicable diseases and socioeconomic inequality** [@DeCesare2013] (1) "In most countries, people who have a low socioeconomic status and those who live in poor or marginalised communities have a higher risk of dying from non-communicable diseases (NCDs) than do more advantaged groups and communities.". "Effective actions to reduce NCD inequalities include equitable early childhood development programmes and education; removal of barriers to secure employment in disadvantaged groups; comprehensive strategies for tobacco and alcohol control and for dietary salt reduction that target low socioeconomic status groups; universal, financially and physically accessible, high-quality primary care for delivery of preventive interventions and for early detection and treatment of NCDs; and universal insurance and other mechanisms to remove fi nancial barriers to health care."
+    
+    * **LOCAL**
+    
+    * **Whitehall study I and II** [@Marmot1991] "The Whitehall study of British civil servants begun in 1967, showed a steep inverse association between social class, as assessed by grade of employment, and mortality from a wide range of diseases." The same pattern was consistently found 20 years later.
+    
+    * [@Pickett2001]
+    
+    * The evidence for modest neighbourhood effects on health is fairly consistent despite heterogeneity of study designs, substitution of local area measures for neighbourhood measures and probable measurement error. By drawing public health attention to the health risks associated with the social structure and ecology of neighbourhoods, innovative approaches to community level interventions may ensue.
+    
+    * The Haves, the Have-Nots, and the Health of Everyone: The Relationship Between Social Inequality and Environmental Quality  Annual Review of Public Health, 2014 [@]
+        * SUMMARY POINTS
+        * 1. Evidence supporting the equality/sustainability hypothesis suggests that social inequality is bad for the environment, which may in turn explain why societies with more inequality appear to be less healthy.
+        * 2. Social inequality may degrade the environment through asymmetries in political power that affect who experiences the benefits and harms of pollution.
+        * 3. Social inequality may also worsen environmental quality by increasing the environmental intensity of a society's consumption or decreasing social cohesion and the willingness to cooperate to protect common resources.
+        * 4. Evidence of a negative association between social inequality and environmental quality appears strongest for localized air pollutants and markers of access to safe water and sanitation, and weaker for more dispersed pollutants, such as CO2, and other measures of water quality.
+        * 5. The evidence linking inequality with worse environmental quality is more consistent in within-country studies from the United States than in between-country studies, perhaps because the former benefit from a greater consistency in data and the fact that the larger political and development contexts are held fixed.
+        * 6. Challenges to conducting this research include the fact that inequality changes slowly over time so that longitudinal effects are hard to estimate and the fact that nonlinear effects and effect modifiers appear to play a part.
+        * 7. Although the evidence remains somewhat mixed and more research is needed, there are intriguing indications that reducing social inequality may not only help those who are most exposed to health-damaging pollutants but may also improve environmental conditions for all.
+
+* Local hotspots of economic inequality is correlated with loss of biodiversity [@Mikkelson2007; @Holland2009] and poverty hotspots exhibit poorer environmental quality and hence opportunities for improving public health [@Cushing2015]
+
+* Economic inequality leads to mental stresses and loss of social capital whihc results in largely unsustainable economic growth based on short-sighted compensatory consumer behavior [@Bartolini2014].
+
+* **Epidemological evidence for income inequality and public health** - [@Pickett2015]
+
+    * There is a very large literature examining income inequality in relation to health. Early reviews came to different interpretations of the evidence, though a large majority of studies reported that health tended to be worse in more unequal societies. More recent studies, not included in those reviews, provide substantial new evidence.
+    
+    * Key points
+    
+    * Evidence that income inequality is associated with worse health is reviewed.
+    
+    * It meets established epidemiological and other scientific criteria for causality.
+    
+    * The causal processes may extend to violence and other problems with social gradients.
+    
+    * Reducing income inequality will improve population health and wellbeing.
+
+* **Income inequality and mental health**
+
+    * *The evolution of mental health in Spain during the economic crisis.* [@Bartoli2014]
+    
+    * *Income inequality and mental health--empirical evidence from Australia.* [@Bechtel2012]
+        
+        * *We find that mental health is only adversely affected by the presence of relative deprivation to a very small degree. In addition we do not find support for the Income Inequality Hypothesis*
+        
+    * Poverty, inequality and a political economy of mental health [@Burns2015]
+            
+        * In particular, neoliberal (market-oriented) political doctrines lead to both increased income inequality and reduced social cohesion. In conclusion, understanding the relationships between politics, poverty, inequality and mental health outcomes requires us to develop a robust, evidence-based ‚Äòpolitical economy of mental health.‚Äô
+        
+    * "Social determinants of mental health" [@WorldHealthOrganization2014]
+        
+        * Mental health and many common mental disorders are shaped to a great extent by the social, economic, and physical environments in which people live.
+            
+        * Social inequalities are associated with increased risk of many common mental disorders.
+            
+        * scientific consensus is considerable that giving every child the best possible start will generate the greatest societal and mental health benefits.
+            
+        * Action needs to be universal: across the whole of society, and proportionate to need in order to level the social gradient in health outcomes.
+            
+    * **Stress and Health: Major Findings and Policy Implications** [@Thoits2010] Third, minority group members are additionally harmed by discrimination stress. Fourth, stressors proliferate over the life course and across generations, widening health gaps between advantaged and disadvantaged group members. Fifth, the impacts of stressors on health and well-being are reduced when persons have high levels of mastery, self-esteem, and/or social support. With respect to policy, to help individuals cope with adversity, tried and true coping and support interventions should be more widely disseminated and employed. To address health inequalities, the structural conditions that put people at risk of stressors should be a focus of programs and policies at macro and meso levels of intervention. Programs and policies also should target children who are at lifetime risk of ill health and distress due to exposure to poverty and stressful family circumstances.
+    
+    * **Mention ongoing research on the different effects of relative poverty (national inequality) vs absolute poverty (global inequality)** Evidence is reported for both cases, but not all studies find a result of relative inequality (threshold function?).
+    
+    * **Also still research on order of causality**
+
+
+    * **Notes to integrate**
+    
+        * Unequal localities - mental health and stress for rising in the social hierarchy
+
+        * Tim Jackson - social hierarchy
+    
+        * Spirit level - book - Wilkinson, R.G., Pickett, K., 2010b. The Spirit Level: Why Equality Is Better for Everyone. Penguin, London.
+    
+        * *Conspicuous consumption* - Consuming to be seen and get status.
+    
+            * Thorstein Veblen
+        
+            * Veblen goods
+    
+    
+
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 3.3 Financial innovation for sustainability?
+
+- Regulatory escape or innovating for sustainability
+    - Cases:
+    - World Bank reformed guidelines
+    - Green Bonds
+
+
+
+
+<br><br>
+
+<br><br>
+
+*notes*
+
+***Financial innovation and sustainabiltiy***
+
+<br><br>
+
+
+
+* **Financial innovation under global change** Global socio-economic and environmental change puts a constant pressure on public and private companies to innovate their model of operation. Beyond companies have to make sure they appeal to the changing norms and composition of society and secondly, to adapt to changing environmental conditions as a result of global enviornmental changes.
+
+* Innovation of financial instruments can be used both to achieve goals of the actors at the expense of others, to achieve joint goals of stakeholders and actors, or for a primarily altruistic purpose (*link to relevant sustainability science literature*).
+
+* *General research question:*
+    
+    * What comes first in guiding innovative financial behaviours - the social and environmental consideration - or considerations about short or long-term financial revenue?
+    
+        * Does it matter for the sustainability outcome?
+
+    * *Examples of environmental change driving corporate investment behavior*
+
+        * *The Texas drought* caused GAP to cut its profit forecasts by 22%
+
+        * Increasing raw material prices for cotton made *H&M* change its cotton source (??? correct note ???)
+
+        * Markets for compensation - biodiversity off-setting (*The Biodiversity Consultancy*)
+
+        * *Clean Waer Act* - requires wetland mitigation - total market value on the order of billions of US dollars
+
+        * *Unilever* certified tea - increased sales w/ 12 %
+
+        * *Alfa Laval** - "new technology beefs up share price"
+
+        * Paper with KPMG "Identifying natural capital risk and maternality" directed at CFOs
+
+
+<br><br>
+
+***Innovation of investments for sustainability***
+
+* **Role of private and corporate capital** Non-governmental financial investments are playing an increasing role in addressing concerns related to social and environmental sustainaiblity, in the developing as well as the developed world [**REF**]. Philanthropy has played a role in ensuring environmental, social and economic sustainability for centuries. Associated with the increase in the role of private investments has been an increasing diversification of types of investments for sustainability [**REF**].  From the well-known micro-financing strategies [**REF**] to green bond markets and other types of investment for impact [**REF**].
+
+* Sustainability science needs to embrace these recent developments by asking a number of research and solution-oriented questions: (1) How effective are private financial investments in ensuring positive sustainability-related outcomes, compared to, for example, governnmental investments?; (2) Which types of private financial investments are most effective in various geographical areas and in solving different sustainability-challenges.
+
+* **The positive potential for socio-environmental responsible investments** 
+
+    * *Research question* Elucidate the degree to which responsible investment programmes improve prospects for local and global sustainability.
+
+    * *Cases*
+
+    * PRI - Principles for Responsible Investment (45 trillion signed up to principles)
+    
+    * 2011 Engagement with retailers around sustainable seafod
+    
+    * 2013 Engagement with retailers around palm oil production
+            
+    * Deutsche Bank was helping China Tuna with an IPO to raise USD 150 mil
+    
+    * The IPO was based on 
+        
+        * incorrect info to investors
+        
+        * ecosystem limits disregarded
+
+    * Divestment in socio-environmentally unsustainable stocks
+        
+        * Fossil fuels
+            
+    
+    * **Positive instruments of change**
+        
+        * Informal instruments - such as checks and balances by NGO's and consumer awareness groups - VS - legal and publicly regulated agents and istruments
+
+        * Does Shadow pricing by corporations incluence investment and business model behaviour?
+        
+        * **Context of investment**
+        
+        * *Regulatory standards* - "Lack of reporting standards pose a significant barrier to gerater incorporation of natural capital - call for sector based reporting standards
+
+            
+        * *Consumer awareness tools*
+        
+        * *Voluntary corporate disclosure*
+        
+            * Carbon Disclosure Project
+            
+            * http://en.wikipedia.org/wiki/Carbon_Disclosure_Project
+        
+        * *Project finance criteria*
+
+            * International Finance Corporation (private sector arm of World Bank Group)
+
+            * As of 2012 IFc requires projects to maintain ecosystem services benefits and to identify those services that the project is directly dependent upon.
+    
+            * 78 banks with 70% of global project finance to emerging markets follow the IFC pPerformance Standards
+
+            * Clashes of interest between - shareholder interests (short-term) - company (longer-term) - lenders such as banks (???)
+
+            * Natural capital as last step consideration *versus* natural capital as a strategic driver
+
+            * Also clashes in interests between short-term and longer-term investors
+
+
+        * *Financial accounts*
+
+            * Valuing negative (and positive) externalities - shadow pricing - to ultimately incorporate in business balance sheets.
+
+            * Case example - PUMA
+
+
+        * **Coalitions and declarations of financial institutions**
+
+            * *Natural capital declaration*
+
+            * 40+ financial institutions collaborate to - increase awareness - develop methodologies - build consensus for private sector accounting and integrated reporting
+
+        * **Corporate assessments**
+
+            * Natural capital coalition
+    
+        * **Corportate reporting & disclosure**
+
+
+    * **Types of investments**
+        
+        * *Impact investment*
+    
+            * Investment to try and have a positive impact 
+    
+            * Often local initiatives 
+    
+            * *Oryx ipact investments* as an example
+            
+        * *Eco-friendly loans*
+
+        * Insurance
+
+            * Climate change may results in higher home issurances
+
+        * Green bonds (as a new market)
+        
+            * To what extent are "green bonds" something new (a new standard) and to what extent is it a new terminology.
+            
+            * Unilever green bonds - assessments - DNV (VERITAS)  and MCI (kicked it out of green index) 
+            
+            * Everybody sees opportutnities in green bonds - everybody wants to make sure they are actually green - investor has no chance - legislation is lacking behind.
+            
+            * SEB has reached out to SEI to make sure green bonds are green
+            
+            * Mr Green Bond @ SEB
+
+            * In 2013 the total cumulative issurance rose to 19 bill USD
+
+            * In 2014 SEB issed green bonds at a total value of 3.8 bill USD
+
+            * Case ¯rebro municipality, stockholm l‰n, gothenburg city
+
+            * The green bond market has not increased the size of the environmental projects
+        
+            * Instead, the green bond market bundles together all the green projects inorder to diversify the portfolio of lenders
+    
+            * *Key features*
+        
+            * Transparency
+        
+            * Reporting
+        
+            * Third party verification
+
+            * Green bonds also usually has a slightly lower interest rate
+    
+            * *Government bonds implicated*
+
+            * E-risk report by the Global Footprint Network
+
+            * Ecological footprint balance affects import-export balance and the abiility to generate income to pay interests
+
+            * Financing direct positive impact
+
+    * **Financial agents of change**
+        
+        * *Research questions* What is the sustainability potential and impact of different types of owners and agents.
+
+        * *Cases*
+        
+        * **How can FIs contribute**
+
+            * A long list (get slide)
+
+        * Venture capitalists
+
+        * MDB - Multilateral development banks - case of IFC
+            
+            *  Performance standards - has had huge impact huge impact on how projects are financed.
+            
+            *  Standards updated January 2012
+            
+            *	Equator principle bank finance
+            
+            *	Trained by IFC after update
+            
+            *	70 %
+            
+            *	Because of the update, things changed.
+            
+            * Bulk of work - finance for large-scale infrastructure projects - find percentage of spending going to infrastructure vs sustainable development projects - find on websites. Incorporate considerations of the natural environment earlier on, not as a last check.
+            
+            * WAVES project - helps countries account for natural capital. Should facilitate better decisions in foreign direct investments.
+	          
+            * Should influence  "Country assistant strategies" which is the first stage of the planning cycle of the World Bank.
+	          
+            * Does WAVES influence CAS
+
+        * Partnerships between non-profits and FI's
+            
+            * Natural Capital Declaration - three year old initiative
+            
+            *	Not financed by the FI's themselves.
+            
+            *	Now signatories have to pay fee
+            
+        * SEC - Securities and Exchange Commission
+
+        * Stock Exchanges - different rules and regulations - are there first mover examples
+        
+        * MSEI - Index provider - do lot of interesting things internally when it comes to sustainability.
+  
+        * Universal owners
+        
+            * very big institutional investors - national banks, national pension funds etc. etc.
+        
+            * How can *universal owners respond* - universal owners have interest in whole system rather than short-term performance of individual market actors. (Achim Steiner, UNEP Executive Director)
+
+            * Logic: Universal owners should avoid systemic risk.
+
+        * Global clusters of innovation
+
+
+* **notes for integration**
+
+
+    * the positive perspective - see notes from finance and the biosphere seminar
+
+    * the critical perspective - a roving bandits strategy??
+
+        * is financial innvoation a strategy for escaping regulation
+    
+        * black and grey markets
+    
+            * money laundering - tax havens
+    
+        * "black/deviant globalization (book)"
+    
+            * using globalization to evade prosecution
+    
+            * *cross-border crime as a business to benefit from administrative conflicts and inefficiences*
+    
+            * illegal waste dumbing in Italy, starting out as legal waste exports in Germany
+    
+            * Gomorrah movie
+
+
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+
+
+
+
+
+# 4. PATHWAY FOR INTEGRATION OF REAL WORLD ECONOMICS
+
+- Reach out to the full diversity of economics research
+- Work with initiatives that are emphasizing diversity in economics research
+- Other ideas?
+
+
+
+
+<br><br>
+
+<br><br>
+
+***FUTURE PERSPECTIVES AND CONCLUSION***
+
+*Text to be added here.*
+
+<br><br>
+
+* **notes for integration**
+
+    * Integrating with the core of the socio-economic sciences
+
+        * Deeper integration with economic and social sciences
+
+    * Going away from individualism, having a more rich view of how societies function - corruption - brutality - goodness - norms - war & conflict (blind spots - myopias - cognitive disonance - understand the world and see the seeds of good) - decision making / participatory stuff
+
+
+    * Advanced economic modelling (maybe not for this paper)
+
+        * Game theory - Chaos - Buzz Braug -
+
+    * *How can sustainability science go on from here in interacting with a broad set of large real world (socio-)economic and financial issues*
+
+    * Co-production - what happens when scientists collaborate
+
+        * Challenges of co-production
+    
+        * How do you think about having socially good processes, without being over-normative.
+    
+    * Key guideline for what may be considered more controversial bits - looking at the empirical side of things and value diversity
+
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+
+------
+
+# Notes on speeding up the transition
+
+Quotes about, what is sustainability science:
+Science paper definition
+- "require an accelerated transition toward sustainability"
+
+-  How do recent findings from economics and finance inform future sustainability science?
+
+-	Sustainability science has been important in driving economics research
+"three pathways", "third pathway -  research itself must be focused on the character of nature
+
+-society interactions, on our ability to guide those interactions along sustainable trajectories, and on ways of promoting the social learning that will be necessary to navigate the transition to sustainability."
+
+-	Economics is a major determinant for our ability to guide nature-society interactions as it influences our behaviours and life-styles in major ways and therefore also our interface with the natural system.
+
+
+American Sociological Review 2011 "*Financialization refers to two interdependent processes. The first process is financial services firms' increasing importance-in economic, social, and political terms-to U.S. society (Davis 2009). The second process is the linked trajectory of nonftnancial firms' increased involvement in financial activity (Krippner 2011).*"
+
+
+
+
+
+
+
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+# OLD OUTLINE 150507
+
+
+
+
+
+# RECENT ADVANCES
+
+
+<br><br>
+
+
+## Two advances in integrating the earth system in economic accounting
+
+
+<br><br>
+
+
+### Greener economic accounting for natural capital
+
+
+----
+
+<br><br>
+
+
+----
+
+<br><br>
+
+
+# AREAS IN NEED OF ATTENTION
+
+<br><br>
+
+### A framework for structuring research questions on the global dynamics of  the formal and informal economy
+
+Global economic dynamics are influenced by actors at different levels of organization and occur in both the formalized and informal global economy.
+
+
+<br><br>
+
+
+<br><br>
+
+
+
+
+
+
+<br><br>
+
+### International financial transactions and flows
+    
+<br><br>
+
+
+<br><br>
+
+
+### Financial innovation and sustainabiltiy
+
+<br><br>
+
+
+
+* **Financial innovation under global change** Global socio-economic and environmental change puts a constant pressure on public and private companies to innovate their model of operation. Beyond companies have to make sure they appeal to the changing norms and composition of society and secondly, to adapt to changing environmental conditions as a result of global enviornmental changes.
+
+* Innovation of financial instruments can be used both to achieve goals of the actors at the expense of others, to achieve joint goals of stakeholders and actors, or for a primarily altruistic purpose (*link to relevant sustainability science literature*).
+
+* *General research question:*
+    
+    * What comes first in guiding innovative financial behaviours - the social and environmental consideration - or considerations about short or long-term financial revenue?
+    
+        * Does it matter for the sustainability outcome?
+
+    * *Examples of environmental change driving corporate investment behavior*
+
+        * *The Texas drought* caused GAP to cut its profit forecasts by 22%
+
+        * Increasing raw material prices for cotton made *H&M* change its cotton source (??? correct note ???)
+
+        * Markets for compensation - biodiversity off-setting (*The Biodiversity Consultancy*)
+
+        * *Clean Waer Act* - requires wetland mitigation - total market value on the order of billions of US dollars
+
+        * *Unilever* certified tea - increased sales w/ 12 %
+
+        * *Alfa Laval** - "new technology beefs up share price"
+
+        * Paper with KPMG "Identifying natural capital risk and maternality" directed at CFOs
+
+
+<br><br>
+
+#### Innovation of investments for sustainability
+
+* **Role of private and corporate capital** Non-governmental financial investments are playing an increasing role in addressing concerns related to social and environmental sustainaiblity, in the developing as well as the developed world [**REF**]. Philanthropy has played a role in ensuring environmental, social and economic sustainability for centuries. Associated with the increase in the role of private investments has been an increasing diversification of types of investments for sustainability [**REF**].  From the well-known micro-financing strategies [**REF**] to green bond markets and other types of investment for impact [**REF**].
+
+* Sustainability science needs to embrace these recent developments by asking a number of research and solution-oriented questions: (1) How effective are private financial investments in ensuring positive sustainability-related outcomes, compared to, for example, governnmental investments?; (2) Which types of private financial investments are most effective in various geographical areas and in solving different sustainability-challenges.
+
+* **The positive potential for socio-environmental responsible investments** 
+
+    * *Research question* Elucidate the degree to which responsible investment programmes improve prospects for local and global sustainability.
+
+    * *Cases*
+
+    * PRI - Principles for Responsible Investment (45 trillion signed up to principles)
+    
+    * 2011 Engagement with retailers around sustainable seafod
+    
+    * 2013 Engagement with retailers around palm oil production
+            
+    * Deutsche Bank was helping China Tuna with an IPO to raise USD 150 mil
+    
+    * The IPO was based on 
+        
+        * incorrect info to investors
+        
+        * ecosystem limits disregarded
+
+    * Divestment in socio-environmentally unsustainable stocks
+        
+        * Fossil fuels
+            
+    
+    * **Positive instruments of change**
+        
+        * Informal instruments - such as checks and balances by NGO's and consumer awareness groups - VS - legal and publicly regulated agents and istruments
+
+        * Does Shadow pricing by corporations incluence investment and business model behaviour?
+        
+        * **Context of investment**
+        
+        * *Regulatory standards* - "Lack of reporting standards pose a significant barrier to gerater incorporation of natural capital - call for sector based reporting standards
+
+            
+        * *Consumer awareness tools*
+        
+        * *Voluntary corporate disclosure*
+        
+            * Carbon Disclosure Project
+            
+            * http://en.wikipedia.org/wiki/Carbon_Disclosure_Project
+        
+        * *Project finance criteria*
+
+            * International Finance Corporation (private sector arm of World Bank Group)
+
+            * As of 2012 IFc requires projects to maintain ecosystem services benefits and to identify those services that the project is directly dependent upon.
+    
+            * 78 banks with 70% of global project finance to emerging markets follow the IFC pPerformance Standards
+
+            * Clashes of interest between - shareholder interests (short-term) - company (longer-term) - lenders such as banks (???)
+
+            * Natural capital as last step consideration *versus* natural capital as a strategic driver
+
+            * Also clashes in interests between short-term and longer-term investors
+
+
+        * *Financial accounts*
+
+            * Valuing negative (and positive) externalities - shadow pricing - to ultimately incorporate in business balance sheets.
+
+            * Case example - PUMA
+
+
+        * **Coalitions and declarations of financial institutions**
+
+            * *Natural capital declaration*
+
+            * 40+ financial institutions collaborate to - increase awareness - develop methodologies - build consensus for private sector accounting and integrated reporting
+
+        * **Corporate assessments**
+
+            * Natural capital coalition
+    
+        * **Corportate reporting & disclosure**
+
+
+    * **Types of investments**
+        
+        * *Impact investment*
+    
+            * Investment to try and have a positive impact 
+    
+            * Often local initiatives 
+    
+            * *Oryx ipact investments* as an example
+            
+        * *Eco-friendly loans*
+
+        * Insurance
+
+            * Climate change may results in higher home issurances
+
+        * Green bonds (as a new market)
+        
+            * To what extent are "green bonds" something new (a new standard) and to what extent is it a new terminology.
+            
+            * Unilever green bonds - assessments - DNV (VERITAS)  and MCI (kicked it out of green index) 
+            
+            * Everybody sees opportutnities in green bonds - everybody wants to make sure they are actually green - investor has no chance - legislation is lacking behind.
+            
+            * SEB has reached out to SEI to make sure green bonds are green
+            
+            * Mr Green Bond @ SEB
+
+            * In 2013 the total cumulative issurance rose to 19 bill USD
+
+            * In 2014 SEB issed green bonds at a total value of 3.8 bill USD
+
+            * Case ¯rebro municipality, stockholm l‰n, gothenburg city
+
+            * The green bond market has not increased the size of the environmental projects
+        
+            * Instead, the green bond market bundles together all the green projects inorder to diversify the portfolio of lenders
+    
+            * *Key features*
+        
+            * Transparency
+        
+            * Reporting
+        
+            * Third party verification
+
+            * Green bonds also usually has a slightly lower interest rate
+    
+            * *Government bonds implicated*
+
+            * E-risk report by the Global Footprint Network
+
+            * Ecological footprint balance affects import-export balance and the abiility to generate income to pay interests
+
+            * Financing direct positive impact
+
+    * **Financial agents of change**
+        
+        * *Research questions* What is the sustainability potential and impact of different types of owners and agents.
+
+        * *Cases*
+        
+        * **How can FIs contribute**
+
+            * A long list (get slide)
+
+        * Venture capitalists
+
+        * MDB - Multilateral development banks - case of IFC
+            
+            *  Performance standards - has had huge impact huge impact on how projects are financed.
+            
+            *	Standards updated January 2012
+            
+            *	Equator principle bank finance
+            
+            *	Trained by IFC after update
+            
+            *	70 %
+            
+            *	Because of the update, things changed.
+            
+            * Bulk of work - finance for large-scale infrastructure projects - find percentage of spending going to infrastructure vs sustainable development projects - find on websites. Incorporate considerations of the natural environment earlier on, not as a last check.
+            
+            * WAVES project - helps countries account for natural capital. Should facilitate better decisions in foreign direct investments.
+	          
+            * Should influence  "Country assistant strategies" which is the first stage of the planning cycle of the World Bank.
+	          
+            * Does WAVES influence CAS
+
+        * Partnerships between non-profits and FI's
+            
+            * Natural Capital Declaration - three year old initiative
+            
+            *	Not financed by the FI's themselves.
+            
+            *	Now signatories have to pay fee
+            
+        * SEC - Securities and Exchange Commission
+
+        * Stock Exchanges - different rules and regulations - are there first mover examples
+        
+        * MSEI - Index provider - do lot of interesting things internally when it comes to sustainability.
+  
+        * Universal owners
+        
+            * very big institutional investors - national banks, national pension funds etc. etc.
+        
+            * How can *universal owners respond* - universal owners have interest in whole system rather than short-term performance of individual market actors. (Achim Steiner, UNEP Executive Director)
+
+            * Logic: Universal owners should avoid systemic risk.
+
+        * Global clusters of innovation
+
+
+* **notes for integration**
+
+
+    * the positive perspective - see notes from finance and the biosphere seminar
+
+    * the critical perspective - a roving bandits strategy??
+
+        * is financial innvoation a strategy for escaping regulation
+    
+        * black and grey markets
+    
+            * money laundering - tax havens
+    
+        * "black/deviant globalization (book)"
+    
+            * using globalization to evade prosecution
+    
+            * *cross-border crime as a business to benefit from administrative conflicts and inefficiences*
+    
+            * illegal waste dumbing in Italy, starting out as legal waste exports in Germany
+    
+            * Gomorrah movie
+
+
+
+<br><br>
+
+----
+
+<br><br>
+
+
+
+
+<br><br>
+
+----
+
+----
+
+<br><br>
+
+
+
+# Supporting notes
+
+#### Notes on integration
+
+* Emphasis on need to fully integrate economics and finance into sustainability science.
+
+* The current state of sustainability science or (environmental, social and economic sciences) is ripe with example of lack of integration.
+
+    * Examples of lack of integration between ecological, social and economic perspectives:
+
+      * Lack of integration of an explicitly ecological perspective into social sciences and socio-economic policy [@Brown2014, @Burnside2012]
+        
+        * With the implication of overlooking natural resource exploitation as an underlying trend for the "great recession" [@Brown2014]
+
+
+----
+
+### Older snippets
+
+#### INTRO
+
+The concept of capital is important to sustainability science and environmental conservation
+
+* The concept of capital, a term borrowed from economics, is foundational for sustainability science. Natural, social and financial capital distinguishes between the assets possess in currencies of environmental, societal and monetary value. This is one example of an important interplay between sustainability science and economics where sustainability science has adopted central concepts of economics.
+Sustainability science is addressing some research areas of economics
+
+* Sustainability science has begun to address the interplay between economic dynamics/sustainability and socio-environmental sustainability. Examples include, (1) the influence of economic inequality on environmental sustainability, (2) the measurement of economic growth integrating measures of financial capital with social and natural capital.
+
+Sustainability science has been slower to pick up other central lines of economic research
+* However, many central areas of economics has yet to make into integrated sustainability research. These include, (1) the influence of money in politics and how they influence democratic transitions toward sustainability, (2) how international monetary transactions and illicit capital flows influence social and environmental outcomes at their destinations and to what extent this tele-couples econo-socio-environmental dynamics in areas fare apart. 
+
+#### Main body
+
+* Green accounting (progress, next steps)
+
+* Inequality and environmental, social and financial sustainability
+
+
+
+* The role of money in facilitating or slowing down democratic transformations toward sustainability
+
+Perspective
+* From green accounting to national accounts revisions
+
+<br><br>
+
+
+
+
+
+
+----
+
+
+### Even older snippets
+
+
+<br><br>
+
+
+
+#### Title:
+
+* Blind spots: Gaps and recent progress in linking real world economics and sustainability science*
+
+<br><br>
+
+
+
+#### Tenet:
+
+Sustainability science has made good progress in showing the environmental and social effects and limits to current resource use. Yet, the field has had what can best be described as a "blind spot" to the impacts of capital and so-called real world economics on the environmental and social aspects of sustainability.
+
+<br><br>
+
+
+
+#### Format suggestions:
+
+A comment or perspective piece, e.g. for PNAS sustainability science section, or some more realistic target journal. The piece would comment on and highlight recent progress and future potential for stronger integration of real world economics into sustainability science.
+
+Four topics to highlight as gaps or areas of recent progress
+Remaining gaps
+
+* The influence of capital in governance on environmental issues
+
+* International financial flows and consequences for democracy and the environment
+Areas of recent progress?
+
+* The environmental and social sustainability of income distributions (an area of progress?)
+
+* Macroeconomic indicators (an area of progress?)
+
+<br><br>
+
+
+
+
+
+**The influence of finance in environmental decision making**
+
+Main argument: Democracy as a cornerstone in a future Anthropocene that is just, fair and sustainable. 
+
+Research questions: Do elected representatives represent the electorate and the environment? What is the role of vested interest in environmental policy?
+
+Research needs: Studies looking at voting behaviour of elected representatives on environmental issues in relation to campaign financing and total amounts of raised capital and public opinion etc.
+
+
+<br><br>
+
+
+**Illicit financial flows - hidden connections to democracy and the environment?**
+
+Research questions: What is the role of financial flows in and out of countries in affecting foundational aspects of a sustainable future?
+
+1)  Do international investment/money laundering affect aspects of democracy and thus opportunities for sustainability?
+
+2)	What are the direct and indirect impacts of international financial flows? Are they captured by analysis of commodity flows and supply chain/life cycle analysis?
+
+
+<br><br>
+
+
+
+*Resources:*
+
+*	Biocapacity exports and imports (Lenzen, political ecology)
+
+*	Lenzen, M., Moran, D., Kanemoto, K., Foran, B., Lobefaro, L., & Geschke, A. (2012). International trade drives biodiversity threats in developing nations. Nature, 486(7401), 109-112. doi:10.1038/nature11145
+
+*	Lenzen, M., Kanemoto, K., Moran, D., & Geschke, A. (2012). Mapping the structure of the world economy. Environmental Science & Technology, 46(15), 8374-81. doi:10.1021/es300171x
+
+*	Datasets on financial flows (illicit financial flows report/database, Garry has database )
+
+<br><br>
+
+
+
+
+
+**Socio-environmentally sustainable income distributions (an area of recent progress?)**
+
+*Research question:*
+
+Which (post-transfer) income distributions are most sustainable in terms of environment (and other aspects of human wellbeing)?
+
+Recent progress:
+
+Happiness and inequality studies?
+
+GDP growth and inequality studies (does GDP growth increase inequality while decreasing ecosystem and human well-being?)
+
+What are unaddressed gaps here?
+
+
+<br><br>
+
+
+*Resources:*
+
+Garry Peterson publications in PLoS One and Conservation Biology.
+
+What are other important resources Garry?
+
+<br><br>
+
+
+
+
+**The sustainability of macroeconomic indicators (an area of progress?)**
+
+Aim of section: Highlighting progress in reforming macroeconomic indicators of growth to include ecoysytem services and human well-being.
+Research question: I'm not sure what the area for sustainability science is her
+
+Basically I guess this section could be a description of the many known undesirable environmental and societal effects of a pure GDP growth based focus and an analysis of science' role in current progress in changing the policy agenda.
+
+<br><br>
+
+
+*Resources:*
+
+Costanza, R., Kubiszewski, I., Giovannini, E., Lovins, H., McGlade, J., Pickett, K. E., . Wilkinson, R. (2014). Time to leave GDP behind. Nature, 505, 283-285.
+
+And Ida's ecological economics paper and  global environmental change paper
+
+<br><br>
+
+
+------------------
+
+-------------------
+
+<br><br>
+
+
+# REFERENCES
+
+The following literature was cited
+

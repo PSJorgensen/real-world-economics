@@ -6,7 +6,7 @@ html.output.dir<-"G:/Documents/PostDocKVA/Labbook/psjorgensen.github.com/_posts"
 
 project.title<- "real-world-economics"
 
-docs.vec<-c("real-world-economics-outline","real-world-economics-bibliography","finance-sustainability-crashcourse-session2",
+docs.vec<-c("real-world-economics-draft","real-world-economics-outline","real-world-economics-bibliography","finance-sustainability-crashcourse-session2",
             "finance-sustainability-crashcourse-session4","finance-biosphere-seminar3","mtg-garry-work")
 
 htmlpost_switch <- TRUE # TRUE, FALSE
@@ -14,6 +14,13 @@ html_switch <- TRUE # TRUE, FALSE
 md_switch <- TRUE # TRUE, FALSE
 pdf_switch <- TRUE # TRUE, FALSE
 word_switch <- TRUE # TRUE, FALSE
+
+#htmlpost_switch <- FALSE # TRUE, FALSE
+#html_switch <- FALSE # TRUE, FALSE
+#md_switch <- FALSE # TRUE, FALSE
+#pdf_switch <- FALSE # TRUE, FALSE
+#word_switch <- FALSE # TRUE, FALSE
+
 
 setwd(paste(wd,"projects/",project.title,sep=""))
 
